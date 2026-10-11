@@ -6,7 +6,7 @@ A responsive sales CRM interface built with Next.js, React, TypeScript, and Tail
 
 | Screen | Preview |
 | --- | --- |
-| Desktop | ![Desktop](public/design-frames/sales-crm-desktop-1440-1024.svg) |
+| Companies | ![Companies](public/design-frames/sales-crm-desktop-1440-1024.svg) |
 | Deals Board | ![Deals Board](public/design-frames/sales-crm-deals-board-1440-1024.svg) |
 | Forecast | ![Forecast](public/design-frames/sales-crm-forecast-1440-1024.svg) |
 | Activities | ![Activities](public/design-frames/sales-crm-activities-1440-1024.svg) |
