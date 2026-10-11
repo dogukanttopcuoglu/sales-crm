@@ -57,19 +57,19 @@ design-system/       Shared design tokens and snapshots
 
 The source frames were exported from Brilliant as standalone SVG files:
 
-| Screen | SVG |
+| Screen | Preview |
 | --- | --- |
-| Desktop | [sales-crm-desktop-1440-1024.svg](public/design-frames/sales-crm-desktop-1440-1024.svg) |
-| Deals Board | [sales-crm-deals-board-1440-1024.svg](public/design-frames/sales-crm-deals-board-1440-1024.svg) |
-| Forecast | [sales-crm-forecast-1440-1024.svg](public/design-frames/sales-crm-forecast-1440-1024.svg) |
-| Activities | [sales-crm-activities-1440-1024.svg](public/design-frames/sales-crm-activities-1440-1024.svg) |
-| Contacts | [sales-crm-contacts-1440-1024.svg](public/design-frames/sales-crm-contacts-1440-1024.svg) |
-| Email Sequences | [sales-crm-email-sequences-1440-1024.svg](public/design-frames/sales-crm-email-sequences-1440-1024.svg) |
-| Strategic AEs | [sales-crm-strategic-aes-1440-1024.svg](public/design-frames/sales-crm-strategic-aes-1440-1024.svg) |
-| Mid Market | [sales-crm-mid-market-1440-1024.svg](public/design-frames/sales-crm-mid-market-1440-1024.svg) |
-| SDR Team | [sales-crm-sdr-team-1440-1024.svg](public/design-frames/sales-crm-sdr-team-1440-1024.svg) |
-| Q1 Forecast | [sales-crm-q1-forecast-1440-1024.svg](public/design-frames/sales-crm-q1-forecast-1440-1024.svg) |
-| Slipping Deals | [sales-crm-slipping-deals-1440-1024.svg](public/design-frames/sales-crm-slipping-deals-1440-1024.svg) |
-| North America | [sales-crm-north-america-1440-1024.svg](public/design-frames/sales-crm-north-america-1440-1024.svg) |
-| EMEA Enterprise | [sales-crm-emea-enterprise-1440-1024.svg](public/design-frames/sales-crm-emea-enterprise-1440-1024.svg) |
-| APAC Expansion | [sales-crm-apac-expansion-1440-1024.svg](public/design-frames/sales-crm-apac-expansion-1440-1024.svg) |
+| Desktop | ![Desktop](public/design-frames/sales-crm-desktop-1440-1024.svg) |
+| Deals Board | ![Deals Board](public/design-frames/sales-crm-deals-board-1440-1024.svg) |
+| Forecast | ![Forecast](public/design-frames/sales-crm-forecast-1440-1024.svg) |
+| Activities | ![Activities](public/design-frames/sales-crm-activities-1440-1024.svg) |
+| Contacts | ![Contacts](public/design-frames/sales-crm-contacts-1440-1024.svg) |
+| Email Sequences | ![Email Sequences](public/design-frames/sales-crm-email-sequences-1440-1024.svg) |
+| Strategic AEs | ![Strategic AEs](public/design-frames/sales-crm-strategic-aes-1440-1024.svg) |
+| Mid Market | ![Mid Market](public/design-frames/sales-crm-mid-market-1440-1024.svg) |
+| SDR Team | ![SDR Team](public/design-frames/sales-crm-sdr-team-1440-1024.svg) |
+| Q1 Forecast | ![Q1 Forecast](public/design-frames/sales-crm-q1-forecast-1440-1024.svg) |
+| Slipping Deals | ![Slipping Deals](public/design-frames/sales-crm-slipping-deals-1440-1024.svg) |
+| North America | ![North America](public/design-frames/sales-crm-north-america-1440-1024.svg) |
+| EMEA Enterprise | ![EMEA Enterprise](public/design-frames/sales-crm-emea-enterprise-1440-1024.svg) |
+| APAC Expansion | ![APAC Expansion](public/design-frames/sales-crm-apac-expansion-1440-1024.svg) |
