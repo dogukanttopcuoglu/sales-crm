@@ -1,0 +1,49 @@
+{
+  "viewport": {
+    "width": 1440,
+    "height": 1024
+  },
+  "dpr": 1,
+  "visualViewportScale": 1,
+  "documentWidth": 1440,
+  "main": {
+    "x": 288,
+    "y": 198,
+    "width": 1152,
+    "height": 826
+  },
+  "table": {
+    "x": 309,
+    "y": 633,
+    "width": 1110,
+    "height": 357.5
+  },
+  "pipeline": {
+    "x": 308,
+    "y": 300,
+    "width": 724,
+    "height": 260
+  },
+  "target": {
+    "x": 1052,
+    "y": 300,
+    "width": 368,
+    "height": 260
+  },
+  "header": {
+    "x": 288,
+    "y": 0,
+    "width": 1152,
+    "height": 198
+  },
+  "sidebar": {
+    "x": 0,
+    "y": 0,
+    "width": 288,
+    "height": 1024
+  },
+  "headingFontSize": "20px",
+  "inputFontSize": "16px",
+  "cssZoom": "1",
+  "transform": "none"
+}

@@ -1,36 +1,75 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Sales CRM
 
-## Getting Started
+A responsive sales CRM interface built with Next.js, React, TypeScript, and Tailwind CSS. The app includes dashboards, pipeline views, forecast screens, team performance pages, activity management, contacts, and email sequences.
 
-First, run the development server:
+## Included pages
+
+- Companies
+- Deals board
+- Forecast
+- Activities
+- Contacts
+- Email sequences
+- Strategic AEs, Mid Market, and SDR Team
+- Q1 Forecast
+- Slipping Deals
+- North America, EMEA Enterprise, and APAC Expansion
+
+## Features
+
+- Responsive CRM shell with desktop sidebar and mobile navigation
+- Search, filtering, sorting, selection, and pagination
+- Pipeline, forecast, quota, target, and team performance views
+- Reusable cards, tables, headers, filters, badges, avatars, and metrics
+- Local interaction state for common CRM workflows
+- Self-hosted fonts and SVG assets
+
+## Getting started
 
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000).
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Scripts
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+npm run dev        # Start the development server
+npm run lint       # Run ESLint
+npm run build      # Create a production build
+npx tsc --noEmit   # Type-check the project
+npx playwright test
+```
 
-## Learn More
+## Project structure
 
-To learn more about Next.js, take a look at the following resources:
+```text
+app/                 App Router pages and global styles
+components/crm/      Shared CRM components and page views
+public/crm/          Logos, icons, avatars, and other static assets
+artifacts/            Reference images, captures, and reports
+design-system/       Shared design tokens and snapshots
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Brilliant design frames
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+The source frames were exported from Brilliant as standalone SVG files:
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+| Screen | SVG |
+| --- | --- |
+| Desktop | [sales-crm-desktop-1440-1024.svg](public/design-frames/sales-crm-desktop-1440-1024.svg) |
+| Deals Board | [sales-crm-deals-board-1440-1024.svg](public/design-frames/sales-crm-deals-board-1440-1024.svg) |
+| Forecast | [sales-crm-forecast-1440-1024.svg](public/design-frames/sales-crm-forecast-1440-1024.svg) |
+| Activities | [sales-crm-activities-1440-1024.svg](public/design-frames/sales-crm-activities-1440-1024.svg) |
+| Contacts | [sales-crm-contacts-1440-1024.svg](public/design-frames/sales-crm-contacts-1440-1024.svg) |
+| Email Sequences | [sales-crm-email-sequences-1440-1024.svg](public/design-frames/sales-crm-email-sequences-1440-1024.svg) |
+| Strategic AEs | [sales-crm-strategic-aes-1440-1024.svg](public/design-frames/sales-crm-strategic-aes-1440-1024.svg) |
+| Mid Market | [sales-crm-mid-market-1440-1024.svg](public/design-frames/sales-crm-mid-market-1440-1024.svg) |
+| SDR Team | [sales-crm-sdr-team-1440-1024.svg](public/design-frames/sales-crm-sdr-team-1440-1024.svg) |
+| Q1 Forecast | [sales-crm-q1-forecast-1440-1024.svg](public/design-frames/sales-crm-q1-forecast-1440-1024.svg) |
+| Slipping Deals | [sales-crm-slipping-deals-1440-1024.svg](public/design-frames/sales-crm-slipping-deals-1440-1024.svg) |
+| North America | [sales-crm-north-america-1440-1024.svg](public/design-frames/sales-crm-north-america-1440-1024.svg) |
+| EMEA Enterprise | [sales-crm-emea-enterprise-1440-1024.svg](public/design-frames/sales-crm-emea-enterprise-1440-1024.svg) |
+| APAC Expansion | [sales-crm-apac-expansion-1440-1024.svg](public/design-frames/sales-crm-apac-expansion-1440-1024.svg) |

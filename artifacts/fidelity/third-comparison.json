@@ -1,0 +1,75 @@
+{
+  "reference": "Fresh Brilliant MCP PNG exports at 1440 × 1024. Differences include canvas/browser text rasterization.",
+  "report": [
+    {
+      "route": "deals",
+      "changedPixelsOver20": 5.122,
+      "meanMaxChannelDelta": 4.077
+    },
+    {
+      "route": "companies",
+      "changedPixelsOver20": 6.312,
+      "meanMaxChannelDelta": 5.836
+    },
+    {
+      "route": "forecast",
+      "changedPixelsOver20": 4.507,
+      "meanMaxChannelDelta": 4.543
+    },
+    {
+      "route": "activities",
+      "changedPixelsOver20": 4.188,
+      "meanMaxChannelDelta": 3.738
+    },
+    {
+      "route": "contacts",
+      "changedPixelsOver20": 5.964,
+      "meanMaxChannelDelta": 4.468
+    },
+    {
+      "route": "email-sequences",
+      "changedPixelsOver20": 4.713,
+      "meanMaxChannelDelta": 4.334
+    },
+    {
+      "route": "strategic-aes",
+      "changedPixelsOver20": 4.042,
+      "meanMaxChannelDelta": 3.591
+    },
+    {
+      "route": "mid-market",
+      "changedPixelsOver20": 3.959,
+      "meanMaxChannelDelta": 3.585
+    },
+    {
+      "route": "sdr-team",
+      "changedPixelsOver20": 3.775,
+      "meanMaxChannelDelta": 3.367
+    },
+    {
+      "route": "q1-forecast",
+      "changedPixelsOver20": 4.108,
+      "meanMaxChannelDelta": 4.025
+    },
+    {
+      "route": "slipping-deals",
+      "changedPixelsOver20": 4.77,
+      "meanMaxChannelDelta": 4.232
+    },
+    {
+      "route": "north-america",
+      "changedPixelsOver20": 3.623,
+      "meanMaxChannelDelta": 3.054
+    },
+    {
+      "route": "emea-enterprise",
+      "changedPixelsOver20": 3.666,
+      "meanMaxChannelDelta": 3.104
+    },
+    {
+      "route": "apac-expansion",
+      "changedPixelsOver20": 3.632,
+      "meanMaxChannelDelta": 3.082
+    }
+  ]
+}

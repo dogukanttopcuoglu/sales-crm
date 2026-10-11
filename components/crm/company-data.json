@@ -1,0 +1,330 @@
+[
+  {
+    "name": "LVMH row",
+    "text": [
+      "LVMH",
+      "Enterprise",
+      "Upsell",
+      "+2",
+      "Sarah Nguyen",
+      "7",
+      "$ 420,000",
+      "70%"
+    ],
+    "avatar": "Assets/image (1).jpg"
+  },
+  {
+    "name": "Disney row",
+    "text": [
+      "Disney",
+      "Enterprise",
+      "New Logo",
+      "James Taylor",
+      "4",
+      "$ 311,242",
+      "51%"
+    ],
+    "avatar": "Assets/image (17).jpg"
+  },
+  {
+    "name": "Paypal row",
+    "text": [
+      "Paypal",
+      "Enterprise",
+      "Maria Keller",
+      "5",
+      "$ 124,232",
+      "22%"
+    ],
+    "avatar": "Assets/image (2).jpg"
+  },
+  {
+    "name": "United Airlines row",
+    "text": [
+      "United Airlines",
+      "Renewal",
+      "Nia Jameson",
+      "2",
+      "$ 221,231",
+      "77%"
+    ],
+    "avatar": "Assets/image (10).jpg"
+  },
+  {
+    "name": "Apple row",
+    "text": [
+      "Apple",
+      "Pilot",
+      "Alex Santos",
+      "6",
+      "$ 530,111",
+      "82%"
+    ],
+    "avatar": "Assets/image.jpg"
+  },
+  {
+    "name": "Microsoft row",
+    "text": [
+      "Microsoft",
+      "Strategic",
+      "Expansion",
+      "Mark Darnalds",
+      "8",
+      "$ 320,222",
+      "86%"
+    ],
+    "avatar": "Assets/image (7).jpg"
+  },
+  {
+    "name": "Airbnb row",
+    "text": [
+      "Airbnb",
+      "Upsell",
+      "Expansion",
+      "+2",
+      "Drew Nash",
+      "3",
+      "$ 122,230",
+      "51%"
+    ],
+    "avatar": "Assets/image (4).jpg"
+  },
+  {
+    "name": "Intercom row",
+    "text": [
+      "Intercom",
+      "Enterprise",
+      "Mid-Market",
+      "Lina Wong",
+      "5",
+      "$ 230,112",
+      "61%"
+    ],
+    "avatar": "Assets/image (6).jpg"
+  },
+  {
+    "name": "Attio row",
+    "text": [
+      "Attio",
+      "Mid-Market",
+      "Upsell",
+      "+2",
+      "Jamie Fox",
+      "2",
+      "$ 420,222",
+      "38%"
+    ],
+    "avatar": "Assets/image (9).jpg"
+  },
+  {
+    "name": "Google row",
+    "text": [
+      "Google",
+      "SMB",
+      "Enterprise",
+      "+2",
+      "Kate Chen",
+      "8",
+      "$ 112,277",
+      "24%"
+    ],
+    "avatar": "Assets/image (8).jpg"
+  },
+  {
+    "name": "Netflix row",
+    "text": [
+      "Netflix",
+      "Mid-Market",
+      "Ricky Brown",
+      "3",
+      "$ 221,221",
+      "72%"
+    ],
+    "avatar": "Assets/image (15).jpg"
+  },
+  {
+    "name": "Spotify row",
+    "text": [
+      "Spotify",
+      "Land & Expand",
+      "+2",
+      "Hannah Mills",
+      "5",
+      "$ 170,991",
+      "55%"
+    ],
+    "avatar": "Assets/image (3).jpg"
+  },
+  {
+    "name": "Shopify row",
+    "text": [
+      "Shopify",
+      "Co-Sell",
+      "Expansion",
+      "Emma Green",
+      "9",
+      "$ 139,007",
+      "45%"
+    ],
+    "avatar": "Assets/image (12).jpg"
+  },
+  {
+    "name": "Zoom row",
+    "text": [
+      "Zoom",
+      "Expansion",
+      "+2",
+      "Oliver Chan",
+      "8",
+      "$ 289,921",
+      "38%"
+    ],
+    "avatar": "Assets/image (16).jpg"
+  },
+  {
+    "name": "Slack row",
+    "text": [
+      "Slack",
+      "Mid-Market",
+      "Co-Sell",
+      "Ava Brooks",
+      "4",
+      "$ 333,221",
+      "23%"
+    ],
+    "avatar": "Assets/image (13).jpg"
+  },
+  {
+    "name": "Stripe row",
+    "text": [
+      "Stripe",
+      "Expansion",
+      "SMB",
+      "+2",
+      "Noah Lee",
+      "3",
+      "$ 442,231",
+      "44%"
+    ],
+    "avatar": "Assets/image (18).jpg"
+  },
+  {
+    "name": "Snowflake row",
+    "text": [
+      "Snowflake",
+      "Enterprise",
+      "Mid-Market",
+      "Grace Miller",
+      "6",
+      "$ 520,000",
+      "24%"
+    ],
+    "avatar": "Assets/image (14).jpg"
+  },
+  {
+    "name": "SAP row",
+    "text": [
+      "SAP",
+      "Enterprise",
+      "Expansion",
+      "Mark Daniels",
+      "5",
+      "$ 510,000",
+      "85%"
+    ],
+    "avatar": "Assets/image (1).jpg"
+  },
+  {
+    "name": "Siemens row",
+    "text": [
+      "Siemens",
+      "Enterprise",
+      "Strategic",
+      "Grace Miller",
+      "4",
+      "$ 410,000",
+      "75%"
+    ],
+    "avatar": "Assets/image (14).jpg"
+  },
+  {
+    "name": "Adyen row",
+    "text": [
+      "Adyen",
+      "Mid-Market",
+      "New Logo",
+      "Alex Morgan",
+      "3",
+      "$ 320,000",
+      "45%"
+    ],
+    "avatar": "Assets/image (1).jpg"
+  },
+  {
+    "name": "Revolut row",
+    "text": [
+      "Revolut",
+      "Enterprise",
+      "Expansion",
+      "James Taylor",
+      "4",
+      "$ 380,000",
+      "55%"
+    ],
+    "avatar": "Assets/image (17).jpg"
+  },
+  {
+    "name": "Miro row",
+    "text": [
+      "Miro",
+      "Mid-Market",
+      "Upsell",
+      "Noah Lee",
+      "3",
+      "$ 240,000",
+      "25%"
+    ],
+    "avatar": "Assets/image (18).jpg"
+  },
+  {
+    "name": "Atlassian row",
+    "text": [
+      "Atlassian",
+      "Enterprise",
+      "Expansion",
+      "Sarah Nguyen",
+      "6",
+      "$ 465,000",
+      "68%"
+    ],
+    "avatar": "Assets/image (1).jpg"
+  },
+  {
+    "name": "Datadog row",
+    "text": [
+      "Datadog",
+      "Enterprise",
+      "Pilot",
+      "Emma Davis",
+      "2",
+      "$ 185,000",
+      "42%"
+    ],
+    "avatar": "Assets/image (1).jpg"
+  },
+  {
+    "name": "HubSpot row",
+    "text": ["HubSpot","Mid-Market","Renewal","Maria Keller","4","$ 275,000","72%"],
+    "avatar": "Assets/image (2).jpg"
+  },
+  {"name":"Oracle row","text":["Oracle","Enterprise","Expansion","Sarah Nguyen","7","$ 610,000","79%"],"avatar":"Assets/image (1).jpg"},
+  {"name":"Adobe row","text":["Adobe","Enterprise","Upsell","James Taylor","5","$ 390,000","64%"],"avatar":"Assets/image (17).jpg"},
+  {"name":"Twilio row","text":["Twilio","Mid-Market","New Logo","Maria Keller","4","$ 198,000","48%"],"avatar":"Assets/image (2).jpg"},
+  {"name":"Notion row","text":["Notion","SMB","Expansion","Alex Santos","3","$ 156,000","57%"],"avatar":"Assets/image.jpg"},
+  {"name":"Figma row","text":["Figma","Mid-Market","Co-Sell","Lina Wong","6","$ 284,000","66%"],"avatar":"Assets/image (6).jpg"},
+  {"name":"Cisco row","text":["Cisco","Enterprise","Renewal","Mark Daniels","8","$ 720,000","88%"],"avatar":"Assets/image (7).jpg"},
+  {"name":"ZoomInfo row","text":["ZoomInfo","Mid-Market","Pilot","Ricky Brown","2","$ 142,000","31%"],"avatar":"Assets/image (15).jpg"},
+  {"name":"GitLab row","text":["GitLab","Enterprise","Strategic","Emma Green","5","$ 356,000","74%"],"avatar":"Assets/image (12).jpg"},
+  {"name":"MongoDB row","text":["MongoDB","Enterprise","Expansion","Oliver Chan","6","$ 488,000","69%"],"avatar":"Assets/image (16).jpg"},
+  {"name":"Asana row","text":["Asana","Mid-Market","Upsell","Hannah Mills","3","$ 210,000","52%"],"avatar":"Assets/image (3).jpg"}
+]

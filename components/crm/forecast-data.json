@@ -1,0 +1,68 @@
+[
+  {
+    "text": [
+      "Alex Santos",
+      "Apple",
+      "$ 530,111",
+      "82%",
+      "$ 434,691",
+      "Commit"
+    ],
+    "avatar": "Assets/image.jpg"
+  },
+  {
+    "text": [
+      "Sarah Nguyen",
+      "LVMH",
+      "$ 420,000",
+      "70%",
+      "$ 294,000",
+      "Best case"
+    ],
+    "avatar": "Assets/image (1).jpg"
+  },
+  {
+    "text": [
+      "Mark Darnalds",
+      "Microsoft",
+      "$ 320,222",
+      "86%",
+      "$ 275,391",
+      "Commit"
+    ],
+    "avatar": "Assets/image (7).jpg"
+  },
+  {
+    "text": [
+      "Noah Lee",
+      "Stripe",
+      "$ 442,231",
+      "44%",
+      "$ 194,582",
+      "Best case"
+    ],
+    "avatar": "Assets/image (18).jpg"
+  },
+  {
+    "text": [
+      "Nia Jameson",
+      "United Airlines",
+      "$ 221,231",
+      "77%",
+      "$ 170,348",
+      "Commit"
+    ],
+    "avatar": "Assets/image (10).jpg"
+  },
+  {
+    "text": [
+      "Grace Brooks",
+      "Snowflake",
+      "$ 520,000",
+      "31%",
+      "$ 161,200",
+      "Best case"
+    ],
+    "avatar": "Assets/image (14).jpg"
+  }
+]

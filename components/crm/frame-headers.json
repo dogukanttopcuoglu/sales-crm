@@ -1,0 +1,229 @@
+{
+  "Activities": {
+    "badge": {
+      "gap": 14.680000000000007,
+      "width": 78.87,
+      "height": 24,
+      "textColor": "var(--crm-color-on-surface)",
+      "fontSize": 14,
+      "dot": true,
+      "dotSize": 8
+    },
+    "primaryWidth": 142,
+    "secondaryWidth": 104,
+    "actionGap": 12,
+    "filters": {
+      "Type": 189,
+      "Owner": 184,
+      "Due date": 194,
+      "Search activities": 215
+    }
+  },
+  "APAC Expansion": {
+    "badge": null,
+    "primaryWidth": 116,
+    "actionGap": 12,
+    "filters": {
+      "Owner": 184,
+      "Close date": 193,
+      "Search opportunities": 225
+    }
+  },
+  "Contacts": {
+    "badge": {
+      "gap": 15.010000000000005,
+      "width": 66.25,
+      "height": 24,
+      "textColor": "var(--crm-color-palette-cb4b4b4)",
+      "fontSize": 11,
+      "dot": false,
+      "dotSize": 4
+    },
+    "primaryWidth": 131,
+    "secondaryWidth": 98,
+    "actionGap": 12,
+    "filters": {
+      "Company": 217,
+      "Owner": 170,
+      "Role": 157,
+      "Search contacts": 215
+    }
+  },
+  "Deals Board": {
+    "badge": {
+      "gap": 15.629999999999995,
+      "width": 68.39,
+      "height": 24,
+      "textColor": "var(--crm-color-on-surface)",
+      "fontSize": 14,
+      "dot": true,
+      "dotSize": 8
+    },
+    "primaryWidth": 116,
+    "actionGap": 12,
+    "filters": {
+      "Pipeline": 219,
+      "Owner": 184,
+      "Close date": 215,
+      "Search deals": 188
+    }
+  },
+  "Email Sequences": {
+    "badge": {
+      "gap": 10.5,
+      "width": 67,
+      "height": 24,
+      "textColor": "var(--crm-color-palette-cb4b4b4)",
+      "fontSize": 11,
+      "dot": true,
+      "dotSize": 7
+    },
+    "primaryWidth": 151,
+    "secondaryWidth": 130,
+    "actionGap": 12,
+    "filters": {
+      "Owner": 170,
+      "Period": 196,
+      "Search sequences": 230
+    }
+  },
+  "EMEA Enterprise": {
+    "badge": null,
+    "primaryWidth": 116,
+    "actionGap": 12,
+    "filters": {
+      "Owner": 184,
+      "Close date": 193,
+      "Search opportunities": 225
+    }
+  },
+  "Forecast": {
+    "badge": {
+      "gap": 11.079999999999998,
+      "width": 54.07,
+      "height": 24,
+      "textColor": "var(--crm-color-on-surface)",
+      "fontSize": 14,
+      "dot": true,
+      "dotSize": 8
+    },
+    "updatedGap": 40.150000000000006,
+    "primaryWidth": 161,
+    "secondaryWidth": 96,
+    "actionGap": 12,
+    "filters": {
+      "Period": 171,
+      "Pipeline": 219,
+      "Owner": 184,
+      "By owner": 225
+    }
+  },
+  "Mid Market": {
+    "badge": {
+      "gap": 11.069999999999993,
+      "width": 72.7,
+      "height": 24,
+      "textColor": "var(--crm-color-palette-cb4b4b4)",
+      "fontSize": 11,
+      "dot": false,
+      "dotSize": 4
+    },
+    "primaryWidth": 138,
+    "secondaryWidth": 96,
+    "actionGap": 4,
+    "filters": {
+      "Period": 171,
+      "Region": 205,
+      "Search team or accounts": 250
+    }
+  },
+  "North America": {
+    "badge": null,
+    "primaryWidth": 116,
+    "actionGap": 12,
+    "filters": {
+      "Owner": 184,
+      "Close date": 193,
+      "Search opportunities": 225
+    }
+  },
+  "Q1 Forecast": {
+    "badge": {
+      "gap": 14.069999999999993,
+      "width": 69.78,
+      "height": 24,
+      "textColor": "var(--crm-color-palette-cb4b4b4)",
+      "fontSize": 11,
+      "dot": true,
+      "dotSize": 6
+    },
+    "updatedGap": 58.72,
+    "primaryWidth": 161,
+    "secondaryWidth": 96,
+    "actionGap": 12,
+    "filters": {
+      "Period": 171,
+      "Pipeline": 212,
+      "Owner": 170,
+      "Deals": 225
+    }
+  },
+  "SDR Team": {
+    "badge": {
+      "gap": 9.790000000000006,
+      "width": 72.7,
+      "height": 24,
+      "textColor": "var(--crm-color-palette-cb4b4b4)",
+      "fontSize": 11,
+      "dot": false,
+      "dotSize": 4
+    },
+    "primaryWidth": 138,
+    "secondaryWidth": 96,
+    "actionGap": 4,
+    "filters": {
+      "Period": 171,
+      "Region": 205,
+      "Search team or leads": 250
+    }
+  },
+  "Slipping Deals": {
+    "badge": {
+      "gap": 7.930000000000007,
+      "width": 66.55,
+      "height": 24,
+      "textColor": "var(--crm-color-error)",
+      "fontSize": 11,
+      "dot": true,
+      "dotSize": 6
+    },
+    "primaryWidth": 130,
+    "secondaryWidth": 96,
+    "actionGap": 12,
+    "filters": {
+      "Pipeline": 212,
+      "Owner": 170,
+      "Close date": 188,
+      "Search slipping deals": 225
+    }
+  },
+  "Strategic AEs": {
+    "badge": {
+      "gap": 10.590000000000003,
+      "width": 72.7,
+      "height": 24,
+      "textColor": "var(--crm-color-palette-cb4b4b4)",
+      "fontSize": 11,
+      "dot": false,
+      "dotSize": 4
+    },
+    "primaryWidth": 138,
+    "secondaryWidth": 96,
+    "actionGap": 4,
+    "filters": {
+      "Period": 171,
+      "Region": 205,
+      "Search team or accounts": 250
+    }
+  }
+}

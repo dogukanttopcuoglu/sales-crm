@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="92" height="92" viewBox="0 0 92 92" role="img" aria-label="Sales CRM logo">
+  <g fill="#f2f2f2">
+    <circle cx="29" cy="29" r="13"/>
+    <circle cx="63" cy="29" r="13" opacity="0.78"/>
+    <circle cx="29" cy="63" r="13" opacity="0.78"/>
+    <circle cx="63" cy="63" r="13"/>
+  </g>
+</svg>

@@ -1,0 +1,825 @@
+{
+  "source": "Styles/sales-crm-dark.ds",
+  "modes": {
+    "theme": "dark",
+    "density": "compact"
+  },
+  "tokens": {
+    "success": "#79B49A",
+    "success.50": "#F3F6F4",
+    "success.100": "#EAEFED",
+    "success.200": "#D5E1DB",
+    "success.300": "#BED4C9",
+    "success.400": "#9EC3B2",
+    "success.500": "#79B49A",
+    "success.600": "#47866C",
+    "success.700": "#306751",
+    "success.800": "#23503E",
+    "success.900": "#163729",
+    "success.950": "#0C2219",
+    "success.bold": "#306751",
+    "success.faint": "#EAEFED",
+    "success.firm": "#47866C",
+    "success.hint": "#F3F6F4",
+    "success.intense": "#163729",
+    "success.mid": "#79B49A",
+    "success.soft": "#BED4C9",
+    "success.strong": "#23503E",
+    "success.subtle": "#D5E1DB",
+    "warning": "#CEB773",
+    "warning.50": "#F6F5F2",
+    "warning.100": "#F2F0E9",
+    "warning.200": "#E8E3D5",
+    "warning.300": "#E0D7BE",
+    "warning.400": "#D6C79D",
+    "warning.500": "#CEB773",
+    "warning.600": "#9D8124",
+    "warning.700": "#796000",
+    "warning.800": "#5D4900",
+    "warning.900": "#3E3000",
+    "warning.950": "#251C00",
+    "warning.bold": "#796000",
+    "warning.faint": "#F2F0E9",
+    "warning.firm": "#9D8124",
+    "warning.hint": "#F6F5F2",
+    "warning.intense": "#3E3000",
+    "warning.mid": "#CEB773",
+    "warning.soft": "#E0D7BE",
+    "warning.strong": "#5D4900",
+    "warning.subtle": "#E8E3D5",
+    "info": "#A9BBD9",
+    "info.50": "#F8F8F9",
+    "info.100": "#F4F5F7",
+    "info.200": "#EBEEF2",
+    "info.300": "#DCE2EB",
+    "info.400": "#C6D1E2",
+    "info.500": "#A9BBD9",
+    "info.600": "#7186A9",
+    "info.700": "#526483",
+    "info.800": "#3D4C66",
+    "info.900": "#273245",
+    "info.950": "#161D29",
+    "info.bold": "#526483",
+    "info.faint": "#F4F5F7",
+    "info.firm": "#7186A9",
+    "info.hint": "#F8F8F9",
+    "info.intense": "#273245",
+    "info.mid": "#A9BBD9",
+    "info.soft": "#DCE2EB",
+    "info.strong": "#3D4C66",
+    "info.subtle": "#EBEEF2",
+    "neutral": "#777777",
+    "neutral.50": "#F8F8F8",
+    "neutral.100": "#F1F1F1",
+    "neutral.200": "#E2E2E2",
+    "neutral.300": "#C8C8C8",
+    "neutral.400": "#A4A4A4",
+    "neutral.500": "#777777",
+    "neutral.600": "#595959",
+    "neutral.700": "#464646",
+    "neutral.800": "#393939",
+    "neutral.900": "#292929",
+    "neutral.950": "#1D1D1D",
+    "neutral.bold": "#464646",
+    "neutral.faint": "#F1F1F1",
+    "neutral.firm": "#595959",
+    "neutral.hint": "#F8F8F8",
+    "neutral.intense": "#292929",
+    "neutral.mid": "#777777",
+    "neutral.soft": "#C8C8C8",
+    "neutral.strong": "#393939",
+    "neutral.subtle": "#E2E2E2",
+    "color.chart.forecast": "#D5BD57",
+    "color.chart.track": "#303030",
+    "color.error": "#D88F94",
+    "color.error.container": "#34262A",
+    "color.icon": "#9B9B9B",
+    "color.icon.muted": "#777777",
+    "color.icon.selected": "#CCCCCC",
+    "color.info": "#A9BBD9",
+    "color.info.container": "#26303E",
+    "color.on-primary": "#232015",
+    "color.on-surface": "#DDDDDD",
+    "color.on-surface.selected": "#EEEEEE",
+    "color.outline": "#303030",
+    "color.outline.control": "#393939",
+    "color.outline.divider": "#2A2A2A",
+    "color.outline.selected": "#414141",
+    "color.outline.variant": "#292929",
+    "color.palette.c15372a": "#15372A",
+    "color.palette.c1b2c3e": "#1B2C3E",
+    "color.palette.c1d392d": "#1D392D",
+    "color.palette.c1e1f20": "#1E1F20",
+    "color.palette.c1e352b": "#1E352B",
+    "color.palette.c21451d": "#21451D",
+    "color.palette.c232323": "#232323",
+    "color.palette.c24322d": "#24322D",
+    "color.palette.c245c43": "#245C43",
+    "color.palette.c252525": "#252525",
+    "color.palette.c26241b": "#26241B",
+    "color.palette.c26251e": "#26251E",
+    "color.palette.c26b99f": "#26B99F",
+    "color.palette.c27271f": "#27271F",
+    "color.palette.c27322c": "#27322C",
+    "color.palette.c28213f": "#28213F",
+    "color.palette.c282828": "#282828",
+    "color.palette.c282e35": "#282E35",
+    "color.palette.c28b99d": "#28B99D",
+    "color.palette.c294058": "#294058",
+    "color.palette.c2b2b2b": "#2B2B2B",
+    "color.palette.c2b4d3b": "#2B4D3B",
+    "color.palette.c2c253b": "#2C253B",
+    "color.palette.c2c2c2c": "#2C2C2C",
+    "color.palette.c2c5427": "#2C5427",
+    "color.palette.c2d2934": "#2D2934",
+    "color.palette.c2eba7e": "#2EBA7E",
+    "color.palette.c303027": "#303027",
+    "color.palette.c332d23": "#332D23",
+    "color.palette.c333333": "#333333",
+    "color.palette.c343434": "#343434",
+    "color.palette.c353535": "#353535",
+    "color.palette.c35b783": "#35B783",
+    "color.palette.c363636": "#363636",
+    "color.palette.c373737": "#373737",
+    "color.palette.c383838": "#383838",
+    "color.palette.c38b783": "#38B783",
+    "color.palette.c39331a": "#39331A",
+    "color.palette.c3a261a": "#3A261A",
+    "color.palette.c3a281b": "#3A281B",
+    "color.palette.c3d3d3d": "#3D3D3D",
+    "color.palette.c3f1c20": "#3F1C20",
+    "color.palette.c454545": "#454545",
+    "color.palette.c46b779": "#46B779",
+    "color.palette.c48396a": "#48396A",
+    "color.palette.c4a4a4a": "#4A4A4A",
+    "color.palette.c514824": "#514824",
+    "color.palette.c565656": "#565656",
+    "color.palette.c57262c": "#57262C",
+    "color.palette.c59b86d": "#59B86D",
+    "color.palette.c60402d": "#60402D",
+    "color.palette.c666666": "#666666",
+    "color.palette.c686868": "#686868",
+    "color.palette.c696969": "#696969",
+    "color.palette.c6b6b6b": "#6B6B6B",
+    "color.palette.c707070": "#707070",
+    "color.palette.c727272": "#727272",
+    "color.palette.c737373": "#737373",
+    "color.palette.c747474": "#747474",
+    "color.palette.c767676": "#767676",
+    "color.palette.c76b69e": "#76B69E",
+    "color.palette.c78ad93": "#78AD93",
+    "color.palette.c7dbd63": "#7DBD63",
+    "color.palette.c7e7e7e": "#7E7E7E",
+    "color.palette.c7f7f7f": "#7F7F7F",
+    "color.palette.c80b9a2": "#80B9A2",
+    "color.palette.c838383": "#838383",
+    "color.palette.c848484": "#848484",
+    "color.palette.c858585": "#858585",
+    "color.palette.c8c7778": "#8C7778",
+    "color.palette.c909090": "#909090",
+    "color.palette.c91a9be": "#91A9BE",
+    "color.palette.c929292": "#929292",
+    "color.palette.c94c6b3": "#94C6B3",
+    "color.palette.c999999": "#999999",
+    "color.palette.c9a9a9a": "#9A9A9A",
+    "color.palette.c9cc9b4": "#9CC9B4",
+    "color.palette.c9dceb7": "#9DCEB7",
+    "color.palette.ca0a0a0": "#A0A0A0",
+    "color.palette.ca1aec2": "#A1AEC2",
+    "color.palette.ca293b9": "#A293B9",
+    "color.palette.ca5a5a5": "#A5A5A5",
+    "color.palette.ca5c2df": "#A5C2DF",
+    "color.palette.ca6a6a6": "#A6A6A6",
+    "color.palette.ca8b6ca": "#A8B6CA",
+    "color.palette.ca8ce58": "#A8CE58",
+    "color.palette.caaaaaa": "#AAAAAA",
+    "color.palette.cababab": "#ABABAB",
+    "color.palette.cafd4a6": "#AFD4A6",
+    "color.palette.cb4b4b4": "#B4B4B4",
+    "color.palette.cb6a46c": "#B6A46C",
+    "color.palette.cb6a5de": "#B6A5DE",
+    "color.palette.cb7a6d5": "#B7A6D5",
+    "color.palette.cb9b9b9": "#B9B9B9",
+    "color.palette.cbdb2d5": "#BDB2D5",
+    "color.palette.cc2a475": "#C2A475",
+    "color.palette.cc2c2c2": "#C2C2C2",
+    "color.palette.cc4b6da": "#C4B6DA",
+    "color.palette.cc58d91": "#C58D91",
+    "color.palette.cc9c9c9": "#C9C9C9",
+    "color.palette.ccbb66d": "#CBB66D",
+    "color.palette.ccecece": "#CECECE",
+    "color.palette.ccf8c91": "#CF8C91",
+    "color.palette.cd0ad7c": "#D0AD7C",
+    "color.palette.cd2a783": "#D2A783",
+    "color.palette.cd3c48a": "#D3C48A",
+    "color.palette.cd3d3d3": "#D3D3D3",
+    "color.palette.cd5b798": "#D5B798",
+    "color.palette.cd7d7d7": "#D7D7D7",
+    "color.palette.cdba1aa": "#DBA1AA",
+    "color.palette.cddc351": "#DDC351",
+    "color.palette.cddd545": "#DDD545",
+    "color.palette.cdedede": "#DEDEDE",
+    "color.palette.ce0c34e": "#E0C34E",
+    "color.palette.ce1e1e1": "#E1E1E1",
+    "color.palette.ce2e2e2": "#E2E2E2",
+    "color.palette.ce5e5e5": "#E5E5E5",
+    "color.palette.ce6c75d": "#E6C75D",
+    "color.palette.ce77986": "#E77986",
+    "color.palette.ce98482": "#E98482",
+    "color.palette.ce9a16c": "#E9A16C",
+    "color.palette.cedbd55": "#EDBD55",
+    "color.palette.cefd047": "#EFD047",
+    "color.palette.cffda32": "#FFDA32",
+    "color.primary": "#FFDC35",
+    "color.primary.container": "#342F23",
+    "color.region.apac": "#A269ED",
+    "color.region.emea": "#ED4389",
+    "color.region.northamerica": "#FFDC35",
+    "color.shadow": "#000000",
+    "color.stage.discovery": "#A9BBD9",
+    "color.stage.negotiation": "#63B398",
+    "color.stage.proposal": "#B9A8DF",
+    "color.stage.qualified": "#868686",
+    "color.status.bestcase": "#B9A8DF",
+    "color.status.bestcase.container": "#2F263F",
+    "color.status.commit": "#6AB79C",
+    "color.status.commit.container": "#1C392B",
+    "color.success": "#79B49A",
+    "color.success.container": "#26362E",
+    "color.surface": "#161616",
+    "color.surface.chart": "#1D1D1D",
+    "color.surface.container": "#1C1C1C",
+    "color.surface.container.high": "#202020",
+    "color.surface.deal": "#222222",
+    "color.surface.hover": "#242424",
+    "color.surface.input": "#191919",
+    "color.surface.pressed": "#262626",
+    "color.surface.selected": "#292929",
+    "color.surface.sidebar": "#171717",
+    "color.surface.table.heading": "#202020",
+    "color.surface.table.selected": "#25251F",
+    "color.text.caption": "#777777",
+    "color.text.disabled": "#515151",
+    "color.text.heading": "#EEEEEE",
+    "color.text.link": "#B8B8B8",
+    "color.text.muted": "#888888",
+    "color.text.primary": "#DDDDDD",
+    "color.text.secondary": "#BBBBBB",
+    "color.timeline": "#FFFFFF",
+    "color.timeline.selected": "#FFDC35",
+    "color.warning": "#CEB773",
+    "color.warning.container": "#342F23",
+    "danger": "#D88F94",
+    "danger.50": "#F8F4F4",
+    "danger.100": "#F3ECEC",
+    "danger.200": "#EAD9DA",
+    "danger.300": "#E4C5C7",
+    "danger.400": "#DDABAE",
+    "danger.500": "#D88F94",
+    "danger.600": "#A95F66",
+    "danger.700": "#84454B",
+    "danger.800": "#68353A",
+    "danger.900": "#482226",
+    "danger.950": "#2E1416",
+    "danger.bold": "#84454B",
+    "danger.faint": "#F3ECEC",
+    "danger.firm": "#A95F66",
+    "danger.hint": "#F8F4F4",
+    "danger.intense": "#482226",
+    "danger.mid": "#D88F94",
+    "danger.soft": "#E4C5C7",
+    "danger.strong": "#68353A",
+    "danger.subtle": "#EAD9DA",
+    "primary": "#FFDC35",
+    "primary.50": "#F8F5EA",
+    "primary.100": "#F8F3E1",
+    "primary.200": "#F6EFCF",
+    "primary.300": "#F7EAB5",
+    "primary.400": "#F9E48A",
+    "primary.500": "#FFDC35",
+    "primary.600": "#B69B00",
+    "primary.700": "#877200",
+    "primary.800": "#655500",
+    "primary.900": "#413500",
+    "primary.950": "#241D00",
+    "primary.bold": "#877200",
+    "primary.faint": "#F8F3E1",
+    "primary.firm": "#B69B00",
+    "primary.hint": "#F8F5EA",
+    "primary.intense": "#413500",
+    "primary.mid": "#FFDC35",
+    "primary.soft": "#F7EAB5",
+    "primary.strong": "#655500",
+    "primary.subtle": "#F6EFCF",
+    "spacing.1": 4,
+    "spacing.2": 8,
+    "spacing.3": 12,
+    "spacing.4": 16,
+    "spacing.5": 20,
+    "spacing.6": 24,
+    "spacing.7": 32,
+    "spacing.8": 48,
+    "spacing.9": 64,
+    "spacing.10": 40,
+    "spacing.11": 44,
+    "spacing.12": 48,
+    "spacing.13": 52,
+    "spacing.14": 56,
+    "spacing.15": 60,
+    "spacing.16": 64,
+    "spacing.17": 68,
+    "spacing.18": 72,
+    "spacing.19": 76,
+    "spacing.20": 80,
+    "spacing.21": 84,
+    "spacing.22": 88,
+    "spacing.23": 92,
+    "spacing.24": 96,
+    "spacing.25": 100,
+    "spacing.26": 104,
+    "spacing.27": 108,
+    "spacing.28": 112,
+    "spacing.29": 116,
+    "spacing.2xl": 24,
+    "spacing.30": 120,
+    "spacing.31": 124,
+    "spacing.32": 128,
+    "spacing.3xl": 32,
+    "spacing.4xl": 48,
+    "spacing.5xl": 64,
+    "spacing.badge.gap": 5,
+    "spacing.brand.gap": 3,
+    "spacing.control.inset": 11,
+    "spacing.control.vertical": 13,
+    "spacing.filter.gap": 22,
+    "spacing.hairline": 1,
+    "spacing.icon.gap": 10,
+    "spacing.lg": 16,
+    "spacing.link.icon": 7,
+    "spacing.md": 12,
+    "spacing.metric.caption.top": 39,
+    "spacing.metric.label.top": 8,
+    "spacing.metric.value.top": 27,
+    "spacing.navigation.inset": 14,
+    "spacing.none": 0,
+    "spacing.page.inset": 20,
+    "spacing.panel.side": 20,
+    "spacing.panel.top": 18,
+    "spacing.section.gap": 20,
+    "spacing.sidebar.heading": 8,
+    "spacing.sm": 8,
+    "spacing.tight": 6,
+    "spacing.xl": 20,
+    "spacing.xs": 4,
+    "radius.1": 2,
+    "radius.2": 5,
+    "radius.2xl": 16,
+    "radius.3": 7,
+    "radius.3xl": 24,
+    "radius.4": 9,
+    "radius.5": 12,
+    "radius.6": 16,
+    "radius.7": 24,
+    "radius.badge": 12,
+    "radius.chart": 3,
+    "radius.chart.end": 5,
+    "radius.control": 7,
+    "radius.filter": 24,
+    "radius.full": 9999,
+    "radius.glyph": 0.75,
+    "radius.lg": 9,
+    "radius.md": 7,
+    "radius.metric": 7,
+    "radius.none": 0,
+    "radius.panel": 9,
+    "radius.segment": 0.6,
+    "radius.sm": 5,
+    "radius.xl": 12,
+    "radius.xs": 2,
+    "font.family": "Inter",
+    "font.family.sans": "Inter",
+    "font.letterSpacing.1": -0.05,
+    "font.letterSpacing.2": -0.025,
+    "font.letterSpacing.3": -0.0125,
+    "font.letterSpacing.4": 0,
+    "font.letterSpacing.5": 0.025,
+    "font.letterSpacing.6": 0.1,
+    "font.letterSpacing.loose": 0.1,
+    "font.letterSpacing.none": -0.05,
+    "font.letterSpacing.normal": 0,
+    "font.letterSpacing.relaxed": 0.025,
+    "font.letterSpacing.snug": -0.0125,
+    "font.letterSpacing.tight": -0.025,
+    "font.lineHeight.1": 1,
+    "font.lineHeight.2": 1.18,
+    "font.lineHeight.3": 1.2,
+    "font.lineHeight.4": 1.21,
+    "font.lineHeight.5": 1.23,
+    "font.lineHeight.6": 1.25,
+    "font.lineHeight.body": 1.25,
+    "font.lineHeight.brand": 1.24,
+    "font.lineHeight.control": 1.21,
+    "font.lineHeight.label": 1.18,
+    "font.lineHeight.loose": 1.25,
+    "font.lineHeight.metric": 1.22,
+    "font.lineHeight.navigation": 1.19,
+    "font.lineHeight.none": 1,
+    "font.lineHeight.normal": 1.21,
+    "font.lineHeight.page": 1.2,
+    "font.lineHeight.relaxed": 1.23,
+    "font.lineHeight.snug": 1.2,
+    "font.lineHeight.table": 1.23,
+    "font.lineHeight.tight": 1.18,
+    "font.size.1": 10,
+    "font.size.2": 11,
+    "font.size.2xl": 16,
+    "font.size.3": 12,
+    "font.size.4": 13,
+    "font.size.5": 14,
+    "font.size.6": 16,
+    "font.size.7": 20,
+    "font.size.8": 23,
+    "font.size.9": 28,
+    "font.size.10": 32,
+    "font.size.3xl": 20,
+    "font.size.4xl": 23,
+    "font.size.5xl": 28,
+    "font.size.6xl": 32,
+    "font.size.7xl": 50,
+    "font.size.8xl": 60,
+    "font.size.9xl": 80,
+    "font.size.base": 10,
+    "font.size.brand": 17,
+    "font.size.caption": 10,
+    "font.size.control": 14,
+    "font.size.display": 22,
+    "font.size.hero": 30,
+    "font.size.label": 11,
+    "font.size.large": 18,
+    "font.size.lg": 13,
+    "font.size.link": 12,
+    "font.size.md": 12,
+    "font.size.metric": 23,
+    "font.size.micro": 8,
+    "font.size.page": 20,
+    "font.size.section": 16,
+    "font.size.sm": 11,
+    "font.size.table": 13,
+    "font.size.tag": 15,
+    "font.size.target": 28,
+    "font.size.target.hero": 34,
+    "font.size.tiny": 9,
+    "font.size.xl": 14,
+    "font.size.xs": 10,
+    "font.weight.1": 100,
+    "font.weight.2": 200,
+    "font.weight.3": 300,
+    "font.weight.4": 400,
+    "font.weight.5": 500,
+    "font.weight.6": 600,
+    "font.weight.7": 700,
+    "font.weight.8": 800,
+    "font.weight.9": 900,
+    "font.weight.bold": 700,
+    "font.weight.faint": 200,
+    "font.weight.firm": 600,
+    "font.weight.hint": 100,
+    "font.weight.intense": 900,
+    "font.weight.medium": 500,
+    "font.weight.mid": 500,
+    "font.weight.regular": 400,
+    "font.weight.semibold": 600,
+    "font.weight.soft": 400,
+    "font.weight.strong": 800,
+    "font.weight.subtle": 300,
+    "visibility.1": 0.05,
+    "visibility.2": 0.1,
+    "visibility.3": 0.2,
+    "visibility.4": 0.4,
+    "visibility.5": 0.5,
+    "visibility.6": 0.6,
+    "visibility.7": 0.8,
+    "visibility.8": 0.9,
+    "visibility.9": 0.95,
+    "visibility.bold": 0.8,
+    "visibility.faint": 0.1,
+    "visibility.firm": 0.6,
+    "visibility.hint": 0.05,
+    "visibility.intense": 0.95,
+    "visibility.invisible": 0,
+    "visibility.mid": 0.5,
+    "visibility.opaque": 1,
+    "visibility.soft": 0.4,
+    "visibility.strong": 0.9,
+    "visibility.subtle": 0.2,
+    "stroke.width.0": 0,
+    "stroke.width.0.5": 0.25,
+    "stroke.width.1": 0.5,
+    "stroke.width.2": 0.75,
+    "stroke.width.3": 1,
+    "stroke.width.4": 1.25,
+    "stroke.width.5": 1.5,
+    "stroke.width.6": 2,
+    "stroke.width.7": 2.5,
+    "stroke.width.8": 3,
+    "stroke.width.9": 4,
+    "stroke.width.bold": 2.5,
+    "stroke.width.control": 1,
+    "stroke.width.faint": 0.75,
+    "stroke.width.firm": 2,
+    "stroke.width.hairline": 0.25,
+    "stroke.width.hint": 0.5,
+    "stroke.width.intense": 4,
+    "stroke.width.mid": 1.5,
+    "stroke.width.none": 0,
+    "stroke.width.soft": 1.25,
+    "stroke.width.strong": 3,
+    "stroke.width.subtle": 1,
+    "typography.badge": {
+      "fontFamily": "Inter",
+      "fontSize": 11,
+      "fontWeight": 400,
+      "lineHeight": 1.18
+    },
+    "typography.body": {
+      "fontFamily": "Inter",
+      "fontSize": 14,
+      "fontWeight": 400,
+      "lineHeight": 1.21
+    },
+    "typography.button": {
+      "fontFamily": "Inter",
+      "fontSize": 14,
+      "fontWeight": 600,
+      "lineHeight": 1.21
+    },
+    "typography.caption": {
+      "fontFamily": "Inter",
+      "fontSize": 10,
+      "fontWeight": 400,
+      "lineHeight": 1.2
+    },
+    "typography.label": {
+      "fontFamily": "Inter",
+      "fontSize": 11,
+      "fontWeight": 400,
+      "lineHeight": 1.18
+    },
+    "typography.link": {
+      "fontFamily": "Inter",
+      "fontSize": 12,
+      "fontWeight": 500,
+      "lineHeight": 1.25
+    },
+    "typography.metric": {
+      "fontFamily": "Inter",
+      "fontSize": 23,
+      "fontWeight": 500,
+      "lineHeight": 1.22
+    },
+    "typography.page": {
+      "fontFamily": "Inter",
+      "fontSize": 20,
+      "fontWeight": 500,
+      "lineHeight": 1.2
+    },
+    "typography.section": {
+      "fontFamily": "Inter",
+      "fontSize": 16,
+      "fontWeight": 500,
+      "lineHeight": 1.25
+    },
+    "typography.table": {
+      "fontFamily": "Inter",
+      "fontSize": 13,
+      "fontWeight": 400,
+      "lineHeight": 1.23
+    },
+    "typography.table.strong": {
+      "fontFamily": "Inter",
+      "fontSize": 13,
+      "fontWeight": 500,
+      "lineHeight": 1.23
+    },
+    "typography.target": {
+      "fontFamily": "Inter",
+      "fontSize": 28,
+      "fontWeight": 500,
+      "lineHeight": 1.21
+    },
+    "avatar.photo": {
+      "radius": 9999
+    },
+    "badge.bestcase": {
+      "radius": 12,
+      "fills": [
+        {
+          "color": "#2F263F"
+        }
+      ]
+    },
+    "badge.commit": {
+      "radius": 12,
+      "fills": [
+        {
+          "color": "#1C392B"
+        }
+      ]
+    },
+    "badge.error": {
+      "radius": 12,
+      "fills": [
+        {
+          "color": "#34262A"
+        }
+      ]
+    },
+    "badge.success": {
+      "radius": 12,
+      "fills": [
+        {
+          "color": "#26362E"
+        }
+      ]
+    },
+    "badge.warning": {
+      "radius": 12,
+      "fills": [
+        {
+          "color": "#342F23"
+        }
+      ]
+    },
+    "button.primary": {
+      "radius": 7,
+      "fills": [
+        {
+          "color": "#FFDC35"
+        }
+      ]
+    },
+    "button.secondary": {
+      "radius": 7,
+      "fills": [
+        {
+          "color": "#202020"
+        }
+      ]
+    },
+    "card.deal": {
+      "radius": 7,
+      "fills": [
+        {
+          "color": "#222222"
+        }
+      ]
+    },
+    "card.metric": {
+      "radius": 7,
+      "fills": [
+        {
+          "color": "#202020"
+        }
+      ],
+      "strokes": null,
+      "effects": null
+    },
+    "card.panel": {
+      "radius": 9,
+      "fills": [
+        {
+          "color": "#1C1C1C"
+        }
+      ]
+    },
+    "input.filter": {
+      "radius": 24,
+      "fills": [
+        {
+          "color": "#202020"
+        }
+      ]
+    },
+    "input.search": {
+      "radius": 7,
+      "fills": [
+        {
+          "color": "#191919"
+        }
+      ]
+    },
+    "navigation.selected": {
+      "radius": 9,
+      "fills": [
+        {
+          "color": "#292929"
+        }
+      ]
+    },
+    "progress.track": {
+      "radius": 9999,
+      "fills": [
+        {
+          "color": "#303030"
+        }
+      ]
+    },
+    "layout.body.bottom": {
+      "$default": 1004
+    },
+    "layout.body.top": {
+      "$default": 300
+    },
+    "layout.companies.table.height": {
+      "$default": 806
+    },
+    "layout.content.left": {
+      "$default": 308
+    },
+    "layout.content.width": {
+      "$default": 1112
+    },
+    "layout.desktop.height": {
+      "$default": 1024
+    },
+    "layout.desktop.width": {
+      "$default": 1440
+    },
+    "layout.header.height": {
+      "$default": 198
+    },
+    "layout.metrics.top": {
+      "$default": 218
+    },
+    "layout.panel.aside.width": {
+      "$default": 368
+    },
+    "layout.panel.main.width": {
+      "$default": 724
+    },
+    "layout.sidebar.width": {
+      "$default": 288
+    },
+    "size.avatar.contact": {
+      "$default": 32
+    },
+    "size.avatar.detail": {
+      "$default": 48
+    },
+    "size.avatar.row": {
+      "$default": 26
+    },
+    "size.avatar.small": {
+      "$default": 22
+    },
+    "size.button.height": {
+      "$default": 36
+    },
+    "size.companies.row": {
+      "$default": 44.8235294117647
+    },
+    "size.filter.height": {
+      "$default": 37
+    },
+    "size.icon.control": {
+      "$default": 16
+    },
+    "size.icon.link": {
+      "$default": 10
+    },
+    "size.metric.height": {
+      "$default": 64
+    },
+    "size.metric.width": {
+      "$default": 266
+    },
+    "size.nav.row": {
+      "$default": 39
+    },
+    "size.table.row": {
+      "$default": 40
+    },
+    "size.table.row.detail": {
+      "$default": 46
+    },
+    "$pin": [
+      "color.primary",
+      "color.on-primary",
+      "color.surface",
+      "color.surface.sidebar",
+      "color.surface.container",
+      "color.surface.container.high",
+      "color.text.primary",
+      "color.text.secondary",
+      "color.text.muted",
+      "color.outline",
+      "color.success",
+      "color.warning",
+      "color.error",
+      "color.stage.qualified",
+      "color.stage.discovery",
+      "color.stage.proposal",
+      "color.stage.negotiation"
+    ]
+  }
+}

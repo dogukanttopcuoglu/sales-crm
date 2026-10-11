@@ -1,0 +1,7168 @@
+[
+  {
+    "route": "deals",
+    "width": 1440,
+    "errors": [],
+    "viewport": [
+      1440,
+      1024
+    ],
+    "documentWidth": 1440,
+    "header": {
+      "x": 288,
+      "y": 0,
+      "width": 1152,
+      "height": 198
+    },
+    "main": {
+      "x": 288,
+      "y": 198,
+      "width": 1152,
+      "height": 826
+    },
+    "sections": [
+      {
+        "label": "Qualified deals",
+        "x": 308,
+        "y": 274,
+        "width": 266,
+        "height": 740
+      },
+      {
+        "label": "Discovery deals",
+        "x": 590,
+        "y": 274,
+        "width": 266,
+        "height": 740
+      },
+      {
+        "label": "Proposal deals",
+        "x": 872,
+        "y": 274,
+        "width": 266,
+        "height": 740
+      },
+      {
+        "label": "Negotiation deals",
+        "x": 1154,
+        "y": 274,
+        "width": 266,
+        "height": 740
+      }
+    ],
+    "metrics": [],
+    "text": [
+      {
+        "text": "Deals Board",
+        "x": 308,
+        "y": 26,
+        "width": 115.375,
+        "height": 24,
+        "size": "20px"
+      },
+      {
+        "text": "4",
+        "x": 407.96875,
+        "y": 284,
+        "width": 22,
+        "height": 20,
+        "size": "12px"
+      },
+      {
+        "text": "Paypal",
+        "x": 328,
+        "y": 348,
+        "width": 48.78125,
+        "height": 18,
+        "size": "15px"
+      },
+      {
+        "text": "$ 124,232",
+        "x": 328,
+        "y": 395,
+        "width": 94.28125,
+        "height": 24,
+        "size": "20px"
+      },
+      {
+        "text": "Enterprise",
+        "x": 455,
+        "y": 395.5,
+        "width": 99,
+        "height": 23,
+        "size": "11px"
+      },
+      {
+        "text": "Oct 16",
+        "x": 510,
+        "y": 438.5,
+        "width": 44,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "Google",
+        "x": 328,
+        "y": 484,
+        "width": 51.6875,
+        "height": 18,
+        "size": "15px"
+      },
+      {
+        "text": "$ 112,277",
+        "x": 328,
+        "y": 531,
+        "width": 88.8125,
+        "height": 24,
+        "size": "20px"
+      },
+      {
+        "text": "SMB",
+        "x": 455,
+        "y": 531.5,
+        "width": 99,
+        "height": 23,
+        "size": "11px"
+      },
+      {
+        "text": "Oct 14",
+        "x": 510,
+        "y": 574.5,
+        "width": 44,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "Slack",
+        "x": 328,
+        "y": 620,
+        "width": 39.578125,
+        "height": 18,
+        "size": "15px"
+      },
+      {
+        "text": "$ 333,221",
+        "x": 328,
+        "y": 667,
+        "width": 94.453125,
+        "height": 24,
+        "size": "20px"
+      },
+      {
+        "text": "Mid-Market",
+        "x": 455,
+        "y": 667.5,
+        "width": 99,
+        "height": 23,
+        "size": "11px"
+      },
+      {
+        "text": "Oct 19",
+        "x": 510,
+        "y": 710.5,
+        "width": 44,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "Snowflake",
+        "x": 328,
+        "y": 756,
+        "width": 75.875,
+        "height": 18,
+        "size": "15px"
+      },
+      {
+        "text": "$ 520,000",
+        "x": 328,
+        "y": 803,
+        "width": 99.28125,
+        "height": 24,
+        "size": "20px"
+      },
+      {
+        "text": "Enterprise",
+        "x": 455,
+        "y": 803.5,
+        "width": 99,
+        "height": 23,
+        "size": "11px"
+      },
+      {
+        "text": "Oct 21",
+        "x": 510,
+        "y": 846.5,
+        "width": 44,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "4",
+        "x": 697.140625,
+        "y": 284,
+        "width": 22,
+        "height": 20,
+        "size": "12px"
+      },
+      {
+        "text": "Attio",
+        "x": 610,
+        "y": 348,
+        "width": 34.109375,
+        "height": 18,
+        "size": "15px"
+      },
+      {
+        "text": "$ 420,222",
+        "x": 610,
+        "y": 395,
+        "width": 99.125,
+        "height": 24,
+        "size": "20px"
+      },
+      {
+        "text": "Mid-Market",
+        "x": 737,
+        "y": 395.5,
+        "width": 99,
+        "height": 23,
+        "size": "11px"
+      },
+      {
+        "text": "Oct 22",
+        "x": 792,
+        "y": 438.5,
+        "width": 44,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "Zoom",
+        "x": 610,
+        "y": 484,
+        "width": 41.5625,
+        "height": 18,
+        "size": "15px"
+      },
+      {
+        "text": "$ 289,921",
+        "x": 610,
+        "y": 531,
+        "width": 94.34375,
+        "height": 24,
+        "size": "20px"
+      },
+      {
+        "text": "Expansion",
+        "x": 737,
+        "y": 531.5,
+        "width": 99,
+        "height": 23,
+        "size": "11px"
+      },
+      {
+        "text": "Oct 18",
+        "x": 792,
+        "y": 574.5,
+        "width": 44,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "Shopify",
+        "x": 610,
+        "y": 620,
+        "width": 56.015625,
+        "height": 18,
+        "size": "15px"
+      },
+      {
+        "text": "$ 139,007",
+        "x": 610,
+        "y": 667,
+        "width": 93.546875,
+        "height": 24,
+        "size": "20px"
+      },
+      {
+        "text": "Co-Sell",
+        "x": 737,
+        "y": 667.5,
+        "width": 99,
+        "height": 23,
+        "size": "11px"
+      },
+      {
+        "text": "Oct 17",
+        "x": 792,
+        "y": 710.5,
+        "width": 44,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "Stripe",
+        "x": 610,
+        "y": 756,
+        "width": 43.265625,
+        "height": 18,
+        "size": "15px"
+      },
+      {
+        "text": "$ 442,231",
+        "x": 610,
+        "y": 803,
+        "width": 96.0625,
+        "height": 24,
+        "size": "20px"
+      },
+      {
+        "text": "Expansion",
+        "x": 737,
+        "y": 803.5,
+        "width": 99,
+        "height": 23,
+        "size": "11px"
+      },
+      {
+        "text": "Oct 20",
+        "x": 792,
+        "y": 846.5,
+        "width": 44,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "5",
+        "x": 970.46875,
+        "y": 284,
+        "width": 22,
+        "height": 20,
+        "size": "12px"
+      },
+      {
+        "text": "Disney",
+        "x": 892,
+        "y": 348,
+        "width": 49.59375,
+        "height": 18,
+        "size": "15px"
+      },
+      {
+        "text": "$ 311,242",
+        "x": 892,
+        "y": 395,
+        "width": 90.921875,
+        "height": 24,
+        "size": "20px"
+      },
+      {
+        "text": "Enterprise",
+        "x": 1019,
+        "y": 395.5,
+        "width": 99,
+        "height": 23,
+        "size": "11px"
+      },
+      {
+        "text": "Oct 15",
+        "x": 1074,
+        "y": 438.5,
+        "width": 44,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "Airbnb",
+        "x": 892,
+        "y": 484,
+        "width": 48.984375,
+        "height": 18,
+        "size": "15px"
+      },
+      {
+        "text": "$ 122,230",
+        "x": 892,
+        "y": 531,
+        "width": 95.046875,
+        "height": 24,
+        "size": "20px"
+      },
+      {
+        "text": "Upsell",
+        "x": 1019,
+        "y": 531.5,
+        "width": 99,
+        "height": 23,
+        "size": "11px"
+      },
+      {
+        "text": "Oct 20",
+        "x": 1074,
+        "y": 574.5,
+        "width": 44,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "Intercom",
+        "x": 892,
+        "y": 620,
+        "width": 64.359375,
+        "height": 18,
+        "size": "15px"
+      },
+      {
+        "text": "$ 230,112",
+        "x": 892,
+        "y": 667,
+        "width": 88.734375,
+        "height": 24,
+        "size": "20px"
+      },
+      {
+        "text": "Enterprise",
+        "x": 1019,
+        "y": 667.5,
+        "width": 99,
+        "height": 23,
+        "size": "11px"
+      },
+      {
+        "text": "Oct 21",
+        "x": 1074,
+        "y": 710.5,
+        "width": 44,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "Spotify",
+        "x": 892,
+        "y": 756,
+        "width": 52.140625,
+        "height": 18,
+        "size": "15px"
+      },
+      {
+        "text": "$ 170,991",
+        "x": 892,
+        "y": 803,
+        "width": 89.4375,
+        "height": 24,
+        "size": "20px"
+      },
+      {
+        "text": "Land & Expand",
+        "x": 1019,
+        "y": 803.5,
+        "width": 99,
+        "height": 23,
+        "size": "11px"
+      },
+      {
+        "text": "Oct 16",
+        "x": 1074,
+        "y": 846.5,
+        "width": 44,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "LVMH",
+        "x": 892,
+        "y": 892,
+        "width": 43.3125,
+        "height": 18,
+        "size": "15px"
+      },
+      {
+        "text": "$ 420,000",
+        "x": 892,
+        "y": 939,
+        "width": 100.34375,
+        "height": 24,
+        "size": "20px"
+      },
+      {
+        "text": "Enterprise",
+        "x": 1019,
+        "y": 939.5,
+        "width": 99,
+        "height": 23,
+        "size": "11px"
+      },
+      {
+        "text": "Oct 14",
+        "x": 1074,
+        "y": 982.5,
+        "width": 44,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "4",
+        "x": 1271.53125,
+        "y": 284,
+        "width": 22,
+        "height": 20,
+        "size": "12px"
+      },
+      {
+        "text": "Apple",
+        "x": 1174,
+        "y": 348,
+        "width": 42.4375,
+        "height": 18,
+        "size": "15px"
+      },
+      {
+        "text": "$ 530,111",
+        "x": 1174,
+        "y": 395,
+        "width": 84.4375,
+        "height": 24,
+        "size": "20px"
+      },
+      {
+        "text": "Pilot",
+        "x": 1301,
+        "y": 395.5,
+        "width": 99,
+        "height": 23,
+        "size": "11px"
+      },
+      {
+        "text": "Today",
+        "x": 1356,
+        "y": 438.5,
+        "width": 44,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "Microsoft",
+        "x": 1174,
+        "y": 484,
+        "width": 69.203125,
+        "height": 18,
+        "size": "15px"
+      },
+      {
+        "text": "$ 320,222",
+        "x": 1174,
+        "y": 531,
+        "width": 98.53125,
+        "height": 24,
+        "size": "20px"
+      },
+      {
+        "text": "Strategic",
+        "x": 1301,
+        "y": 531.5,
+        "width": 99,
+        "height": 23,
+        "size": "11px"
+      },
+      {
+        "text": "Oct 19",
+        "x": 1356,
+        "y": 574.5,
+        "width": 44,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "United Airlines",
+        "x": 1174,
+        "y": 620,
+        "width": 106.53125,
+        "height": 18,
+        "size": "15px"
+      },
+      {
+        "text": "$ 221,231",
+        "x": 1174,
+        "y": 667,
+        "width": 90.4375,
+        "height": 24,
+        "size": "20px"
+      },
+      {
+        "text": "Renewal",
+        "x": 1301,
+        "y": 667.5,
+        "width": 99,
+        "height": 23,
+        "size": "11px"
+      },
+      {
+        "text": "Oct 17",
+        "x": 1356,
+        "y": 710.5,
+        "width": 44,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "Netflix",
+        "x": 1174,
+        "y": 756,
+        "width": 47.328125,
+        "height": 18,
+        "size": "15px"
+      },
+      {
+        "text": "$ 221,221",
+        "x": 1174,
+        "y": 803,
+        "width": 90.21875,
+        "height": 24,
+        "size": "20px"
+      },
+      {
+        "text": "Mid-Market",
+        "x": 1301,
+        "y": 803.5,
+        "width": 99,
+        "height": 23,
+        "size": "11px"
+      },
+      {
+        "text": "Oct 15",
+        "x": 1356,
+        "y": 846.5,
+        "width": 44,
+        "height": 15,
+        "size": "12px"
+      }
+    ]
+  },
+  {
+    "route": "companies",
+    "width": 1440,
+    "errors": [],
+    "viewport": [
+      1440,
+      1024
+    ],
+    "documentWidth": 1440,
+    "header": {
+      "x": 288,
+      "y": 0,
+      "width": 1152,
+      "height": 198
+    },
+    "main": {
+      "x": 288,
+      "y": 198,
+      "width": 1152,
+      "height": 1164.8125
+    },
+    "sections": [],
+    "metrics": [],
+    "text": [
+      {
+        "text": "Companies",
+        "x": 308,
+        "y": 22,
+        "width": 108.03125,
+        "height": 28,
+        "size": "20px"
+      },
+      {
+        "text": "−",
+        "x": 305.453125,
+        "y": 211.75,
+        "width": 8.078125,
+        "height": 16,
+        "size": "12px"
+      },
+      {
+        "text": "Enterprise",
+        "x": 560,
+        "y": 251.40625,
+        "width": 94.546875,
+        "height": 26,
+        "size": "15px"
+      },
+      {
+        "text": "Upsell",
+        "x": 658.546875,
+        "y": 251.40625,
+        "width": 66.28125,
+        "height": 26,
+        "size": "15px"
+      },
+      {
+        "text": "+2",
+        "x": 728.828125,
+        "y": 251.40625,
+        "width": 40.578125,
+        "height": 26,
+        "size": "15px"
+      },
+      {
+        "text": "Enterprise",
+        "x": 560,
+        "y": 296.21875,
+        "width": 94.546875,
+        "height": 26,
+        "size": "15px"
+      },
+      {
+        "text": "New Logo",
+        "x": 658.546875,
+        "y": 296.21875,
+        "width": 93.953125,
+        "height": 26,
+        "size": "15px"
+      },
+      {
+        "text": "Enterprise",
+        "x": 560,
+        "y": 341.03125,
+        "width": 94.546875,
+        "height": 26,
+        "size": "15px"
+      },
+      {
+        "text": "Renewal",
+        "x": 560,
+        "y": 385.84375,
+        "width": 81.859375,
+        "height": 26,
+        "size": "15px"
+      },
+      {
+        "text": "Pilot",
+        "x": 560,
+        "y": 430.65625,
+        "width": 52.75,
+        "height": 26,
+        "size": "15px"
+      },
+      {
+        "text": "✓",
+        "x": 304.1875,
+        "y": 480.46875,
+        "width": 10.625,
+        "height": 16,
+        "size": "12px"
+      },
+      {
+        "text": "Strategic",
+        "x": 560,
+        "y": 475.46875,
+        "width": 85.515625,
+        "height": 26,
+        "size": "15px"
+      },
+      {
+        "text": "Expansion",
+        "x": 649.515625,
+        "y": 475.46875,
+        "width": 95.234375,
+        "height": 26,
+        "size": "15px"
+      },
+      {
+        "text": "Upsell",
+        "x": 560,
+        "y": 520.28125,
+        "width": 66.28125,
+        "height": 26,
+        "size": "15px"
+      },
+      {
+        "text": "Expansion",
+        "x": 630.28125,
+        "y": 520.28125,
+        "width": 95.234375,
+        "height": 26,
+        "size": "15px"
+      },
+      {
+        "text": "+2",
+        "x": 729.515625,
+        "y": 520.28125,
+        "width": 40.578125,
+        "height": 26,
+        "size": "15px"
+      },
+      {
+        "text": "Enterprise",
+        "x": 560,
+        "y": 565.09375,
+        "width": 94.546875,
+        "height": 26,
+        "size": "15px"
+      },
+      {
+        "text": "Mid-Market",
+        "x": 658.546875,
+        "y": 565.09375,
+        "width": 104.671875,
+        "height": 26,
+        "size": "15px"
+      },
+      {
+        "text": "Mid-Market",
+        "x": 560,
+        "y": 609.90625,
+        "width": 104.671875,
+        "height": 26,
+        "size": "15px"
+      },
+      {
+        "text": "Upsell",
+        "x": 668.671875,
+        "y": 609.90625,
+        "width": 66.28125,
+        "height": 26,
+        "size": "15px"
+      },
+      {
+        "text": "+2",
+        "x": 738.953125,
+        "y": 609.90625,
+        "width": 40.578125,
+        "height": 26,
+        "size": "15px"
+      },
+      {
+        "text": "SMB",
+        "x": 560,
+        "y": 654.71875,
+        "width": 55,
+        "height": 26,
+        "size": "15px"
+      },
+      {
+        "text": "Enterprise",
+        "x": 619,
+        "y": 654.71875,
+        "width": 94.546875,
+        "height": 26,
+        "size": "15px"
+      },
+      {
+        "text": "+2",
+        "x": 717.546875,
+        "y": 654.71875,
+        "width": 40.578125,
+        "height": 26,
+        "size": "15px"
+      },
+      {
+        "text": "Mid-Market",
+        "x": 560,
+        "y": 699.53125,
+        "width": 104.671875,
+        "height": 26,
+        "size": "15px"
+      },
+      {
+        "text": "Land & Expand",
+        "x": 560,
+        "y": 744.34375,
+        "width": 128.0625,
+        "height": 26,
+        "size": "15px"
+      },
+      {
+        "text": "+2",
+        "x": 692.0625,
+        "y": 744.34375,
+        "width": 40.578125,
+        "height": 26,
+        "size": "15px"
+      },
+      {
+        "text": "Co-Sell",
+        "x": 560,
+        "y": 789.15625,
+        "width": 74.5,
+        "height": 26,
+        "size": "15px"
+      },
+      {
+        "text": "Expansion",
+        "x": 638.5,
+        "y": 789.15625,
+        "width": 95.234375,
+        "height": 26,
+        "size": "15px"
+      },
+      {
+        "text": "Expansion",
+        "x": 560,
+        "y": 833.96875,
+        "width": 95.234375,
+        "height": 26,
+        "size": "15px"
+      },
+      {
+        "text": "+2",
+        "x": 659.234375,
+        "y": 833.96875,
+        "width": 40.578125,
+        "height": 26,
+        "size": "15px"
+      },
+      {
+        "text": "Mid-Market",
+        "x": 560,
+        "y": 878.78125,
+        "width": 104.671875,
+        "height": 26,
+        "size": "15px"
+      },
+      {
+        "text": "Co-Sell",
+        "x": 668.671875,
+        "y": 878.78125,
+        "width": 74.5,
+        "height": 26,
+        "size": "15px"
+      },
+      {
+        "text": "Expansion",
+        "x": 560,
+        "y": 923.59375,
+        "width": 95.234375,
+        "height": 26,
+        "size": "15px"
+      },
+      {
+        "text": "SMB",
+        "x": 659.234375,
+        "y": 923.59375,
+        "width": 55,
+        "height": 26,
+        "size": "15px"
+      },
+      {
+        "text": "+2",
+        "x": 718.234375,
+        "y": 923.59375,
+        "width": 40.578125,
+        "height": 26,
+        "size": "15px"
+      },
+      {
+        "text": "Enterprise",
+        "x": 560,
+        "y": 968.40625,
+        "width": 94.546875,
+        "height": 26,
+        "size": "15px"
+      },
+      {
+        "text": "Mid-Market",
+        "x": 658.546875,
+        "y": 968.40625,
+        "width": 104.671875,
+        "height": 26,
+        "size": "15px"
+      },
+      {
+        "text": "Enterprise",
+        "x": 560,
+        "y": 1013.21875,
+        "width": 94.546875,
+        "height": 26,
+        "size": "15px"
+      },
+      {
+        "text": "Expansion",
+        "x": 658.546875,
+        "y": 1013.21875,
+        "width": 95.234375,
+        "height": 26,
+        "size": "15px"
+      },
+      {
+        "text": "Enterprise",
+        "x": 560,
+        "y": 1058.03125,
+        "width": 94.546875,
+        "height": 26,
+        "size": "15px"
+      },
+      {
+        "text": "Strategic",
+        "x": 658.546875,
+        "y": 1058.03125,
+        "width": 85.515625,
+        "height": 26,
+        "size": "15px"
+      },
+      {
+        "text": "Mid-Market",
+        "x": 560,
+        "y": 1102.84375,
+        "width": 104.671875,
+        "height": 26,
+        "size": "15px"
+      },
+      {
+        "text": "New Logo",
+        "x": 668.671875,
+        "y": 1102.84375,
+        "width": 93.953125,
+        "height": 26,
+        "size": "15px"
+      },
+      {
+        "text": "Enterprise",
+        "x": 560,
+        "y": 1147.65625,
+        "width": 94.546875,
+        "height": 26,
+        "size": "15px"
+      },
+      {
+        "text": "Expansion",
+        "x": 658.546875,
+        "y": 1147.65625,
+        "width": 95.234375,
+        "height": 26,
+        "size": "15px"
+      },
+      {
+        "text": "Mid-Market",
+        "x": 560,
+        "y": 1192.46875,
+        "width": 104.671875,
+        "height": 26,
+        "size": "15px"
+      },
+      {
+        "text": "Upsell",
+        "x": 668.671875,
+        "y": 1192.46875,
+        "width": 66.28125,
+        "height": 26,
+        "size": "15px"
+      },
+      {
+        "text": "Enterprise",
+        "x": 560,
+        "y": 1237.28125,
+        "width": 94.546875,
+        "height": 26,
+        "size": "15px"
+      },
+      {
+        "text": "Expansion",
+        "x": 658.546875,
+        "y": 1237.28125,
+        "width": 95.234375,
+        "height": 26,
+        "size": "15px"
+      },
+      {
+        "text": "Enterprise",
+        "x": 560,
+        "y": 1282.09375,
+        "width": 94.546875,
+        "height": 26,
+        "size": "15px"
+      },
+      {
+        "text": "Pilot",
+        "x": 658.546875,
+        "y": 1282.09375,
+        "width": 52.75,
+        "height": 26,
+        "size": "15px"
+      },
+      {
+        "text": "Mid-Market",
+        "x": 560,
+        "y": 1326.90625,
+        "width": 104.671875,
+        "height": 26,
+        "size": "15px"
+      },
+      {
+        "text": "Renewal",
+        "x": 668.671875,
+        "y": 1326.90625,
+        "width": 81.859375,
+        "height": 26,
+        "size": "15px"
+      }
+    ]
+  },
+  {
+    "route": "forecast",
+    "width": 1440,
+    "errors": [],
+    "viewport": [
+      1440,
+      1024
+    ],
+    "documentWidth": 1440,
+    "header": {
+      "x": 288,
+      "y": 0,
+      "width": 1152,
+      "height": 198
+    },
+    "main": {
+      "x": 288,
+      "y": 198,
+      "width": 1152,
+      "height": 827.5
+    },
+    "sections": [
+      {
+        "label": "Pipeline by stage",
+        "x": 308,
+        "y": 300,
+        "width": 724,
+        "height": 308
+      },
+      {
+        "label": "Quarter target",
+        "x": 1052,
+        "y": 300,
+        "width": 368,
+        "height": 308
+      },
+      {
+        "label": "Forecast by owner",
+        "x": 308,
+        "y": 628,
+        "width": 1112,
+        "height": 377.5
+      }
+    ],
+    "metrics": [
+      {
+        "x": 308,
+        "y": 218,
+        "width": 266,
+        "height": 64
+      },
+      {
+        "x": 590,
+        "y": 218,
+        "width": 266,
+        "height": 64
+      },
+      {
+        "x": 872,
+        "y": 218,
+        "width": 266,
+        "height": 64
+      },
+      {
+        "x": 1154,
+        "y": 218,
+        "width": 266,
+        "height": 64
+      }
+    ],
+    "text": [
+      {
+        "text": "Forecast",
+        "x": 308,
+        "y": 26,
+        "width": 82.921875,
+        "height": 24,
+        "size": "20px"
+      },
+      {
+        "text": "$3.45M",
+        "x": 320,
+        "y": 245,
+        "width": 96,
+        "height": 28.0625,
+        "size": "23px"
+      },
+      {
+        "text": "86.3% of $4M target",
+        "x": 416,
+        "y": 257,
+        "width": 146,
+        "height": 16.0625,
+        "size": "10px"
+      },
+      {
+        "text": "$880K",
+        "x": 602,
+        "y": 245,
+        "width": 86,
+        "height": 28.0625,
+        "size": "23px"
+      },
+      {
+        "text": "6 deals closed this quarter",
+        "x": 688,
+        "y": 257,
+        "width": 156,
+        "height": 16.0625,
+        "size": "10px"
+      },
+      {
+        "text": "$2.57M",
+        "x": 884,
+        "y": 245,
+        "width": 96,
+        "height": 28.0625,
+        "size": "23px"
+      },
+      {
+        "text": "17 open opportunities",
+        "x": 980,
+        "y": 257,
+        "width": 146,
+        "height": 16.0625,
+        "size": "10px"
+      },
+      {
+        "text": "$4.93M",
+        "x": 1166,
+        "y": 245,
+        "width": 96,
+        "height": 28.0625,
+        "size": "23px"
+      },
+      {
+        "text": "1.58× remaining target",
+        "x": 1262,
+        "y": 257,
+        "width": 146,
+        "height": 16.0625,
+        "size": "10px"
+      },
+      {
+        "text": "Pipeline by stage",
+        "x": 328,
+        "y": 318,
+        "width": 131.921875,
+        "height": 20,
+        "size": "16px"
+      },
+      {
+        "text": "● Open pipeline",
+        "x": 802.71875,
+        "y": 319.75,
+        "width": 85.09375,
+        "height": 16.5,
+        "size": "11px"
+      },
+      {
+        "text": "● Weighted forecast",
+        "x": 903.8125,
+        "y": 319.75,
+        "width": 108.1875,
+        "height": 16.5,
+        "size": "11px"
+      },
+      {
+        "text": "Open pipeline and probability-weighted value",
+        "x": 328,
+        "y": 343,
+        "width": 684,
+        "height": 16,
+        "size": "12px"
+      },
+      {
+        "text": "$1.5M",
+        "x": 328,
+        "y": 381,
+        "width": 34.859375,
+        "height": 16.5,
+        "size": "11px"
+      },
+      {
+        "text": "$1M",
+        "x": 328,
+        "y": 428.828125,
+        "width": 34.859375,
+        "height": 16.5,
+        "size": "11px"
+      },
+      {
+        "text": "$500K",
+        "x": 328,
+        "y": 476.671875,
+        "width": 34.859375,
+        "height": 16.5,
+        "size": "11px"
+      },
+      {
+        "text": "$0",
+        "x": 328,
+        "y": 524.5,
+        "width": 34.859375,
+        "height": 16.5,
+        "size": "11px"
+      },
+      {
+        "text": "$256K",
+        "x": 479.125,
+        "y": 491.390625,
+        "width": 34.515625,
+        "height": 16.5,
+        "size": "11px"
+      },
+      {
+        "text": "$527K",
+        "x": 625.453125,
+        "y": 462.640625,
+        "width": 33.921875,
+        "height": 16.5,
+        "size": "11px"
+      },
+      {
+        "text": "$749K",
+        "x": 771.453125,
+        "y": 439.0625,
+        "width": 33.96875,
+        "height": 16.5,
+        "size": "11px"
+      },
+      {
+        "text": "$1.04M",
+        "x": 915.265625,
+        "y": 408.296875,
+        "width": 38.40625,
+        "height": 16.5,
+        "size": "11px"
+      },
+      {
+        "text": "Qualified",
+        "x": 379.859375,
+        "y": 558,
+        "width": 158.03125,
+        "height": 16.5,
+        "size": "11px"
+      },
+      {
+        "text": "Discovery",
+        "x": 537.890625,
+        "y": 558,
+        "width": 158.03125,
+        "height": 16.5,
+        "size": "11px"
+      },
+      {
+        "text": "Proposal",
+        "x": 695.921875,
+        "y": 558,
+        "width": 158.03125,
+        "height": 16.5,
+        "size": "11px"
+      },
+      {
+        "text": "Negotiation",
+        "x": 853.953125,
+        "y": 558,
+        "width": 158.046875,
+        "height": 16.5,
+        "size": "11px"
+      },
+      {
+        "text": "Quarter target",
+        "x": 1072,
+        "y": 318,
+        "width": 109.359375,
+        "height": 24,
+        "size": "16px"
+      },
+      {
+        "text": "Q4 2026 revenue target",
+        "x": 1072,
+        "y": 393,
+        "width": 328,
+        "height": 16,
+        "size": "12px"
+      },
+      {
+        "text": "86.3% expected attainment",
+        "x": 1072,
+        "y": 456,
+        "width": 143.078125,
+        "height": 16.5,
+        "size": "11px"
+      },
+      {
+        "text": "13.7% remaining",
+        "x": 1314.578125,
+        "y": 456,
+        "width": 85.421875,
+        "height": 16.5,
+        "size": "11px"
+      },
+      {
+        "text": "●",
+        "x": 1072,
+        "y": 502.5,
+        "width": 11.890625,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "●",
+        "x": 1072,
+        "y": 537,
+        "width": 11.890625,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "●",
+        "x": 1072,
+        "y": 571.5,
+        "width": 11.890625,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "Forecast by owner",
+        "x": 328,
+        "y": 646,
+        "width": 197.875,
+        "height": 19.046875,
+        "size": "16px"
+      },
+      {
+        "text": "Top 6 owners by weighted pipeline",
+        "x": 328,
+        "y": 672.046875,
+        "width": 197.875,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "$ 434,691",
+        "x": 1027.28125,
+        "y": 734.75,
+        "width": 66.78125,
+        "height": 17,
+        "size": "14px"
+      },
+      {
+        "text": "Commit",
+        "x": 1215.96875,
+        "y": 731.75,
+        "width": 96,
+        "height": 24,
+        "size": "11px"
+      },
+      {
+        "text": "$ 294,000",
+        "x": 1027.28125,
+        "y": 775,
+        "width": 69.921875,
+        "height": 17,
+        "size": "14px"
+      },
+      {
+        "text": "Best case",
+        "x": 1215.96875,
+        "y": 772,
+        "width": 96,
+        "height": 24,
+        "size": "11px"
+      },
+      {
+        "text": "$ 275,391",
+        "x": 1027.28125,
+        "y": 815,
+        "width": 64.65625,
+        "height": 17,
+        "size": "14px"
+      },
+      {
+        "text": "Commit",
+        "x": 1215.96875,
+        "y": 812,
+        "width": 96,
+        "height": 24,
+        "size": "11px"
+      },
+      {
+        "text": "$ 194,582",
+        "x": 1027.28125,
+        "y": 855,
+        "width": 66.09375,
+        "height": 17,
+        "size": "14px"
+      },
+      {
+        "text": "Best case",
+        "x": 1215.96875,
+        "y": 852,
+        "width": 96,
+        "height": 24,
+        "size": "11px"
+      },
+      {
+        "text": "$ 170,348",
+        "x": 1027.28125,
+        "y": 895,
+        "width": 65.703125,
+        "height": 17,
+        "size": "14px"
+      },
+      {
+        "text": "Commit",
+        "x": 1215.96875,
+        "y": 892,
+        "width": 96,
+        "height": 24,
+        "size": "11px"
+      },
+      {
+        "text": "$ 161,200",
+        "x": 1027.28125,
+        "y": 935,
+        "width": 64.171875,
+        "height": 17,
+        "size": "14px"
+      },
+      {
+        "text": "Best case",
+        "x": 1215.96875,
+        "y": 932,
+        "width": 96,
+        "height": 24,
+        "size": "11px"
+      },
+      {
+        "text": "Showing 6 of 17 owners",
+        "x": 329,
+        "y": 978,
+        "width": 123.703125,
+        "height": 13,
+        "size": "11px"
+      },
+      {
+        "text": "Weighted forecast = deal value × win probability",
+        "x": 1147.65625,
+        "y": 978,
+        "width": 251.34375,
+        "height": 13,
+        "size": "11px"
+      }
+    ]
+  },
+  {
+    "route": "activities",
+    "width": 1440,
+    "errors": [],
+    "viewport": [
+      1440,
+      1024
+    ],
+    "documentWidth": 1440,
+    "header": {
+      "x": 288,
+      "y": 0,
+      "width": 1152,
+      "height": 198
+    },
+    "main": {
+      "x": 288,
+      "y": 198,
+      "width": 1152,
+      "height": 826
+    },
+    "sections": [
+      {
+        "label": "Activity feed",
+        "x": 308,
+        "y": 300,
+        "width": 724,
+        "height": 704
+      },
+      {
+        "label": "Today’s agenda",
+        "x": 1052,
+        "y": 300,
+        "width": 368,
+        "height": 414
+      },
+      {
+        "label": "Activity mix",
+        "x": 1052,
+        "y": 734,
+        "width": 368,
+        "height": 270
+      }
+    ],
+    "metrics": [
+      {
+        "x": 308,
+        "y": 218,
+        "width": 266,
+        "height": 64
+      },
+      {
+        "x": 590,
+        "y": 218,
+        "width": 266,
+        "height": 64
+      },
+      {
+        "x": 872,
+        "y": 218,
+        "width": 266,
+        "height": 64
+      },
+      {
+        "x": 1154,
+        "y": 218,
+        "width": 266,
+        "height": 64
+      }
+    ],
+    "text": [
+      {
+        "text": "Activities",
+        "x": 308,
+        "y": 26,
+        "width": 88.3125,
+        "height": 24,
+        "size": "20px"
+      },
+      {
+        "text": "4",
+        "x": 320,
+        "y": 245,
+        "width": 30,
+        "height": 28.0625,
+        "size": "23px"
+      },
+      {
+        "text": "2 meetings · 1 call · 1 task",
+        "x": 350,
+        "y": 257,
+        "width": 212,
+        "height": 16.0625,
+        "size": "10px"
+      },
+      {
+        "text": "4",
+        "x": 602,
+        "y": 245,
+        "width": 30,
+        "height": 28.0625,
+        "size": "23px"
+      },
+      {
+        "text": "Next 7 days",
+        "x": 632,
+        "y": 257,
+        "width": 212,
+        "height": 16.0625,
+        "size": "10px"
+      },
+      {
+        "text": "2",
+        "x": 884,
+        "y": 245,
+        "width": 30,
+        "height": 28.0625,
+        "size": "23px"
+      },
+      {
+        "text": "Needs your attention",
+        "x": 914,
+        "y": 257,
+        "width": 212,
+        "height": 16.0625,
+        "size": "10px"
+      },
+      {
+        "text": "12",
+        "x": 1166,
+        "y": 245,
+        "width": 38,
+        "height": 28.0625,
+        "size": "23px"
+      },
+      {
+        "text": "This week",
+        "x": 1204,
+        "y": 257,
+        "width": 204,
+        "height": 16.0625,
+        "size": "10px"
+      },
+      {
+        "text": "2",
+        "x": 382.453125,
+        "y": 307.5,
+        "width": 6.71875,
+        "height": 16,
+        "size": "11px"
+      },
+      {
+        "text": "2 days overdue",
+        "x": 904,
+        "y": 351.5,
+        "width": 110,
+        "height": 18,
+        "size": "12px"
+      },
+      {
+        "text": "1 day overdue",
+        "x": 904,
+        "y": 411.5,
+        "width": 110,
+        "height": 18,
+        "size": "12px"
+      },
+      {
+        "text": "4",
+        "x": 368.671875,
+        "y": 457.5,
+        "width": 7.109375,
+        "height": 16,
+        "size": "11px"
+      },
+      {
+        "text": "10:30 AM",
+        "x": 904,
+        "y": 501.5,
+        "width": 110,
+        "height": 18,
+        "size": "12px"
+      },
+      {
+        "text": "11:00 AM",
+        "x": 904,
+        "y": 561.5,
+        "width": 110,
+        "height": 18,
+        "size": "12px"
+      },
+      {
+        "text": "2:00 PM",
+        "x": 904,
+        "y": 621.5,
+        "width": 110,
+        "height": 18,
+        "size": "12px"
+      },
+      {
+        "text": "4:00 PM",
+        "x": 904,
+        "y": 681.5,
+        "width": 110,
+        "height": 18,
+        "size": "12px"
+      },
+      {
+        "text": "4",
+        "x": 392.203125,
+        "y": 727.5,
+        "width": 7.109375,
+        "height": 16,
+        "size": "11px"
+      },
+      {
+        "text": "Oct 12",
+        "x": 904,
+        "y": 771.5,
+        "width": 110,
+        "height": 18,
+        "size": "12px"
+      },
+      {
+        "text": "Oct 13",
+        "x": 904,
+        "y": 831.5,
+        "width": 110,
+        "height": 18,
+        "size": "12px"
+      },
+      {
+        "text": "Oct 14",
+        "x": 904,
+        "y": 891.5,
+        "width": 110,
+        "height": 18,
+        "size": "12px"
+      },
+      {
+        "text": "Oct 15",
+        "x": 904,
+        "y": 951.5,
+        "width": 110,
+        "height": 18,
+        "size": "12px"
+      },
+      {
+        "text": "Today’s agenda",
+        "x": 1072,
+        "y": 318,
+        "width": 328,
+        "height": 24,
+        "size": "16px"
+      },
+      {
+        "text": "Saturday, Oct 10",
+        "x": 1072,
+        "y": 347,
+        "width": 328,
+        "height": 16,
+        "size": "12px"
+      },
+      {
+        "text": "10:30",
+        "x": 1072,
+        "y": 406,
+        "width": 48,
+        "height": 76,
+        "size": "12px"
+      },
+      {
+        "text": "30 min",
+        "x": 1360,
+        "y": 406,
+        "width": 40,
+        "height": 76,
+        "size": "10px"
+      },
+      {
+        "text": "11:00",
+        "x": 1072,
+        "y": 482,
+        "width": 48,
+        "height": 76,
+        "size": "12px"
+      },
+      {
+        "text": "45 min",
+        "x": 1360,
+        "y": 482,
+        "width": 40,
+        "height": 76,
+        "size": "10px"
+      },
+      {
+        "text": "14:00",
+        "x": 1072,
+        "y": 558,
+        "width": 48,
+        "height": 76,
+        "size": "12px"
+      },
+      {
+        "text": "30 min",
+        "x": 1360,
+        "y": 558,
+        "width": 40,
+        "height": 76,
+        "size": "10px"
+      },
+      {
+        "text": "16:00",
+        "x": 1072,
+        "y": 634,
+        "width": 48,
+        "height": 76,
+        "size": "12px"
+      },
+      {
+        "text": "15 min",
+        "x": 1360,
+        "y": 634,
+        "width": 40,
+        "height": 76,
+        "size": "10px"
+      },
+      {
+        "text": "Activity mix",
+        "x": 1072,
+        "y": 752,
+        "width": 328,
+        "height": 24,
+        "size": "16px"
+      },
+      {
+        "text": "This week · 22 activities",
+        "x": 1072,
+        "y": 781,
+        "width": 328,
+        "height": 16,
+        "size": "12px"
+      },
+      {
+        "text": "Calls",
+        "x": 1072,
+        "y": 817,
+        "width": 27.65625,
+        "height": 16,
+        "size": "12px"
+      },
+      {
+        "text": "6",
+        "x": 1392.546875,
+        "y": 817,
+        "width": 7.453125,
+        "height": 16,
+        "size": "12px"
+      },
+      {
+        "text": "Meetings",
+        "x": 1072,
+        "y": 855,
+        "width": 52.453125,
+        "height": 16,
+        "size": "12px"
+      },
+      {
+        "text": "7",
+        "x": 1393.203125,
+        "y": 855,
+        "width": 6.796875,
+        "height": 16,
+        "size": "12px"
+      },
+      {
+        "text": "Tasks",
+        "x": 1072,
+        "y": 893,
+        "width": 32.859375,
+        "height": 16,
+        "size": "12px"
+      },
+      {
+        "text": "6",
+        "x": 1392.546875,
+        "y": 893,
+        "width": 7.453125,
+        "height": 16,
+        "size": "12px"
+      },
+      {
+        "text": "Emails",
+        "x": 1072,
+        "y": 931,
+        "width": 36.609375,
+        "height": 16,
+        "size": "12px"
+      },
+      {
+        "text": "3",
+        "x": 1392.578125,
+        "y": 931,
+        "width": 7.421875,
+        "height": 16,
+        "size": "12px"
+      },
+      {
+        "text": "12 completed · 10 open",
+        "x": 1072,
+        "y": 975,
+        "width": 328,
+        "height": 16.5,
+        "size": "11px"
+      }
+    ]
+  },
+  {
+    "route": "contacts",
+    "width": 1440,
+    "errors": [],
+    "viewport": [
+      1440,
+      1024
+    ],
+    "documentWidth": 1440,
+    "header": {
+      "x": 288,
+      "y": 0,
+      "width": 1152,
+      "height": 198
+    },
+    "main": {
+      "x": 288,
+      "y": 198,
+      "width": 1152,
+      "height": 826.5
+    },
+    "sections": [
+      {
+        "label": "Contact directory",
+        "x": 308,
+        "y": 300,
+        "width": 744,
+        "height": 704.5
+      },
+      {
+        "label": "Contact details",
+        "x": 1072,
+        "y": 300,
+        "width": 348,
+        "height": 704.5
+      }
+    ],
+    "metrics": [
+      {
+        "x": 308,
+        "y": 218,
+        "width": 266,
+        "height": 64
+      },
+      {
+        "x": 590,
+        "y": 218,
+        "width": 266,
+        "height": 64
+      },
+      {
+        "x": 872,
+        "y": 218,
+        "width": 266,
+        "height": 64
+      },
+      {
+        "x": 1154,
+        "y": 218,
+        "width": 266,
+        "height": 64
+      }
+    ],
+    "text": [
+      {
+        "text": "Contacts",
+        "x": 308,
+        "y": 26,
+        "width": 86,
+        "height": 24,
+        "size": "20px"
+      },
+      {
+        "text": "38",
+        "x": 320,
+        "y": 245,
+        "width": 42,
+        "height": 28.0625,
+        "size": "23px"
+      },
+      {
+        "text": "Across 17 companies",
+        "x": 362,
+        "y": 257,
+        "width": 200,
+        "height": 16.0625,
+        "size": "10px"
+      },
+      {
+        "text": "12",
+        "x": 602,
+        "y": 245,
+        "width": 30,
+        "height": 28.0625,
+        "size": "23px"
+      },
+      {
+        "text": "Key buying contacts",
+        "x": 632,
+        "y": 257,
+        "width": 212,
+        "height": 16.0625,
+        "size": "10px"
+      },
+      {
+        "text": "26",
+        "x": 884,
+        "y": 245,
+        "width": 30,
+        "height": 28.0625,
+        "size": "23px"
+      },
+      {
+        "text": "Active in the last 30 days",
+        "x": 914,
+        "y": 257,
+        "width": 212,
+        "height": 16.0625,
+        "size": "10px"
+      },
+      {
+        "text": "8",
+        "x": 1166,
+        "y": 245,
+        "width": 30,
+        "height": 28.0625,
+        "size": "23px"
+      },
+      {
+        "text": "No touchpoint in 14 days",
+        "x": 1196,
+        "y": 257,
+        "width": 212,
+        "height": 16.0625,
+        "size": "10px"
+      },
+      {
+        "text": "Emma Wilson",
+        "x": 399,
+        "y": 357.5,
+        "width": 83,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "VP of Finance",
+        "x": 399,
+        "y": 378.5,
+        "width": 83,
+        "height": 13,
+        "size": "11px"
+      },
+      {
+        "text": "Decision maker",
+        "x": 634.59375,
+        "y": 363,
+        "width": 94.109375,
+        "height": 23,
+        "size": "11px"
+      },
+      {
+        "text": "James Cooper",
+        "x": 399,
+        "y": 412,
+        "width": 96.796875,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "Head of Partnerships",
+        "x": 399,
+        "y": 433,
+        "width": 96.796875,
+        "height": 26,
+        "size": "11px"
+      },
+      {
+        "text": "Champion",
+        "x": 634.59375,
+        "y": 424,
+        "width": 66.84375,
+        "height": 23,
+        "size": "11px"
+      },
+      {
+        "text": "Alex Morgan",
+        "x": 399,
+        "y": 479.5,
+        "width": 77.328125,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "Director of IT",
+        "x": 399,
+        "y": 500.5,
+        "width": 77.328125,
+        "height": 13,
+        "size": "11px"
+      },
+      {
+        "text": "Decision maker",
+        "x": 634.59375,
+        "y": 485,
+        "width": 94.109375,
+        "height": 23,
+        "size": "11px"
+      },
+      {
+        "text": "Sophie Laurent",
+        "x": 399,
+        "y": 534,
+        "width": 96.796875,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "Procurement Director",
+        "x": 399,
+        "y": 555,
+        "width": 96.796875,
+        "height": 26,
+        "size": "11px"
+      },
+      {
+        "text": "Decision maker",
+        "x": 634.59375,
+        "y": 546,
+        "width": 94.109375,
+        "height": 23,
+        "size": "11px"
+      },
+      {
+        "text": "Daniel Kim",
+        "x": 399,
+        "y": 595,
+        "width": 96.796875,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "Solutions Architect",
+        "x": 399,
+        "y": 616,
+        "width": 96.796875,
+        "height": 26,
+        "size": "11px"
+      },
+      {
+        "text": "Influencer",
+        "x": 634.59375,
+        "y": 607,
+        "width": 66.4375,
+        "height": 23,
+        "size": "11px"
+      },
+      {
+        "text": "Olivia Chen",
+        "x": 399,
+        "y": 662.5,
+        "width": 88.515625,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "VP of Operations",
+        "x": 399,
+        "y": 683.5,
+        "width": 88.515625,
+        "height": 13,
+        "size": "11px"
+      },
+      {
+        "text": "Champion",
+        "x": 634.59375,
+        "y": 668,
+        "width": 66.84375,
+        "height": 23,
+        "size": "11px"
+      },
+      {
+        "text": "Noah Williams",
+        "x": 399,
+        "y": 723.5,
+        "width": 87.3125,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "Head of Growth",
+        "x": 399,
+        "y": 744.5,
+        "width": 87.3125,
+        "height": 13,
+        "size": "11px"
+      },
+      {
+        "text": "Champion",
+        "x": 634.59375,
+        "y": 729,
+        "width": 66.84375,
+        "height": 23,
+        "size": "11px"
+      },
+      {
+        "text": "Isabella Garcia",
+        "x": 399,
+        "y": 784.5,
+        "width": 90.21875,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "Finance Manager",
+        "x": 399,
+        "y": 805.5,
+        "width": 90.21875,
+        "height": 13,
+        "size": "11px"
+      },
+      {
+        "text": "Influencer",
+        "x": 634.59375,
+        "y": 790,
+        "width": 66.4375,
+        "height": 23,
+        "size": "11px"
+      },
+      {
+        "text": "Liam Anderson",
+        "x": 399,
+        "y": 845.5,
+        "width": 92.265625,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "Regional Director",
+        "x": 399,
+        "y": 866.5,
+        "width": 92.265625,
+        "height": 13,
+        "size": "11px"
+      },
+      {
+        "text": "Decision maker",
+        "x": 634.59375,
+        "y": 851,
+        "width": 94.109375,
+        "height": 23,
+        "size": "11px"
+      },
+      {
+        "text": "Mia Thompson",
+        "x": 399,
+        "y": 906.5,
+        "width": 91.40625,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "Partner Manager",
+        "x": 399,
+        "y": 927.5,
+        "width": 91.40625,
+        "height": 13,
+        "size": "11px"
+      },
+      {
+        "text": "Influencer",
+        "x": 634.59375,
+        "y": 912,
+        "width": 66.4375,
+        "height": 23,
+        "size": "11px"
+      },
+      {
+        "text": "Showing 1–10 of 38 contacts",
+        "x": 326,
+        "y": 972.5,
+        "width": 147.71875,
+        "height": 13,
+        "size": "11px"
+      },
+      {
+        "text": "1",
+        "x": 902.375,
+        "y": 965,
+        "width": 28,
+        "height": 28,
+        "size": "11px"
+      },
+      {
+        "text": "3",
+        "x": 975.09375,
+        "y": 972.5,
+        "width": 6.796875,
+        "height": 13,
+        "size": "11px"
+      },
+      {
+        "text": "Emma Wilson",
+        "x": 1154,
+        "y": 353,
+        "width": 122.828125,
+        "height": 22,
+        "size": "18px"
+      },
+      {
+        "text": "VP of Finance · Stripe",
+        "x": 1154,
+        "y": 380,
+        "width": 122.828125,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "Email",
+        "x": 1092,
+        "y": 494,
+        "width": 308,
+        "height": 13,
+        "size": "11px"
+      },
+      {
+        "text": "Phone",
+        "x": 1092,
+        "y": 547,
+        "width": 308,
+        "height": 13,
+        "size": "11px"
+      },
+      {
+        "text": "Location",
+        "x": 1092,
+        "y": 600,
+        "width": 308,
+        "height": 13,
+        "size": "11px"
+      },
+      {
+        "text": "Owner",
+        "x": 1092,
+        "y": 653,
+        "width": 176,
+        "height": 13,
+        "size": "11px"
+      },
+      {
+        "text": "Sarah Jenkins",
+        "x": 1092,
+        "y": 672,
+        "width": 176,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "Role",
+        "x": 1268,
+        "y": 653,
+        "width": 132,
+        "height": 13,
+        "size": "11px"
+      },
+      {
+        "text": "Decision maker",
+        "x": 1268,
+        "y": 672,
+        "width": 132,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "Linked deal",
+        "x": 1092,
+        "y": 731,
+        "width": 308,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "Commerce expansion",
+        "x": 1104,
+        "y": 768,
+        "width": 133.9375,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "Proposal · $320,000",
+        "x": 1104,
+        "y": 791,
+        "width": 133.9375,
+        "height": 13,
+        "size": "11px"
+      },
+      {
+        "text": "Recent activity",
+        "x": 1092,
+        "y": 841,
+        "width": 308,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "Proposal follow-up sent",
+        "x": 1118,
+        "y": 871,
+        "width": 161.875,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "Today, 9:15 AM · Sarah Jenkins",
+        "x": 1118,
+        "y": 892,
+        "width": 161.875,
+        "height": 13,
+        "size": "11px"
+      },
+      {
+        "text": "Discovery call completed",
+        "x": 1118,
+        "y": 928,
+        "width": 155.890625,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "Oct 8 · 30 min · Sarah Jenkins",
+        "x": 1118,
+        "y": 949,
+        "width": 155.890625,
+        "height": 13,
+        "size": "11px"
+      }
+    ]
+  },
+  {
+    "route": "email-sequences",
+    "width": 1440,
+    "errors": [],
+    "viewport": [
+      1440,
+      1024
+    ],
+    "documentWidth": 1440,
+    "header": {
+      "x": 288,
+      "y": 0,
+      "width": 1152,
+      "height": 198
+    },
+    "main": {
+      "x": 288,
+      "y": 198,
+      "width": 1152,
+      "height": 827
+    },
+    "sections": [
+      {
+        "label": "Sequence directory",
+        "x": 308,
+        "y": 300,
+        "width": 1112,
+        "height": 354.5
+      },
+      {
+        "label": "Enterprise outbound",
+        "x": 308,
+        "y": 674.5,
+        "width": 724,
+        "height": 330.5
+      },
+      {
+        "label": "Engagement",
+        "x": 1052,
+        "y": 674.5,
+        "width": 368,
+        "height": 330
+      }
+    ],
+    "metrics": [
+      {
+        "x": 308,
+        "y": 218,
+        "width": 266,
+        "height": 64
+      },
+      {
+        "x": 590,
+        "y": 218,
+        "width": 266,
+        "height": 64
+      },
+      {
+        "x": 872,
+        "y": 218,
+        "width": 266,
+        "height": 64
+      },
+      {
+        "x": 1154,
+        "y": 218,
+        "width": 266,
+        "height": 64
+      }
+    ],
+    "text": [
+      {
+        "text": "Email Sequences",
+        "x": 308,
+        "y": 26,
+        "width": 163.5,
+        "height": 24,
+        "size": "20px"
+      },
+      {
+        "text": "3",
+        "x": 320,
+        "y": 245,
+        "width": 30,
+        "height": 28.0625,
+        "size": "23px"
+      },
+      {
+        "text": "1 paused · 1 draft",
+        "x": 350,
+        "y": 257,
+        "width": 212,
+        "height": 16.0625,
+        "size": "10px"
+      },
+      {
+        "text": "326",
+        "x": 602,
+        "y": 245,
+        "width": 54,
+        "height": 28.0625,
+        "size": "23px"
+      },
+      {
+        "text": "Across all sequences",
+        "x": 656,
+        "y": 257,
+        "width": 188,
+        "height": 16.0625,
+        "size": "10px"
+      },
+      {
+        "text": "16.3%",
+        "x": 884,
+        "y": 245,
+        "width": 78,
+        "height": 28.0625,
+        "size": "23px"
+      },
+      {
+        "text": "+2.4% this month",
+        "x": 962,
+        "y": 257,
+        "width": 164,
+        "height": 16.0625,
+        "size": "10px"
+      },
+      {
+        "text": "28",
+        "x": 1166,
+        "y": 245,
+        "width": 42,
+        "height": 28.0625,
+        "size": "23px"
+      },
+      {
+        "text": "From sequence replies",
+        "x": 1208,
+        "y": 257,
+        "width": 200,
+        "height": 16.0625,
+        "size": "10px"
+      },
+      {
+        "text": "Enrolled",
+        "x": 786.984375,
+        "y": 314.5,
+        "width": 64,
+        "height": 16,
+        "size": "12px"
+      },
+      {
+        "text": "Open rate",
+        "x": 889.96875,
+        "y": 314.5,
+        "width": 76,
+        "height": 16,
+        "size": "12px"
+      },
+      {
+        "text": "Reply rate",
+        "x": 1004.953125,
+        "y": 314.5,
+        "width": 76,
+        "height": 16,
+        "size": "12px"
+      },
+      {
+        "text": "Meetings",
+        "x": 1124.9375,
+        "y": 314.5,
+        "width": 68,
+        "height": 16,
+        "size": "12px"
+      },
+      {
+        "text": "Enterprise outbound",
+        "x": 356.984375,
+        "y": 352.75,
+        "width": 312.015625,
+        "height": 17,
+        "size": "14px"
+      },
+      {
+        "text": "4 steps · Updated today",
+        "x": 356.984375,
+        "y": 375.75,
+        "width": 312.015625,
+        "height": 13,
+        "size": "11px"
+      },
+      {
+        "text": "• Active",
+        "x": 669,
+        "y": 359.25,
+        "width": 56.515625,
+        "height": 23,
+        "size": "11px"
+      },
+      {
+        "text": "124",
+        "x": 786.984375,
+        "y": 362.75,
+        "width": 64,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "62.9%",
+        "x": 889.96875,
+        "y": 362.75,
+        "width": 76,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "18.5%",
+        "x": 1004.953125,
+        "y": 362.75,
+        "width": 76,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "11",
+        "x": 1124.9375,
+        "y": 362.75,
+        "width": 68,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "Warm lead follow-up",
+        "x": 356.984375,
+        "y": 407,
+        "width": 312.015625,
+        "height": 17,
+        "size": "14px"
+      },
+      {
+        "text": "3 steps · Updated yesterday",
+        "x": 356.984375,
+        "y": 430,
+        "width": 312.015625,
+        "height": 13,
+        "size": "11px"
+      },
+      {
+        "text": "• Active",
+        "x": 669,
+        "y": 413.5,
+        "width": 56.515625,
+        "height": 23,
+        "size": "11px"
+      },
+      {
+        "text": "86",
+        "x": 786.984375,
+        "y": 417,
+        "width": 64,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "68.6%",
+        "x": 889.96875,
+        "y": 417,
+        "width": 76,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "22.1%",
+        "x": 1004.953125,
+        "y": 417,
+        "width": 76,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "9",
+        "x": 1124.9375,
+        "y": 417,
+        "width": 68,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "Post-demo nurture",
+        "x": 356.984375,
+        "y": 461,
+        "width": 312.015625,
+        "height": 17,
+        "size": "14px"
+      },
+      {
+        "text": "5 steps · Updated Oct 8",
+        "x": 356.984375,
+        "y": 484,
+        "width": 312.015625,
+        "height": 13,
+        "size": "11px"
+      },
+      {
+        "text": "• Active",
+        "x": 669,
+        "y": 467.5,
+        "width": 56.515625,
+        "height": 23,
+        "size": "11px"
+      },
+      {
+        "text": "72",
+        "x": 786.984375,
+        "y": 471,
+        "width": 64,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "54.2%",
+        "x": 889.96875,
+        "y": 471,
+        "width": 76,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "12.5%",
+        "x": 1004.953125,
+        "y": 471,
+        "width": 76,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "6",
+        "x": 1124.9375,
+        "y": 471,
+        "width": 68,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "Re-engagement campaign",
+        "x": 356.984375,
+        "y": 515,
+        "width": 312.015625,
+        "height": 17,
+        "size": "14px"
+      },
+      {
+        "text": "4 steps · Updated Oct 6",
+        "x": 356.984375,
+        "y": 538,
+        "width": 312.015625,
+        "height": 13,
+        "size": "11px"
+      },
+      {
+        "text": "• Paused",
+        "x": 669,
+        "y": 521.5,
+        "width": 62.65625,
+        "height": 23,
+        "size": "11px"
+      },
+      {
+        "text": "44",
+        "x": 786.984375,
+        "y": 525,
+        "width": 64,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "43.2%",
+        "x": 889.96875,
+        "y": 525,
+        "width": 76,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "4.5%",
+        "x": 1004.953125,
+        "y": 525,
+        "width": 76,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "2",
+        "x": 1124.9375,
+        "y": 525,
+        "width": 68,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "Partner introduction",
+        "x": 356.984375,
+        "y": 569,
+        "width": 312.015625,
+        "height": 17,
+        "size": "14px"
+      },
+      {
+        "text": "3 steps · Created Oct 9",
+        "x": 356.984375,
+        "y": 592,
+        "width": 312.015625,
+        "height": 13,
+        "size": "11px"
+      },
+      {
+        "text": "• Draft",
+        "x": 669,
+        "y": 575.5,
+        "width": 49.546875,
+        "height": 23,
+        "size": "11px"
+      },
+      {
+        "text": "0",
+        "x": 786.984375,
+        "y": 579,
+        "width": 64,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "—",
+        "x": 889.96875,
+        "y": 579,
+        "width": 76,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "—",
+        "x": 1004.953125,
+        "y": 579,
+        "width": 76,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "—",
+        "x": 1124.9375,
+        "y": 579,
+        "width": 68,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "5 sequences · Last synced just now",
+        "x": 327,
+        "y": 625.75,
+        "width": 185.328125,
+        "height": 16.5,
+        "size": "11px"
+      },
+      {
+        "text": "Manage columns",
+        "x": 1311.96875,
+        "y": 625.75,
+        "width": 89.03125,
+        "height": 16.5,
+        "size": "11px"
+      },
+      {
+        "text": "Enterprise outbound",
+        "x": 328,
+        "y": 692.5,
+        "width": 168.390625,
+        "height": 19.046875,
+        "size": "16px"
+      },
+      {
+        "text": "124 enrolled · 3 emails · 1 task",
+        "x": 328,
+        "y": 718.546875,
+        "width": 168.390625,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "Edit",
+        "x": 966.375,
+        "y": 690.5,
+        "width": 45.625,
+        "height": 28,
+        "size": "11px"
+      },
+      {
+        "text": "Introduction",
+        "x": 407,
+        "y": 785.75,
+        "width": 260,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "A quick idea for {{company}}",
+        "x": 407,
+        "y": 807.75,
+        "width": 260,
+        "height": 13,
+        "size": "11px"
+      },
+      {
+        "text": "Email",
+        "x": 705,
+        "y": 792.75,
+        "width": 46,
+        "height": 21,
+        "size": "11px"
+      },
+      {
+        "text": "78 opened",
+        "x": 782.984375,
+        "y": 795.75,
+        "width": 60.40625,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "12",
+        "x": 963.375,
+        "y": 795.25,
+        "width": 13.21875,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "Value follow-up",
+        "x": 407,
+        "y": 834,
+        "width": 260,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "How teams like yours scale",
+        "x": 407,
+        "y": 856,
+        "width": 260,
+        "height": 13,
+        "size": "11px"
+      },
+      {
+        "text": "Email",
+        "x": 705,
+        "y": 841,
+        "width": 46,
+        "height": 21,
+        "size": "11px"
+      },
+      {
+        "text": "61 opened",
+        "x": 782.984375,
+        "y": 844,
+        "width": 58.671875,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "8",
+        "x": 965.953125,
+        "y": 843.5,
+        "width": 8.046875,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "Personal follow-up",
+        "x": 407,
+        "y": 882,
+        "width": 260,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "Call to discuss their goals",
+        "x": 407,
+        "y": 904,
+        "width": 260,
+        "height": 13,
+        "size": "11px"
+      },
+      {
+        "text": "Task",
+        "x": 705,
+        "y": 889,
+        "width": 46,
+        "height": 21,
+        "size": "11px"
+      },
+      {
+        "text": "24 completed",
+        "x": 782.984375,
+        "y": 892,
+        "width": 78.234375,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "—",
+        "x": 963.484375,
+        "y": 891.5,
+        "width": 13,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "Final check-in",
+        "x": 407,
+        "y": 930,
+        "width": 260,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "Worth a quick conversation?",
+        "x": 407,
+        "y": 952,
+        "width": 260,
+        "height": 13,
+        "size": "11px"
+      },
+      {
+        "text": "Email",
+        "x": 705,
+        "y": 937,
+        "width": 46,
+        "height": 21,
+        "size": "11px"
+      },
+      {
+        "text": "42 scheduled",
+        "x": 782.984375,
+        "y": 940,
+        "width": 77.421875,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "—",
+        "x": 963.484375,
+        "y": 939.5,
+        "width": 13,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "Stops on reply",
+        "x": 329,
+        "y": 981.5,
+        "width": 74.984375,
+        "height": 13,
+        "size": "11px"
+      },
+      {
+        "text": "Weekdays · 9 AM–5 PM",
+        "x": 888.484375,
+        "y": 981.5,
+        "width": 122.515625,
+        "height": 13,
+        "size": "11px"
+      },
+      {
+        "text": "Engagement",
+        "x": 1072,
+        "y": 692.5,
+        "width": 328,
+        "height": 19,
+        "size": "16px"
+      },
+      {
+        "text": "Enterprise outbound · 124 contacts",
+        "x": 1072,
+        "y": 718.5,
+        "width": 328,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "8.9%",
+        "x": 1072,
+        "y": 750.5,
+        "width": 85.859375,
+        "height": 41,
+        "size": "34px"
+      },
+      {
+        "text": "Booking rate",
+        "x": 1072,
+        "y": 797.5,
+        "width": 85.859375,
+        "height": 13,
+        "size": "11px"
+      },
+      {
+        "text": "• 11 meetings",
+        "x": 1312.375,
+        "y": 768,
+        "width": 87.625,
+        "height": 25,
+        "size": "11px"
+      },
+      {
+        "text": "Delivered",
+        "x": 1072,
+        "y": 842.5,
+        "width": 53.640625,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "122 contacts",
+        "x": 1256.609375,
+        "y": 842.5,
+        "width": 59.796875,
+        "height": 15,
+        "size": "10px"
+      },
+      {
+        "text": "98.4%",
+        "x": 1362.40625,
+        "y": 842.5,
+        "width": 37.59375,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "Opened",
+        "x": 1072,
+        "y": 886.5,
+        "width": 44.953125,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "78 contacts",
+        "x": 1261.40625,
+        "y": 886.5,
+        "width": 55.234375,
+        "height": 15,
+        "size": "10px"
+      },
+      {
+        "text": "62.9%",
+        "x": 1362.640625,
+        "y": 886.5,
+        "width": 37.359375,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "Replied",
+        "x": 1072,
+        "y": 930.5,
+        "width": 42.046875,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "23 contacts",
+        "x": 1263.953125,
+        "y": 930.5,
+        "width": 55.8125,
+        "height": 15,
+        "size": "10px"
+      },
+      {
+        "text": "18.5%",
+        "x": 1365.765625,
+        "y": 930.5,
+        "width": 34.234375,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "+4 meetings this week",
+        "x": 1072,
+        "y": 973.5,
+        "width": 106.984375,
+        "height": 13,
+        "size": "10px"
+      },
+      {
+        "text": "Last 30 days",
+        "x": 1339.578125,
+        "y": 973.5,
+        "width": 60.421875,
+        "height": 13,
+        "size": "10px"
+      }
+    ]
+  },
+  {
+    "route": "strategic-aes",
+    "width": 1440,
+    "errors": [],
+    "viewport": [
+      1440,
+      1024
+    ],
+    "documentWidth": 1440,
+    "header": {
+      "x": 288,
+      "y": 0,
+      "width": 1152,
+      "height": 198
+    },
+    "main": {
+      "x": 288,
+      "y": 198,
+      "width": 1152,
+      "height": 826
+    },
+    "sections": [
+      {
+        "label": "Team performance",
+        "x": 308,
+        "y": 300,
+        "width": 1112,
+        "height": 360
+      },
+      {
+        "label": "Priority deals",
+        "x": 308,
+        "y": 680,
+        "width": 724,
+        "height": 324
+      },
+      {
+        "label": "Quarter target",
+        "x": 1052,
+        "y": 680,
+        "width": 368,
+        "height": 324
+      }
+    ],
+    "metrics": [
+      {
+        "x": 308,
+        "y": 218,
+        "width": 266,
+        "height": 64
+      },
+      {
+        "x": 590,
+        "y": 218,
+        "width": 266,
+        "height": 64
+      },
+      {
+        "x": 872,
+        "y": 218,
+        "width": 266,
+        "height": 64
+      },
+      {
+        "x": 1154,
+        "y": 218,
+        "width": 266,
+        "height": 64
+      }
+    ],
+    "text": [
+      {
+        "text": "Strategic AEs",
+        "x": 308,
+        "y": 26,
+        "width": 128.421875,
+        "height": 24,
+        "size": "20px"
+      },
+      {
+        "text": "$2.76M",
+        "x": 320,
+        "y": 245,
+        "width": 96,
+        "height": 28.0625,
+        "size": "23px"
+      },
+      {
+        "text": "76.7% of $3.60M quota",
+        "x": 416,
+        "y": 257,
+        "width": 146,
+        "height": 16.0625,
+        "size": "10px"
+      },
+      {
+        "text": "$8.42M",
+        "x": 602,
+        "y": 245,
+        "width": 98,
+        "height": 28.0625,
+        "size": "23px"
+      },
+      {
+        "text": "59 open deals",
+        "x": 700,
+        "y": 257,
+        "width": 144,
+        "height": 16.0625,
+        "size": "10px"
+      },
+      {
+        "text": "2.34×",
+        "x": 884,
+        "y": 245,
+        "width": 76,
+        "height": 28.0625,
+        "size": "23px"
+      },
+      {
+        "text": "Target 3× · Needs attention",
+        "x": 960,
+        "y": 257,
+        "width": 166,
+        "height": 16.0625,
+        "size": "10px"
+      },
+      {
+        "text": "42",
+        "x": 1166,
+        "y": 245,
+        "width": 40,
+        "height": 28.0625,
+        "size": "23px"
+      },
+      {
+        "text": "Managed by 6 account executives",
+        "x": 1206,
+        "y": 257,
+        "width": 202,
+        "height": 16.0625,
+        "size": "10px"
+      },
+      {
+        "text": "Team performance",
+        "x": 328,
+        "y": 317,
+        "width": 146.890625,
+        "height": 19.046875,
+        "size": "16px"
+      },
+      {
+        "text": "Sarah Jenkins",
+        "x": 364,
+        "y": 392.25,
+        "width": 80.015625,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "North America",
+        "x": 364,
+        "y": 411.25,
+        "width": 80.015625,
+        "height": 12,
+        "size": "10px"
+      },
+      {
+        "text": "• On track",
+        "x": 1303.953125,
+        "y": 396.75,
+        "width": 63.21875,
+        "height": 22,
+        "size": "10px"
+      },
+      {
+        "text": "Alex Santos",
+        "x": 364,
+        "y": 432.5,
+        "width": 68.65625,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "North America",
+        "x": 364,
+        "y": 451.5,
+        "width": 68.65625,
+        "height": 12,
+        "size": "10px"
+      },
+      {
+        "text": "• On track",
+        "x": 1303.953125,
+        "y": 437,
+        "width": 63.21875,
+        "height": 22,
+        "size": "10px"
+      },
+      {
+        "text": "Mark Daniels",
+        "x": 364,
+        "y": 472.5,
+        "width": 79.140625,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "EMEA Enterprise",
+        "x": 364,
+        "y": 491.5,
+        "width": 79.140625,
+        "height": 12,
+        "size": "10px"
+      },
+      {
+        "text": "• On track",
+        "x": 1303.953125,
+        "y": 477,
+        "width": 63.21875,
+        "height": 22,
+        "size": "10px"
+      },
+      {
+        "text": "Grace Brooks",
+        "x": 364,
+        "y": 512.5,
+        "width": 79.140625,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "EMEA Enterprise",
+        "x": 364,
+        "y": 531.5,
+        "width": 79.140625,
+        "height": 12,
+        "size": "10px"
+      },
+      {
+        "text": "• At risk",
+        "x": 1303.953125,
+        "y": 517,
+        "width": 52.828125,
+        "height": 22,
+        "size": "10px"
+      },
+      {
+        "text": "Noah Reed",
+        "x": 364,
+        "y": 552.5,
+        "width": 78.046875,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "APAC Expansion",
+        "x": 364,
+        "y": 571.5,
+        "width": 78.046875,
+        "height": 12,
+        "size": "10px"
+      },
+      {
+        "text": "• At risk",
+        "x": 1303.953125,
+        "y": 557,
+        "width": 52.828125,
+        "height": 22,
+        "size": "10px"
+      },
+      {
+        "text": "James Taylor",
+        "x": 364,
+        "y": 592.5,
+        "width": 75.65625,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "North America",
+        "x": 364,
+        "y": 611.5,
+        "width": 75.65625,
+        "height": 12,
+        "size": "10px"
+      },
+      {
+        "text": "• At risk",
+        "x": 1303.953125,
+        "y": 597,
+        "width": 52.828125,
+        "height": 22,
+        "size": "10px"
+      },
+      {
+        "text": "Priority deals",
+        "x": 328,
+        "y": 698,
+        "width": 267.6875,
+        "height": 19.046875,
+        "size": "16px"
+      },
+      {
+        "text": "Next steps for your highest-value opportunities",
+        "x": 328,
+        "y": 723.046875,
+        "width": 267.6875,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "Apple",
+        "x": 328,
+        "y": 767,
+        "width": 245,
+        "height": 17,
+        "size": "14px"
+      },
+      {
+        "text": "Enterprise pilot · Final review",
+        "x": 328,
+        "y": 790,
+        "width": 245,
+        "height": 13,
+        "size": "11px"
+      },
+      {
+        "text": "$530,111",
+        "x": 573,
+        "y": 767,
+        "width": 119,
+        "height": 17,
+        "size": "14px"
+      },
+      {
+        "text": "Alex Santos",
+        "x": 573,
+        "y": 790,
+        "width": 119,
+        "height": 13,
+        "size": "10px"
+      },
+      {
+        "text": "Confirm pilot scope",
+        "x": 733,
+        "y": 767,
+        "width": 111.375,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "Today",
+        "x": 733,
+        "y": 790,
+        "width": 111.375,
+        "height": 12,
+        "size": "10px"
+      },
+      {
+        "text": "LVMH",
+        "x": 328,
+        "y": 830,
+        "width": 245,
+        "height": 17,
+        "size": "14px"
+      },
+      {
+        "text": "Global rollout · Proposal",
+        "x": 328,
+        "y": 853,
+        "width": 245,
+        "height": 13,
+        "size": "11px"
+      },
+      {
+        "text": "$420,000",
+        "x": 573,
+        "y": 830,
+        "width": 119,
+        "height": 17,
+        "size": "14px"
+      },
+      {
+        "text": "Sarah Jenkins",
+        "x": 573,
+        "y": 853,
+        "width": 119,
+        "height": 13,
+        "size": "10px"
+      },
+      {
+        "text": "Follow up on proposal",
+        "x": 733,
+        "y": 830,
+        "width": 124.65625,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "Oct 14",
+        "x": 733,
+        "y": 853,
+        "width": 124.65625,
+        "height": 12,
+        "size": "10px"
+      },
+      {
+        "text": "Microsoft",
+        "x": 328,
+        "y": 893,
+        "width": 245,
+        "height": 17,
+        "size": "14px"
+      },
+      {
+        "text": "Strategic expansion · Negotiation",
+        "x": 328,
+        "y": 916,
+        "width": 245,
+        "height": 13,
+        "size": "11px"
+      },
+      {
+        "text": "$320,222",
+        "x": 573,
+        "y": 893,
+        "width": 119,
+        "height": 17,
+        "size": "14px"
+      },
+      {
+        "text": "Mark Daniels",
+        "x": 573,
+        "y": 916,
+        "width": 119,
+        "height": 13,
+        "size": "10px"
+      },
+      {
+        "text": "Review contract terms",
+        "x": 733,
+        "y": 893,
+        "width": 126.78125,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "Oct 19",
+        "x": 733,
+        "y": 916,
+        "width": 126.78125,
+        "height": 12,
+        "size": "10px"
+      },
+      {
+        "text": "Quarter target",
+        "x": 1072,
+        "y": 698,
+        "width": 136.171875,
+        "height": 19.046875,
+        "size": "16px"
+      },
+      {
+        "text": "Q4 2026 · Strategic AEs",
+        "x": 1072,
+        "y": 724.046875,
+        "width": 136.171875,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "• At risk",
+        "x": 1346.625,
+        "y": 698,
+        "width": 53.375,
+        "height": 23,
+        "size": "10px"
+      },
+      {
+        "text": "76.7%",
+        "x": 1072,
+        "y": 758.046875,
+        "width": 328,
+        "height": 41,
+        "size": "34px"
+      },
+      {
+        "text": "$2.76M closed",
+        "x": 1072,
+        "y": 835.046875,
+        "width": 77.1875,
+        "height": 13,
+        "size": "11px"
+      },
+      {
+        "text": "$3.60M target",
+        "x": 1326.15625,
+        "y": 835.046875,
+        "width": 73.84375,
+        "height": 13,
+        "size": "11px"
+      },
+      {
+        "text": "$840K",
+        "x": 1072,
+        "y": 888.046875,
+        "width": 164,
+        "height": 27,
+        "size": "22px"
+      },
+      {
+        "text": "Remaining to quota",
+        "x": 1072,
+        "y": 920.046875,
+        "width": 164,
+        "height": 13,
+        "size": "11px"
+      },
+      {
+        "text": "2.34×",
+        "x": 1236,
+        "y": 888.046875,
+        "width": 164,
+        "height": 27,
+        "size": "22px"
+      },
+      {
+        "text": "Pipeline coverage",
+        "x": 1236,
+        "y": 920.046875,
+        "width": 164,
+        "height": 13,
+        "size": "11px"
+      }
+    ]
+  },
+  {
+    "route": "mid-market",
+    "width": 1440,
+    "errors": [],
+    "viewport": [
+      1440,
+      1024
+    ],
+    "documentWidth": 1440,
+    "header": {
+      "x": 288,
+      "y": 0,
+      "width": 1152,
+      "height": 198
+    },
+    "main": {
+      "x": 288,
+      "y": 198,
+      "width": 1152,
+      "height": 826
+    },
+    "sections": [
+      {
+        "label": "Team performance",
+        "x": 308,
+        "y": 300,
+        "width": 1112,
+        "height": 360
+      },
+      {
+        "label": "Priority deals",
+        "x": 308,
+        "y": 680,
+        "width": 724,
+        "height": 324
+      },
+      {
+        "label": "Quarter target",
+        "x": 1052,
+        "y": 680,
+        "width": 368,
+        "height": 324
+      }
+    ],
+    "metrics": [
+      {
+        "x": 308,
+        "y": 218,
+        "width": 266,
+        "height": 64
+      },
+      {
+        "x": 590,
+        "y": 218,
+        "width": 266,
+        "height": 64
+      },
+      {
+        "x": 872,
+        "y": 218,
+        "width": 266,
+        "height": 64
+      },
+      {
+        "x": 1154,
+        "y": 218,
+        "width": 266,
+        "height": 64
+      }
+    ],
+    "text": [
+      {
+        "text": "Mid Market",
+        "x": 308,
+        "y": 26,
+        "width": 107.9375,
+        "height": 24,
+        "size": "20px"
+      },
+      {
+        "text": "$1.44M",
+        "x": 320,
+        "y": 245,
+        "width": 96,
+        "height": 28.0625,
+        "size": "23px"
+      },
+      {
+        "text": "80% of $1.80M quota",
+        "x": 416,
+        "y": 257,
+        "width": 146,
+        "height": 16.0625,
+        "size": "10px"
+      },
+      {
+        "text": "$4.86M",
+        "x": 602,
+        "y": 245,
+        "width": 98,
+        "height": 28.0625,
+        "size": "23px"
+      },
+      {
+        "text": "74 open deals",
+        "x": 700,
+        "y": 257,
+        "width": 144,
+        "height": 16.0625,
+        "size": "10px"
+      },
+      {
+        "text": "124",
+        "x": 884,
+        "y": 245,
+        "width": 54,
+        "height": 28.0625,
+        "size": "23px"
+      },
+      {
+        "text": "Managed by 6 account executives",
+        "x": 938,
+        "y": 257,
+        "width": 188,
+        "height": 16.0625,
+        "size": "10px"
+      },
+      {
+        "text": "$65.7K",
+        "x": 1166,
+        "y": 245,
+        "width": 98,
+        "height": 28.0625,
+        "size": "23px"
+      },
+      {
+        "text": "Across the open pipeline",
+        "x": 1264,
+        "y": 257,
+        "width": 144,
+        "height": 16.0625,
+        "size": "10px"
+      },
+      {
+        "text": "Team performance",
+        "x": 328,
+        "y": 317,
+        "width": 146.890625,
+        "height": 19.046875,
+        "size": "16px"
+      },
+      {
+        "text": "Emma Carter",
+        "x": 364,
+        "y": 392.25,
+        "width": 73.890625,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "North America",
+        "x": 364,
+        "y": 411.25,
+        "width": 73.890625,
+        "height": 12,
+        "size": "10px"
+      },
+      {
+        "text": "• On track",
+        "x": 1303.953125,
+        "y": 396.75,
+        "width": 63.21875,
+        "height": 22,
+        "size": "10px"
+      },
+      {
+        "text": "Oliver Reed",
+        "x": 364,
+        "y": 432.5,
+        "width": 68.65625,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "North America",
+        "x": 364,
+        "y": 451.5,
+        "width": 68.65625,
+        "height": 12,
+        "size": "10px"
+      },
+      {
+        "text": "• On track",
+        "x": 1303.953125,
+        "y": 437,
+        "width": 63.21875,
+        "height": 22,
+        "size": "10px"
+      },
+      {
+        "text": "Ava Mitchell",
+        "x": 364,
+        "y": 472.5,
+        "width": 68.578125,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "EMEA",
+        "x": 364,
+        "y": 491.5,
+        "width": 68.578125,
+        "height": 12,
+        "size": "10px"
+      },
+      {
+        "text": "• On track",
+        "x": 1303.953125,
+        "y": 477,
+        "width": 63.21875,
+        "height": 22,
+        "size": "10px"
+      },
+      {
+        "text": "Jamie Parker",
+        "x": 364,
+        "y": 512.5,
+        "width": 74.328125,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "EMEA",
+        "x": 364,
+        "y": 531.5,
+        "width": 74.328125,
+        "height": 12,
+        "size": "10px"
+      },
+      {
+        "text": "• On track",
+        "x": 1303.953125,
+        "y": 517,
+        "width": 63.21875,
+        "height": 22,
+        "size": "10px"
+      },
+      {
+        "text": "Hannah Lee",
+        "x": 364,
+        "y": 552.5,
+        "width": 67.828125,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "APAC",
+        "x": 364,
+        "y": 571.5,
+        "width": 67.828125,
+        "height": 12,
+        "size": "10px"
+      },
+      {
+        "text": "• At risk",
+        "x": 1303.953125,
+        "y": 557,
+        "width": 52.828125,
+        "height": 22,
+        "size": "10px"
+      },
+      {
+        "text": "Ricky Chen",
+        "x": 364,
+        "y": 592.5,
+        "width": 64.140625,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "APAC",
+        "x": 364,
+        "y": 611.5,
+        "width": 64.140625,
+        "height": 12,
+        "size": "10px"
+      },
+      {
+        "text": "• At risk",
+        "x": 1303.953125,
+        "y": 597,
+        "width": 52.828125,
+        "height": 22,
+        "size": "10px"
+      },
+      {
+        "text": "Priority deals",
+        "x": 328,
+        "y": 698,
+        "width": 237.828125,
+        "height": 19.046875,
+        "size": "16px"
+      },
+      {
+        "text": "Next actions to keep your pipeline moving",
+        "x": 328,
+        "y": 723.046875,
+        "width": 237.828125,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "Shopify",
+        "x": 328,
+        "y": 767,
+        "width": 245,
+        "height": 17,
+        "size": "14px"
+      },
+      {
+        "text": "Partner rollout · Solution call",
+        "x": 328,
+        "y": 790,
+        "width": 245,
+        "height": 13,
+        "size": "11px"
+      },
+      {
+        "text": "$139,007",
+        "x": 573,
+        "y": 767,
+        "width": 119,
+        "height": 17,
+        "size": "14px"
+      },
+      {
+        "text": "Emma Carter",
+        "x": 573,
+        "y": 790,
+        "width": 119,
+        "height": 13,
+        "size": "10px"
+      },
+      {
+        "text": "Share partner proposal",
+        "x": 733,
+        "y": 767,
+        "width": 130.421875,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "Today",
+        "x": 733,
+        "y": 790,
+        "width": 130.421875,
+        "height": 12,
+        "size": "10px"
+      },
+      {
+        "text": "Zoom",
+        "x": 328,
+        "y": 830,
+        "width": 245,
+        "height": 17,
+        "size": "14px"
+      },
+      {
+        "text": "Seat expansion · Discovery",
+        "x": 328,
+        "y": 853,
+        "width": 245,
+        "height": 13,
+        "size": "11px"
+      },
+      {
+        "text": "$289,921",
+        "x": 573,
+        "y": 830,
+        "width": 119,
+        "height": 17,
+        "size": "14px"
+      },
+      {
+        "text": "Oliver Reed",
+        "x": 573,
+        "y": 853,
+        "width": 119,
+        "height": 13,
+        "size": "10px"
+      },
+      {
+        "text": "Confirm demo attendees",
+        "x": 733,
+        "y": 830,
+        "width": 140.65625,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "Oct 12",
+        "x": 733,
+        "y": 853,
+        "width": 140.65625,
+        "height": 12,
+        "size": "10px"
+      },
+      {
+        "text": "Slack",
+        "x": 328,
+        "y": 893,
+        "width": 245,
+        "height": 17,
+        "size": "14px"
+      },
+      {
+        "text": "Team upgrade · Qualification",
+        "x": 328,
+        "y": 916,
+        "width": 245,
+        "height": 13,
+        "size": "11px"
+      },
+      {
+        "text": "$333,221",
+        "x": 573,
+        "y": 893,
+        "width": 119,
+        "height": 17,
+        "size": "14px"
+      },
+      {
+        "text": "Ava Mitchell",
+        "x": 573,
+        "y": 916,
+        "width": 119,
+        "height": 13,
+        "size": "10px"
+      },
+      {
+        "text": "Schedule discovery call",
+        "x": 733,
+        "y": 893,
+        "width": 134.625,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "Oct 14",
+        "x": 733,
+        "y": 916,
+        "width": 134.625,
+        "height": 12,
+        "size": "10px"
+      },
+      {
+        "text": "Quarter target",
+        "x": 1072,
+        "y": 698,
+        "width": 124.15625,
+        "height": 19.046875,
+        "size": "16px"
+      },
+      {
+        "text": "Q4 2026 · Mid Market",
+        "x": 1072,
+        "y": 724.046875,
+        "width": 124.15625,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "• On track",
+        "x": 1336.390625,
+        "y": 698,
+        "width": 63.609375,
+        "height": 23,
+        "size": "10px"
+      },
+      {
+        "text": "80%",
+        "x": 1072,
+        "y": 758.046875,
+        "width": 328,
+        "height": 41,
+        "size": "34px"
+      },
+      {
+        "text": "$1.44M closed",
+        "x": 1072,
+        "y": 835.046875,
+        "width": 76.453125,
+        "height": 13,
+        "size": "11px"
+      },
+      {
+        "text": "$1.80M target",
+        "x": 1328.21875,
+        "y": 835.046875,
+        "width": 71.78125,
+        "height": 13,
+        "size": "11px"
+      },
+      {
+        "text": "$360K",
+        "x": 1072,
+        "y": 888.046875,
+        "width": 164,
+        "height": 27,
+        "size": "22px"
+      },
+      {
+        "text": "Remaining to quota",
+        "x": 1072,
+        "y": 920.046875,
+        "width": 164,
+        "height": 13,
+        "size": "11px"
+      },
+      {
+        "text": "2.70×",
+        "x": 1236,
+        "y": 888.046875,
+        "width": 164,
+        "height": 27,
+        "size": "22px"
+      },
+      {
+        "text": "Pipeline coverage",
+        "x": 1236,
+        "y": 920.046875,
+        "width": 164,
+        "height": 13,
+        "size": "11px"
+      }
+    ]
+  },
+  {
+    "route": "sdr-team",
+    "width": 1440,
+    "errors": [],
+    "viewport": [
+      1440,
+      1024
+    ],
+    "documentWidth": 1440,
+    "header": {
+      "x": 288,
+      "y": 0,
+      "width": 1152,
+      "height": 198
+    },
+    "main": {
+      "x": 288,
+      "y": 198,
+      "width": 1152,
+      "height": 826
+    },
+    "sections": [
+      {
+        "label": "Team performance",
+        "x": 308,
+        "y": 300,
+        "width": 1112,
+        "height": 360
+      },
+      {
+        "label": "Priority follow-ups",
+        "x": 308,
+        "y": 680,
+        "width": 724,
+        "height": 324
+      },
+      {
+        "label": "Quarter target",
+        "x": 1052,
+        "y": 680,
+        "width": 368,
+        "height": 324
+      }
+    ],
+    "metrics": [
+      {
+        "x": 308,
+        "y": 218,
+        "width": 266,
+        "height": 64
+      },
+      {
+        "x": 590,
+        "y": 218,
+        "width": 266,
+        "height": 64
+      },
+      {
+        "x": 872,
+        "y": 218,
+        "width": 266,
+        "height": 64
+      },
+      {
+        "x": 1154,
+        "y": 218,
+        "width": 266,
+        "height": 64
+      }
+    ],
+    "text": [
+      {
+        "text": "SDR Team",
+        "x": 308,
+        "y": 26,
+        "width": 98.203125,
+        "height": 24,
+        "size": "20px"
+      },
+      {
+        "text": "86",
+        "x": 320,
+        "y": 245,
+        "width": 42,
+        "height": 28.0625,
+        "size": "23px"
+      },
+      {
+        "text": "89.6% of 96-meeting target",
+        "x": 362,
+        "y": 257,
+        "width": 200,
+        "height": 16.0625,
+        "size": "10px"
+      },
+      {
+        "text": "58",
+        "x": 602,
+        "y": 245,
+        "width": 42,
+        "height": 28.0625,
+        "size": "23px"
+      },
+      {
+        "text": "67.4% qualification rate",
+        "x": 644,
+        "y": 257,
+        "width": 200,
+        "height": 16.0625,
+        "size": "10px"
+      },
+      {
+        "text": "$1.92M",
+        "x": 884,
+        "y": 245,
+        "width": 98,
+        "height": 28.0625,
+        "size": "23px"
+      },
+      {
+        "text": "From qualified handoffs",
+        "x": 982,
+        "y": 257,
+        "width": 144,
+        "height": 16.0625,
+        "size": "10px"
+      },
+      {
+        "text": "82.6%",
+        "x": 1166,
+        "y": 245,
+        "width": 86,
+        "height": 28.0625,
+        "size": "23px"
+      },
+      {
+        "text": "71 of 86 meetings attended",
+        "x": 1252,
+        "y": 257,
+        "width": 156,
+        "height": 16.0625,
+        "size": "10px"
+      },
+      {
+        "text": "Team performance",
+        "x": 328,
+        "y": 317,
+        "width": 146.890625,
+        "height": 19.046875,
+        "size": "16px"
+      },
+      {
+        "text": "Sophie Miller",
+        "x": 364,
+        "y": 392.25,
+        "width": 73.6875,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "North America",
+        "x": 364,
+        "y": 411.25,
+        "width": 73.6875,
+        "height": 12,
+        "size": "10px"
+      },
+      {
+        "text": "• On track",
+        "x": 1304,
+        "y": 396.75,
+        "width": 63.21875,
+        "height": 22,
+        "size": "10px"
+      },
+      {
+        "text": "Lucas Bennett",
+        "x": 364,
+        "y": 432.5,
+        "width": 81.1875,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "North America",
+        "x": 364,
+        "y": 451.5,
+        "width": 81.1875,
+        "height": 12,
+        "size": "10px"
+      },
+      {
+        "text": "• On track",
+        "x": 1304,
+        "y": 437,
+        "width": 63.21875,
+        "height": 22,
+        "size": "10px"
+      },
+      {
+        "text": "Chloe Davis",
+        "x": 364,
+        "y": 472.5,
+        "width": 67.546875,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "EMEA",
+        "x": 364,
+        "y": 491.5,
+        "width": 67.546875,
+        "height": 12,
+        "size": "10px"
+      },
+      {
+        "text": "• On track",
+        "x": 1304,
+        "y": 477,
+        "width": 63.21875,
+        "height": 22,
+        "size": "10px"
+      },
+      {
+        "text": "Ethan Brooks",
+        "x": 364,
+        "y": 512.5,
+        "width": 74.921875,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "EMEA",
+        "x": 364,
+        "y": 531.5,
+        "width": 74.921875,
+        "height": 12,
+        "size": "10px"
+      },
+      {
+        "text": "• On track",
+        "x": 1304,
+        "y": 517,
+        "width": 63.21875,
+        "height": 22,
+        "size": "10px"
+      },
+      {
+        "text": "Amelia Wright",
+        "x": 364,
+        "y": 552.5,
+        "width": 79.0625,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "APAC",
+        "x": 364,
+        "y": 571.5,
+        "width": 79.0625,
+        "height": 12,
+        "size": "10px"
+      },
+      {
+        "text": "• At risk",
+        "x": 1304,
+        "y": 557,
+        "width": 52.828125,
+        "height": 22,
+        "size": "10px"
+      },
+      {
+        "text": "Leo Martin",
+        "x": 364,
+        "y": 592.5,
+        "width": 60.5625,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "APAC",
+        "x": 364,
+        "y": 611.5,
+        "width": 60.5625,
+        "height": 12,
+        "size": "10px"
+      },
+      {
+        "text": "• At risk",
+        "x": 1304,
+        "y": 597,
+        "width": 52.828125,
+        "height": 22,
+        "size": "10px"
+      },
+      {
+        "text": "Priority follow-ups",
+        "x": 328,
+        "y": 698,
+        "width": 215.046875,
+        "height": 19.046875,
+        "size": "16px"
+      },
+      {
+        "text": "Leads ready for the next conversation",
+        "x": 328,
+        "y": 723.046875,
+        "width": 215.046875,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "Emma Wilson",
+        "x": 328,
+        "y": 767,
+        "width": 245,
+        "height": 17,
+        "size": "14px"
+      },
+      {
+        "text": "Stripe · VP of Finance",
+        "x": 328,
+        "y": 790,
+        "width": 245,
+        "height": 13,
+        "size": "11px"
+      },
+      {
+        "text": "Email replied",
+        "x": 573,
+        "y": 767,
+        "width": 119,
+        "height": 17,
+        "size": "11px"
+      },
+      {
+        "text": "Sophie Miller",
+        "x": 573,
+        "y": 790,
+        "width": 119,
+        "height": 13,
+        "size": "10px"
+      },
+      {
+        "text": "Book discovery call",
+        "x": 733,
+        "y": 767,
+        "width": 110.46875,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "Today",
+        "x": 733,
+        "y": 790,
+        "width": 110.46875,
+        "height": 12,
+        "size": "10px"
+      },
+      {
+        "text": "Mia Thompson",
+        "x": 328,
+        "y": 830,
+        "width": 245,
+        "height": 17,
+        "size": "14px"
+      },
+      {
+        "text": "Netflix · Partner Manager",
+        "x": 328,
+        "y": 853,
+        "width": 245,
+        "height": 13,
+        "size": "11px"
+      },
+      {
+        "text": "Demo requested",
+        "x": 573,
+        "y": 830,
+        "width": 119,
+        "height": 17,
+        "size": "11px"
+      },
+      {
+        "text": "Lucas Bennett",
+        "x": 573,
+        "y": 853,
+        "width": 119,
+        "height": 13,
+        "size": "10px"
+      },
+      {
+        "text": "Confirm meeting time",
+        "x": 733,
+        "y": 830,
+        "width": 122.5,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "Today",
+        "x": 733,
+        "y": 853,
+        "width": 122.5,
+        "height": 12,
+        "size": "10px"
+      },
+      {
+        "text": "Liam Anderson",
+        "x": 328,
+        "y": 893,
+        "width": 245,
+        "height": 17,
+        "size": "14px"
+      },
+      {
+        "text": "Airbnb · Regional Director",
+        "x": 328,
+        "y": 916,
+        "width": 245,
+        "height": 13,
+        "size": "11px"
+      },
+      {
+        "text": "Meeting held",
+        "x": 573,
+        "y": 893,
+        "width": 119,
+        "height": 17,
+        "size": "11px"
+      },
+      {
+        "text": "Chloe Davis",
+        "x": 573,
+        "y": 916,
+        "width": 119,
+        "height": 13,
+        "size": "10px"
+      },
+      {
+        "text": "Hand off to account executive",
+        "x": 733,
+        "y": 893,
+        "width": 170.265625,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "Oct 12",
+        "x": 733,
+        "y": 916,
+        "width": 170.265625,
+        "height": 12,
+        "size": "10px"
+      },
+      {
+        "text": "Quarter target",
+        "x": 1072,
+        "y": 698,
+        "width": 118.796875,
+        "height": 19.046875,
+        "size": "16px"
+      },
+      {
+        "text": "Q4 2026 · SDR Team",
+        "x": 1072,
+        "y": 724.046875,
+        "width": 118.796875,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "• On track",
+        "x": 1336.390625,
+        "y": 698,
+        "width": 63.609375,
+        "height": 23,
+        "size": "10px"
+      },
+      {
+        "text": "89.6%",
+        "x": 1072,
+        "y": 758.046875,
+        "width": 328,
+        "height": 41,
+        "size": "34px"
+      },
+      {
+        "text": "86 meetings booked",
+        "x": 1072,
+        "y": 835.046875,
+        "width": 106.46875,
+        "height": 13,
+        "size": "11px"
+      },
+      {
+        "text": "96 target",
+        "x": 1352.703125,
+        "y": 835.046875,
+        "width": 47.296875,
+        "height": 13,
+        "size": "11px"
+      },
+      {
+        "text": "10",
+        "x": 1072,
+        "y": 888.046875,
+        "width": 164,
+        "height": 27,
+        "size": "22px"
+      },
+      {
+        "text": "Meetings to target",
+        "x": 1072,
+        "y": 920.046875,
+        "width": 164,
+        "height": 13,
+        "size": "11px"
+      },
+      {
+        "text": "82.6%",
+        "x": 1236,
+        "y": 888.046875,
+        "width": 164,
+        "height": 27,
+        "size": "22px"
+      },
+      {
+        "text": "Meeting show rate",
+        "x": 1236,
+        "y": 920.046875,
+        "width": 164,
+        "height": 13,
+        "size": "11px"
+      }
+    ]
+  },
+  {
+    "route": "q1-forecast",
+    "width": 1440,
+    "errors": [],
+    "viewport": [
+      1440,
+      1024
+    ],
+    "documentWidth": 1440,
+    "header": {
+      "x": 288,
+      "y": 0,
+      "width": 1152,
+      "height": 198
+    },
+    "main": {
+      "x": 288,
+      "y": 198,
+      "width": 1152,
+      "height": 826
+    },
+    "sections": [
+      {
+        "label": "Monthly forecast",
+        "x": 308,
+        "y": 300,
+        "width": 724,
+        "height": 308
+      },
+      {
+        "label": "Quarter target",
+        "x": 1052,
+        "y": 300,
+        "width": 368,
+        "height": 308
+      },
+      {
+        "label": "Forecast by owner",
+        "x": 308,
+        "y": 628,
+        "width": 1112,
+        "height": 376
+      }
+    ],
+    "metrics": [
+      {
+        "x": 308,
+        "y": 218,
+        "width": 266,
+        "height": 64
+      },
+      {
+        "x": 590,
+        "y": 218,
+        "width": 266,
+        "height": 64
+      },
+      {
+        "x": 872,
+        "y": 218,
+        "width": 266,
+        "height": 64
+      },
+      {
+        "x": 1154,
+        "y": 218,
+        "width": 266,
+        "height": 64
+      }
+    ],
+    "text": [
+      {
+        "text": "Q1 Forecast",
+        "x": 308,
+        "y": 26,
+        "width": 111.9375,
+        "height": 24,
+        "size": "20px"
+      },
+      {
+        "text": "$3.12M",
+        "x": 320,
+        "y": 245,
+        "width": 96,
+        "height": 28.0625,
+        "size": "23px"
+      },
+      {
+        "text": "78% of $4M target",
+        "x": 416,
+        "y": 257,
+        "width": 146,
+        "height": 16.0625,
+        "size": "10px"
+      },
+      {
+        "text": "$1.82M",
+        "x": 602,
+        "y": 245,
+        "width": 96,
+        "height": 28.0625,
+        "size": "23px"
+      },
+      {
+        "text": "High-confidence deals",
+        "x": 698,
+        "y": 257,
+        "width": 146,
+        "height": 16.0625,
+        "size": "10px"
+      },
+      {
+        "text": "$1.30M",
+        "x": 884,
+        "y": 245,
+        "width": 96,
+        "height": 28.0625,
+        "size": "23px"
+      },
+      {
+        "text": "Upside opportunities",
+        "x": 980,
+        "y": 257,
+        "width": 146,
+        "height": 16.0625,
+        "size": "10px"
+      },
+      {
+        "text": "1.56×",
+        "x": 1166,
+        "y": 245,
+        "width": 78,
+        "height": 28.0625,
+        "size": "23px"
+      },
+      {
+        "text": "$6.24M open pipeline",
+        "x": 1244,
+        "y": 257,
+        "width": 164,
+        "height": 16.0625,
+        "size": "10px"
+      },
+      {
+        "text": "Monthly forecast",
+        "x": 328,
+        "y": 318,
+        "width": 131.671875,
+        "height": 20,
+        "size": "16px"
+      },
+      {
+        "text": "●",
+        "x": 886.921875,
+        "y": 321.5,
+        "width": 9.140625,
+        "height": 12,
+        "size": "10px"
+      },
+      {
+        "text": "●",
+        "x": 952.578125,
+        "y": 321.5,
+        "width": 9.140625,
+        "height": 12,
+        "size": "10px"
+      },
+      {
+        "text": "Expected revenue by close month",
+        "x": 328,
+        "y": 344,
+        "width": 684,
+        "height": 16,
+        "size": "12px"
+      },
+      {
+        "text": "$1.5M",
+        "x": 328,
+        "y": 379,
+        "width": 32,
+        "height": 15,
+        "size": "10px"
+      },
+      {
+        "text": "$1M",
+        "x": 328,
+        "y": 433,
+        "width": 32,
+        "height": 15,
+        "size": "10px"
+      },
+      {
+        "text": "$500K",
+        "x": 328,
+        "y": 487,
+        "width": 32,
+        "height": 15,
+        "size": "10px"
+      },
+      {
+        "text": "$0",
+        "x": 328,
+        "y": 541,
+        "width": 32,
+        "height": 15,
+        "size": "10px"
+      },
+      {
+        "text": "$0.80M",
+        "x": 469.765625,
+        "y": 437.8125,
+        "width": 40.328125,
+        "height": 16.5,
+        "size": "11px"
+      },
+      {
+        "text": "$1.04M",
+        "x": 656.65625,
+        "y": 411.40625,
+        "width": 38.40625,
+        "height": 16.5,
+        "size": "11px"
+      },
+      {
+        "text": "$1.28M",
+        "x": 842.703125,
+        "y": 385,
+        "width": 38.15625,
+        "height": 16.5,
+        "size": "11px"
+      },
+      {
+        "text": "January",
+        "x": 396.984375,
+        "y": 566,
+        "width": 185.921875,
+        "height": 16,
+        "size": "12px"
+      },
+      {
+        "text": "February",
+        "x": 582.90625,
+        "y": 566,
+        "width": 185.921875,
+        "height": 16,
+        "size": "12px"
+      },
+      {
+        "text": "March",
+        "x": 768.828125,
+        "y": 566,
+        "width": 185.921875,
+        "height": 16,
+        "size": "12px"
+      },
+      {
+        "text": "Quarter target",
+        "x": 1072,
+        "y": 318,
+        "width": 109.359375,
+        "height": 24,
+        "size": "16px"
+      },
+      {
+        "text": "• At risk",
+        "x": 1346,
+        "y": 318,
+        "width": 54,
+        "height": 24,
+        "size": "11px"
+      },
+      {
+        "text": "$4,000,000",
+        "x": 1072,
+        "y": 354,
+        "width": 328,
+        "height": 36,
+        "size": "30px"
+      },
+      {
+        "text": "Q1 2027 revenue target",
+        "x": 1072,
+        "y": 394,
+        "width": 328,
+        "height": 16,
+        "size": "12px"
+      },
+      {
+        "text": "78% expected attainment",
+        "x": 1072,
+        "y": 457,
+        "width": 133.03125,
+        "height": 16.5,
+        "size": "11px"
+      },
+      {
+        "text": "22% remaining",
+        "x": 1321.421875,
+        "y": 457,
+        "width": 78.578125,
+        "height": 16.5,
+        "size": "11px"
+      },
+      {
+        "text": "●",
+        "x": 1072,
+        "y": 507.5,
+        "width": 10.96875,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "●",
+        "x": 1072,
+        "y": 541,
+        "width": 10.96875,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "●",
+        "x": 1072,
+        "y": 574.5,
+        "width": 10.96875,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "Forecast by owner",
+        "x": 328,
+        "y": 646,
+        "width": 197.875,
+        "height": 19.046875,
+        "size": "16px"
+      },
+      {
+        "text": "Top 6 owners by weighted pipeline",
+        "x": 328,
+        "y": 672.046875,
+        "width": 197.875,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "Alex Santos",
+        "x": 361,
+        "y": 725.75,
+        "width": 72.265625,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "Apple",
+        "x": 361,
+        "y": 745.75,
+        "width": 72.265625,
+        "height": 16,
+        "size": "10px"
+      },
+      {
+        "text": "$ 720,000",
+        "x": 1005.078125,
+        "y": 734.75,
+        "width": 68.03125,
+        "height": 17,
+        "size": "14px"
+      },
+      {
+        "text": "Commit",
+        "x": 1193.765625,
+        "y": 731.75,
+        "width": 96,
+        "height": 24,
+        "size": "11px"
+      },
+      {
+        "text": "Sarah Nguyen",
+        "x": 361,
+        "y": 766,
+        "width": 86.953125,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "LVMH",
+        "x": 361,
+        "y": 786,
+        "width": 86.953125,
+        "height": 16,
+        "size": "10px"
+      },
+      {
+        "text": "$ 630,000",
+        "x": 1005.078125,
+        "y": 775,
+        "width": 68.90625,
+        "height": 17,
+        "size": "14px"
+      },
+      {
+        "text": "Commit",
+        "x": 1193.765625,
+        "y": 772,
+        "width": 96,
+        "height": 24,
+        "size": "11px"
+      },
+      {
+        "text": "Mark Darnalds",
+        "x": 361,
+        "y": 806,
+        "width": 89.671875,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "Microsoft",
+        "x": 361,
+        "y": 826,
+        "width": 89.671875,
+        "height": 16,
+        "size": "10px"
+      },
+      {
+        "text": "$ 532,000",
+        "x": 1005.078125,
+        "y": 815,
+        "width": 68.59375,
+        "height": 17,
+        "size": "14px"
+      },
+      {
+        "text": "Commit",
+        "x": 1193.765625,
+        "y": 812,
+        "width": 96,
+        "height": 24,
+        "size": "11px"
+      },
+      {
+        "text": "Noah Lee",
+        "x": 361,
+        "y": 846,
+        "width": 58.875,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "Stripe",
+        "x": 361,
+        "y": 866,
+        "width": 58.875,
+        "height": 16,
+        "size": "10px"
+      },
+      {
+        "text": "$ 468,000",
+        "x": 1005.078125,
+        "y": 855,
+        "width": 69.171875,
+        "height": 17,
+        "size": "14px"
+      },
+      {
+        "text": "Best case",
+        "x": 1193.765625,
+        "y": 852,
+        "width": 96,
+        "height": 24,
+        "size": "11px"
+      },
+      {
+        "text": "Nia Jameson",
+        "x": 361,
+        "y": 886,
+        "width": 79.9375,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "United Airlines",
+        "x": 361,
+        "y": 906,
+        "width": 79.9375,
+        "height": 16,
+        "size": "10px"
+      },
+      {
+        "text": "$ 396,000",
+        "x": 1005.078125,
+        "y": 895,
+        "width": 68.640625,
+        "height": 17,
+        "size": "14px"
+      },
+      {
+        "text": "Best case",
+        "x": 1193.765625,
+        "y": 892,
+        "width": 96,
+        "height": 24,
+        "size": "11px"
+      },
+      {
+        "text": "Grace Brooks",
+        "x": 361,
+        "y": 926,
+        "width": 83.328125,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "Snowflake",
+        "x": 361,
+        "y": 946,
+        "width": 83.328125,
+        "height": 16,
+        "size": "10px"
+      },
+      {
+        "text": "$ 330,000",
+        "x": 1005.078125,
+        "y": 935,
+        "width": 68.875,
+        "height": 17,
+        "size": "14px"
+      },
+      {
+        "text": "Best case",
+        "x": 1193.765625,
+        "y": 932,
+        "width": 96,
+        "height": 24,
+        "size": "11px"
+      }
+    ]
+  },
+  {
+    "route": "slipping-deals",
+    "width": 1440,
+    "errors": [],
+    "viewport": [
+      1440,
+      1024
+    ],
+    "documentWidth": 1440,
+    "header": {
+      "x": 288,
+      "y": 0,
+      "width": 1152,
+      "height": 198
+    },
+    "main": {
+      "x": 288,
+      "y": 198,
+      "width": 1152,
+      "height": 826
+    },
+    "sections": [
+      {
+        "label": "Deals needing attention",
+        "x": 308,
+        "y": 300,
+        "width": 1112,
+        "height": 384
+      },
+      {
+        "label": "Recovery plan",
+        "x": 308,
+        "y": 704,
+        "width": 724,
+        "height": 300
+      },
+      {
+        "label": "Risk breakdown",
+        "x": 1052,
+        "y": 704,
+        "width": 368,
+        "height": 300
+      }
+    ],
+    "metrics": [
+      {
+        "x": 308,
+        "y": 218,
+        "width": 266,
+        "height": 64
+      },
+      {
+        "x": 590,
+        "y": 218,
+        "width": 266,
+        "height": 64
+      },
+      {
+        "x": 872,
+        "y": 218,
+        "width": 266,
+        "height": 64
+      },
+      {
+        "x": 1154,
+        "y": 218,
+        "width": 266,
+        "height": 64
+      }
+    ],
+    "text": [
+      {
+        "text": "Slipping Deals",
+        "x": 308,
+        "y": 26,
+        "width": 136.078125,
+        "height": 24,
+        "size": "20px"
+      },
+      {
+        "text": "$1.56M",
+        "x": 320,
+        "y": 245,
+        "width": 98,
+        "height": 28.0625,
+        "size": "23px"
+      },
+      {
+        "text": "Across 6 open deals",
+        "x": 418,
+        "y": 257,
+        "width": 144,
+        "height": 16.0625,
+        "size": "10px"
+      },
+      {
+        "text": "3",
+        "x": 602,
+        "y": 245,
+        "width": 28,
+        "height": 28.0625,
+        "size": "23px"
+      },
+      {
+        "text": "$1.03M needs attention",
+        "x": 630,
+        "y": 257,
+        "width": 214,
+        "height": 16.0625,
+        "size": "10px"
+      },
+      {
+        "text": "8 days",
+        "x": 884,
+        "y": 245,
+        "width": 90,
+        "height": 28.0625,
+        "size": "23px"
+      },
+      {
+        "text": "Past expected close date",
+        "x": 974,
+        "y": 257,
+        "width": 152,
+        "height": 16.0625,
+        "size": "10px"
+      },
+      {
+        "text": "3",
+        "x": 1166,
+        "y": 245,
+        "width": 28,
+        "height": 28.0625,
+        "size": "23px"
+      },
+      {
+        "text": "Assigned to deal owners",
+        "x": 1194,
+        "y": 257,
+        "width": 214,
+        "height": 16.0625,
+        "size": "10px"
+      },
+      {
+        "text": "Deals needing attention",
+        "x": 328,
+        "y": 317,
+        "width": 182.921875,
+        "height": 19.046875,
+        "size": "16px"
+      },
+      {
+        "text": "LVMH",
+        "x": 328,
+        "y": 392.75,
+        "width": 245.046875,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "Global rollout · Proposal",
+        "x": 328,
+        "y": 412.75,
+        "width": 245.046875,
+        "height": 16,
+        "size": "10px"
+      },
+      {
+        "text": "Sarah Nguyen",
+        "x": 685.96875,
+        "y": 404.25,
+        "width": 73.578125,
+        "height": 14,
+        "size": "11px"
+      },
+      {
+        "text": "Sep 22",
+        "x": 830.265625,
+        "y": 403.25,
+        "width": 40.0625,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "18 days",
+        "x": 946.8125,
+        "y": 398.75,
+        "width": 64,
+        "height": 24,
+        "size": "11px"
+      },
+      {
+        "text": "No activity",
+        "x": 1041.15625,
+        "y": 404.25,
+        "width": 55.546875,
+        "height": 14,
+        "size": "11px"
+      },
+      {
+        "text": "Microsoft",
+        "x": 328,
+        "y": 439,
+        "width": 245.046875,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "Strategic expansion · Negotiation",
+        "x": 328,
+        "y": 459,
+        "width": 245.046875,
+        "height": 16,
+        "size": "10px"
+      },
+      {
+        "text": "Mark Darnalds",
+        "x": 685.96875,
+        "y": 450.5,
+        "width": 75.875,
+        "height": 14,
+        "size": "11px"
+      },
+      {
+        "text": "Sep 28",
+        "x": 830.265625,
+        "y": 449.5,
+        "width": 40.171875,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "12 days",
+        "x": 946.8125,
+        "y": 445,
+        "width": 64,
+        "height": 24,
+        "size": "11px"
+      },
+      {
+        "text": "Legal review",
+        "x": 1041.15625,
+        "y": 450.5,
+        "width": 65.546875,
+        "height": 14,
+        "size": "11px"
+      },
+      {
+        "text": "Zoom",
+        "x": 328,
+        "y": 485,
+        "width": 245.046875,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "Seat expansion · Discovery",
+        "x": 328,
+        "y": 505,
+        "width": 245.046875,
+        "height": 16,
+        "size": "10px"
+      },
+      {
+        "text": "Oliver Reed",
+        "x": 685.96875,
+        "y": 496.5,
+        "width": 59.84375,
+        "height": 14,
+        "size": "11px"
+      },
+      {
+        "text": "Oct 2",
+        "x": 830.265625,
+        "y": 495.5,
+        "width": 30.65625,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "8 days",
+        "x": 946.8125,
+        "y": 491,
+        "width": 64,
+        "height": 24,
+        "size": "11px"
+      },
+      {
+        "text": "Decision pending",
+        "x": 1041.15625,
+        "y": 496.5,
+        "width": 90.265625,
+        "height": 14,
+        "size": "11px"
+      },
+      {
+        "text": "United Airlines",
+        "x": 328,
+        "y": 531,
+        "width": 245.046875,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "Annual renewal · Negotiation",
+        "x": 328,
+        "y": 551,
+        "width": 245.046875,
+        "height": 16,
+        "size": "10px"
+      },
+      {
+        "text": "Nia Jameson",
+        "x": 685.96875,
+        "y": 542.5,
+        "width": 67.640625,
+        "height": 14,
+        "size": "11px"
+      },
+      {
+        "text": "Oct 4",
+        "x": 830.265625,
+        "y": 541.5,
+        "width": 31.09375,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "6 days",
+        "x": 946.8125,
+        "y": 537,
+        "width": 64,
+        "height": 24,
+        "size": "11px"
+      },
+      {
+        "text": "No sponsor",
+        "x": 1041.15625,
+        "y": 542.5,
+        "width": 60.15625,
+        "height": 14,
+        "size": "11px"
+      },
+      {
+        "text": "Spotify",
+        "x": 328,
+        "y": 577,
+        "width": 245.046875,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "Land & expand · Proposal",
+        "x": 328,
+        "y": 597,
+        "width": 245.046875,
+        "height": 16,
+        "size": "10px"
+      },
+      {
+        "text": "Hannah Lee",
+        "x": 685.96875,
+        "y": 588.5,
+        "width": 62.171875,
+        "height": 14,
+        "size": "11px"
+      },
+      {
+        "text": "Oct 6",
+        "x": 830.265625,
+        "y": 587.5,
+        "width": 30.78125,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "4 days",
+        "x": 946.8125,
+        "y": 583,
+        "width": 64,
+        "height": 24,
+        "size": "11px"
+      },
+      {
+        "text": "Budget pending",
+        "x": 1041.15625,
+        "y": 588.5,
+        "width": 82.59375,
+        "height": 14,
+        "size": "11px"
+      },
+      {
+        "text": "Shopify",
+        "x": 328,
+        "y": 623,
+        "width": 245.046875,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "Partner rollout · Discovery",
+        "x": 328,
+        "y": 643,
+        "width": 245.046875,
+        "height": 16,
+        "size": "10px"
+      },
+      {
+        "text": "Emma Carter",
+        "x": 685.96875,
+        "y": 634.5,
+        "width": 67.734375,
+        "height": 14,
+        "size": "11px"
+      },
+      {
+        "text": "Oct 8",
+        "x": 830.265625,
+        "y": 633.5,
+        "width": 30.765625,
+        "height": 15,
+        "size": "12px"
+      },
+      {
+        "text": "2 days",
+        "x": 946.8125,
+        "y": 629,
+        "width": 64,
+        "height": 24,
+        "size": "11px"
+      },
+      {
+        "text": "Missed demo",
+        "x": 1041.15625,
+        "y": 634.5,
+        "width": 69.84375,
+        "height": 14,
+        "size": "11px"
+      },
+      {
+        "text": "Recovery plan",
+        "x": 328,
+        "y": 722,
+        "width": 248.828125,
+        "height": 24,
+        "size": "16px"
+      },
+      {
+        "text": "Next actions for the three highest-risk deals",
+        "x": 328,
+        "y": 751,
+        "width": 248.828125,
+        "height": 16,
+        "size": "12px"
+      },
+      {
+        "text": "Due today",
+        "x": 951,
+        "y": 722,
+        "width": 61,
+        "height": 24,
+        "size": "11px"
+      },
+      {
+        "text": "Re-engage the buying team",
+        "x": 359,
+        "y": 792,
+        "width": 570.109375,
+        "height": 19.5,
+        "size": "13px"
+      },
+      {
+        "text": "Confirm proposal feedback and a new close date",
+        "x": 359,
+        "y": 816.5,
+        "width": 570.109375,
+        "height": 16.5,
+        "size": "11px"
+      },
+      {
+        "text": "LVMH",
+        "x": 945.109375,
+        "y": 792.5,
+        "width": 66.890625,
+        "height": 16,
+        "size": "12px"
+      },
+      {
+        "text": "Sarah Nguyen",
+        "x": 945.109375,
+        "y": 817.5,
+        "width": 66.890625,
+        "height": 15,
+        "size": "10px"
+      },
+      {
+        "text": "Resolve the legal blocker",
+        "x": 359,
+        "y": 856,
+        "width": 568.015625,
+        "height": 19.5,
+        "size": "13px"
+      },
+      {
+        "text": "Align with procurement on remaining contract terms",
+        "x": 359,
+        "y": 880.5,
+        "width": 568.015625,
+        "height": 16.5,
+        "size": "11px"
+      },
+      {
+        "text": "Microsoft",
+        "x": 943.015625,
+        "y": 856.5,
+        "width": 68.984375,
+        "height": 16,
+        "size": "12px"
+      },
+      {
+        "text": "Mark Darnalds",
+        "x": 943.015625,
+        "y": 881.5,
+        "width": 68.984375,
+        "height": 15,
+        "size": "10px"
+      },
+      {
+        "text": "Secure a decision date",
+        "x": 359,
+        "y": 920,
+        "width": 582.59375,
+        "height": 19.5,
+        "size": "13px"
+      },
+      {
+        "text": "Confirm the decision maker and approval timeline",
+        "x": 359,
+        "y": 944.5,
+        "width": 582.59375,
+        "height": 16.5,
+        "size": "11px"
+      },
+      {
+        "text": "Zoom",
+        "x": 957.59375,
+        "y": 920.5,
+        "width": 54.40625,
+        "height": 16,
+        "size": "12px"
+      },
+      {
+        "text": "Oliver Reed",
+        "x": 957.59375,
+        "y": 945.5,
+        "width": 54.40625,
+        "height": 15,
+        "size": "10px"
+      },
+      {
+        "text": "Risk breakdown",
+        "x": 1072,
+        "y": 722,
+        "width": 328,
+        "height": 24,
+        "size": "16px"
+      },
+      {
+        "text": "What is holding these deals back",
+        "x": 1072,
+        "y": 751,
+        "width": 328,
+        "height": 16,
+        "size": "12px"
+      },
+      {
+        "text": "Approval blockers",
+        "x": 1072,
+        "y": 787,
+        "width": 102.4375,
+        "height": 16,
+        "size": "12px"
+      },
+      {
+        "text": "2 deals",
+        "x": 1365.71875,
+        "y": 787,
+        "width": 34.28125,
+        "height": 16,
+        "size": "10px"
+      },
+      {
+        "text": "Legal review · Decision pending",
+        "x": 1072,
+        "y": 808,
+        "width": 328,
+        "height": 15,
+        "size": "10px"
+      },
+      {
+        "text": "Engagement gaps",
+        "x": 1072,
+        "y": 855,
+        "width": 102.4375,
+        "height": 16,
+        "size": "12px"
+      },
+      {
+        "text": "2 deals",
+        "x": 1365.71875,
+        "y": 855,
+        "width": 34.28125,
+        "height": 16,
+        "size": "10px"
+      },
+      {
+        "text": "No activity · Missed demo",
+        "x": 1072,
+        "y": 876,
+        "width": 328,
+        "height": 15,
+        "size": "10px"
+      },
+      {
+        "text": "Qualification gaps",
+        "x": 1072,
+        "y": 923,
+        "width": 102.15625,
+        "height": 16,
+        "size": "12px"
+      },
+      {
+        "text": "2 deals",
+        "x": 1365.71875,
+        "y": 923,
+        "width": 34.28125,
+        "height": 16,
+        "size": "10px"
+      },
+      {
+        "text": "No sponsor · Budget pending",
+        "x": 1072,
+        "y": 944,
+        "width": 328,
+        "height": 15,
+        "size": "10px"
+      }
+    ]
+  },
+  {
+    "route": "north-america",
+    "width": 1440,
+    "errors": [],
+    "viewport": [
+      1440,
+      1024
+    ],
+    "documentWidth": 1440,
+    "header": {
+      "x": 288,
+      "y": 0,
+      "width": 1152,
+      "height": 198
+    },
+    "main": {
+      "x": 288,
+      "y": 198,
+      "width": 1152,
+      "height": 826
+    },
+    "sections": [
+      {
+        "label": "Pipeline by stage",
+        "x": 308,
+        "y": 300,
+        "width": 724,
+        "height": 260
+      },
+      {
+        "label": "Quarter target",
+        "x": 1052,
+        "y": 300,
+        "width": 368,
+        "height": 260
+      },
+      {
+        "label": "Priority opportunities",
+        "x": 308,
+        "y": 580,
+        "width": 1112,
+        "height": 424
+      }
+    ],
+    "metrics": [
+      {
+        "x": 308,
+        "y": 218,
+        "width": 266,
+        "height": 64
+      },
+      {
+        "x": 590,
+        "y": 218,
+        "width": 266,
+        "height": 64
+      },
+      {
+        "x": 872,
+        "y": 218,
+        "width": 266,
+        "height": 64
+      },
+      {
+        "x": 1154,
+        "y": 218,
+        "width": 266,
+        "height": 64
+      }
+    ],
+    "text": [
+      {
+        "text": "North America",
+        "x": 308,
+        "y": 26,
+        "width": 139.203125,
+        "height": 25,
+        "size": "20px"
+      },
+      {
+        "text": "$4.93M",
+        "x": 320,
+        "y": 245,
+        "width": 98,
+        "height": 28.0625,
+        "size": "23px"
+      },
+      {
+        "text": "17 opportunities",
+        "x": 418,
+        "y": 257,
+        "width": 144,
+        "height": 16.0625,
+        "size": "10px"
+      },
+      {
+        "text": "$2.57M",
+        "x": 602,
+        "y": 245,
+        "width": 98,
+        "height": 28.0625,
+        "size": "23px"
+      },
+      {
+        "text": "52.2% of pipeline",
+        "x": 700,
+        "y": 257,
+        "width": 144,
+        "height": 16.0625,
+        "size": "10px"
+      },
+      {
+        "text": "$1.68M",
+        "x": 884,
+        "y": 245,
+        "width": 98,
+        "height": 28.0625,
+        "size": "23px"
+      },
+      {
+        "text": "84% of $2M target",
+        "x": 982,
+        "y": 257,
+        "width": 144,
+        "height": 16.0625,
+        "size": "10px"
+      },
+      {
+        "text": "38.4%",
+        "x": 1166,
+        "y": 245,
+        "width": 86,
+        "height": 28.0625,
+        "size": "23px"
+      },
+      {
+        "text": "+4.2 pts this quarter",
+        "x": 1252,
+        "y": 257,
+        "width": 156,
+        "height": 16.0625,
+        "size": "10px"
+      },
+      {
+        "text": "Pipeline by stage",
+        "x": 328,
+        "y": 318,
+        "width": 130.53125,
+        "height": 20,
+        "size": "16px"
+      },
+      {
+        "text": "17 open opportunities",
+        "x": 900.140625,
+        "y": 319.75,
+        "width": 111.859375,
+        "height": 16.5,
+        "size": "11px"
+      },
+      {
+        "text": "Quarter target",
+        "x": 1072,
+        "y": 317,
+        "width": 107.859375,
+        "height": 24,
+        "size": "16px"
+      },
+      {
+        "text": "On track",
+        "x": 1336,
+        "y": 318,
+        "width": 64,
+        "height": 22,
+        "size": "11px"
+      },
+      {
+        "text": "Priority opportunities",
+        "x": 328,
+        "y": 595,
+        "width": 161.65625,
+        "height": 24,
+        "size": "16px"
+      },
+      {
+        "text": "Negotiation",
+        "x": 637,
+        "y": 679.25,
+        "width": 102,
+        "height": 23,
+        "size": "11px"
+      },
+      {
+        "text": "$530,111",
+        "x": 849.359375,
+        "y": 682,
+        "width": 51.421875,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "80%",
+        "x": 1355.96875,
+        "y": 682.5,
+        "width": 24.5625,
+        "height": 16.5,
+        "size": "11px"
+      },
+      {
+        "text": "Negotiation",
+        "x": 637,
+        "y": 725.5,
+        "width": 102,
+        "height": 23,
+        "size": "11px"
+      },
+      {
+        "text": "$320,222",
+        "x": 840.203125,
+        "y": 728.25,
+        "width": 60.578125,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "75%",
+        "x": 1355.96875,
+        "y": 728.75,
+        "width": 23.46875,
+        "height": 16.5,
+        "size": "11px"
+      },
+      {
+        "text": "Discovery",
+        "x": 637,
+        "y": 771.5,
+        "width": 102,
+        "height": 23,
+        "size": "11px"
+      },
+      {
+        "text": "$289,921",
+        "x": 842.921875,
+        "y": 774.25,
+        "width": 57.859375,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "45%",
+        "x": 1355.96875,
+        "y": 774.75,
+        "width": 24.453125,
+        "height": 16.5,
+        "size": "11px"
+      },
+      {
+        "text": "Discovery",
+        "x": 637,
+        "y": 817.5,
+        "width": 102,
+        "height": 23,
+        "size": "11px"
+      },
+      {
+        "text": "$372,221",
+        "x": 843.421875,
+        "y": 820.25,
+        "width": 57.359375,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "50%",
+        "x": 1355.96875,
+        "y": 820.75,
+        "width": 24.28125,
+        "height": 16.5,
+        "size": "11px"
+      },
+      {
+        "text": "Negotiation",
+        "x": 637,
+        "y": 863.5,
+        "width": 102,
+        "height": 23,
+        "size": "11px"
+      },
+      {
+        "text": "$221,221",
+        "x": 845.59375,
+        "y": 866.25,
+        "width": 55.1875,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "70%",
+        "x": 1355.96875,
+        "y": 866.75,
+        "width": 23.8125,
+        "height": 16.5,
+        "size": "11px"
+      },
+      {
+        "text": "Discovery",
+        "x": 637,
+        "y": 909.5,
+        "width": 102,
+        "height": 23,
+        "size": "11px"
+      },
+      {
+        "text": "$139,007",
+        "x": 843.4375,
+        "y": 912.25,
+        "width": 57.34375,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "40%",
+        "x": 1355.96875,
+        "y": 912.75,
+        "width": 24.859375,
+        "height": 16.5,
+        "size": "11px"
+      },
+      {
+        "text": "Qualified",
+        "x": 637,
+        "y": 955.5,
+        "width": 102,
+        "height": 23,
+        "size": "11px"
+      },
+      {
+        "text": "$333,221",
+        "x": 842.84375,
+        "y": 958.25,
+        "width": 57.9375,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "25%",
+        "x": 1355.96875,
+        "y": 958.75,
+        "width": 24.046875,
+        "height": 16.5,
+        "size": "11px"
+      }
+    ]
+  },
+  {
+    "route": "emea-enterprise",
+    "width": 1440,
+    "errors": [],
+    "viewport": [
+      1440,
+      1024
+    ],
+    "documentWidth": 1440,
+    "header": {
+      "x": 288,
+      "y": 0,
+      "width": 1152,
+      "height": 198
+    },
+    "main": {
+      "x": 288,
+      "y": 198,
+      "width": 1152,
+      "height": 826
+    },
+    "sections": [
+      {
+        "label": "Pipeline by stage",
+        "x": 308,
+        "y": 300,
+        "width": 724,
+        "height": 260
+      },
+      {
+        "label": "Quarter target",
+        "x": 1052,
+        "y": 300,
+        "width": 368,
+        "height": 260
+      },
+      {
+        "label": "Priority opportunities",
+        "x": 308,
+        "y": 580,
+        "width": 1112,
+        "height": 424
+      }
+    ],
+    "metrics": [
+      {
+        "x": 308,
+        "y": 218,
+        "width": 266,
+        "height": 64
+      },
+      {
+        "x": 590,
+        "y": 218,
+        "width": 266,
+        "height": 64
+      },
+      {
+        "x": 872,
+        "y": 218,
+        "width": 266,
+        "height": 64
+      },
+      {
+        "x": 1154,
+        "y": 218,
+        "width": 266,
+        "height": 64
+      }
+    ],
+    "text": [
+      {
+        "text": "EMEA Enterprise",
+        "x": 308,
+        "y": 26,
+        "width": 160.140625,
+        "height": 25,
+        "size": "20px"
+      },
+      {
+        "text": "$3.84M",
+        "x": 320,
+        "y": 245,
+        "width": 98,
+        "height": 28.0625,
+        "size": "23px"
+      },
+      {
+        "text": "12 opportunities",
+        "x": 418,
+        "y": 257,
+        "width": 144,
+        "height": 16.0625,
+        "size": "10px"
+      },
+      {
+        "text": "$2.11M",
+        "x": 602,
+        "y": 245,
+        "width": 98,
+        "height": 28.0625,
+        "size": "23px"
+      },
+      {
+        "text": "54.9% of pipeline",
+        "x": 700,
+        "y": 257,
+        "width": 144,
+        "height": 16.0625,
+        "size": "10px"
+      },
+      {
+        "text": "$1.24M",
+        "x": 884,
+        "y": 245,
+        "width": 98,
+        "height": 28.0625,
+        "size": "23px"
+      },
+      {
+        "text": "68.9% of $1.8M target",
+        "x": 982,
+        "y": 257,
+        "width": 144,
+        "height": 16.0625,
+        "size": "10px"
+      },
+      {
+        "text": "34.8%",
+        "x": 1166,
+        "y": 245,
+        "width": 86,
+        "height": 28.0625,
+        "size": "23px"
+      },
+      {
+        "text": "+2.6 pts this quarter",
+        "x": 1252,
+        "y": 257,
+        "width": 156,
+        "height": 16.0625,
+        "size": "10px"
+      },
+      {
+        "text": "Pipeline by stage",
+        "x": 328,
+        "y": 318,
+        "width": 130.53125,
+        "height": 20,
+        "size": "16px"
+      },
+      {
+        "text": "12 open opportunities",
+        "x": 899.65625,
+        "y": 319.75,
+        "width": 112.34375,
+        "height": 16.5,
+        "size": "11px"
+      },
+      {
+        "text": "Quarter target",
+        "x": 1072,
+        "y": 317,
+        "width": 107.859375,
+        "height": 24,
+        "size": "16px"
+      },
+      {
+        "text": "At risk",
+        "x": 1336,
+        "y": 318,
+        "width": 64,
+        "height": 22,
+        "size": "11px"
+      },
+      {
+        "text": "Priority opportunities",
+        "x": 328,
+        "y": 595,
+        "width": 161.65625,
+        "height": 24,
+        "size": "16px"
+      },
+      {
+        "text": "Proposal",
+        "x": 637,
+        "y": 679.25,
+        "width": 102,
+        "height": 23,
+        "size": "11px"
+      },
+      {
+        "text": "$420,000",
+        "x": 839.03125,
+        "y": 682,
+        "width": 61.75,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "65%",
+        "x": 1355.96875,
+        "y": 682.5,
+        "width": 24.171875,
+        "height": 16.5,
+        "size": "11px"
+      },
+      {
+        "text": "Negotiation",
+        "x": 637,
+        "y": 725.5,
+        "width": 102,
+        "height": 23,
+        "size": "11px"
+      },
+      {
+        "text": "$510,000",
+        "x": 842.328125,
+        "y": 728.25,
+        "width": 58.453125,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "85%",
+        "x": 1355.96875,
+        "y": 728.75,
+        "width": 24.15625,
+        "height": 16.5,
+        "size": "11px"
+      },
+      {
+        "text": "Negotiation",
+        "x": 637,
+        "y": 771.5,
+        "width": 102,
+        "height": 23,
+        "size": "11px"
+      },
+      {
+        "text": "$410,000",
+        "x": 841.96875,
+        "y": 774.25,
+        "width": 58.8125,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "75%",
+        "x": 1355.96875,
+        "y": 774.75,
+        "width": 23.46875,
+        "height": 16.5,
+        "size": "11px"
+      },
+      {
+        "text": "Proposal",
+        "x": 637,
+        "y": 817.5,
+        "width": 102,
+        "height": 23,
+        "size": "11px"
+      },
+      {
+        "text": "$170,991",
+        "x": 846.109375,
+        "y": 820.25,
+        "width": 54.671875,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "60%",
+        "x": 1355.96875,
+        "y": 820.75,
+        "width": 24.578125,
+        "height": 16.5,
+        "size": "11px"
+      },
+      {
+        "text": "Discovery",
+        "x": 637,
+        "y": 863.5,
+        "width": 102,
+        "height": 23,
+        "size": "11px"
+      },
+      {
+        "text": "$320,000",
+        "x": 839.40625,
+        "y": 866.25,
+        "width": 61.375,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "45%",
+        "x": 1355.96875,
+        "y": 866.75,
+        "width": 24.453125,
+        "height": 16.5,
+        "size": "11px"
+      },
+      {
+        "text": "Proposal",
+        "x": 637,
+        "y": 909.5,
+        "width": 102,
+        "height": 23,
+        "size": "11px"
+      },
+      {
+        "text": "$380,000",
+        "x": 839.234375,
+        "y": 912.25,
+        "width": 61.546875,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "55%",
+        "x": 1355.96875,
+        "y": 912.75,
+        "width": 23.875,
+        "height": 16.5,
+        "size": "11px"
+      },
+      {
+        "text": "Qualified",
+        "x": 637,
+        "y": 955.5,
+        "width": 102,
+        "height": 23,
+        "size": "11px"
+      },
+      {
+        "text": "$240,000",
+        "x": 839.234375,
+        "y": 958.25,
+        "width": 61.546875,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "25%",
+        "x": 1355.96875,
+        "y": 958.75,
+        "width": 24.046875,
+        "height": 16.5,
+        "size": "11px"
+      }
+    ]
+  },
+  {
+    "route": "apac-expansion",
+    "width": 1440,
+    "errors": [],
+    "viewport": [
+      1440,
+      1024
+    ],
+    "documentWidth": 1440,
+    "header": {
+      "x": 288,
+      "y": 0,
+      "width": 1152,
+      "height": 198
+    },
+    "main": {
+      "x": 288,
+      "y": 198,
+      "width": 1152,
+      "height": 826
+    },
+    "sections": [
+      {
+        "label": "Pipeline by stage",
+        "x": 308,
+        "y": 300,
+        "width": 724,
+        "height": 260
+      },
+      {
+        "label": "Quarter target",
+        "x": 1052,
+        "y": 300,
+        "width": 368,
+        "height": 260
+      },
+      {
+        "label": "Priority opportunities",
+        "x": 308,
+        "y": 580,
+        "width": 1112,
+        "height": 424
+      }
+    ],
+    "metrics": [
+      {
+        "x": 308,
+        "y": 218,
+        "width": 266,
+        "height": 64
+      },
+      {
+        "x": 590,
+        "y": 218,
+        "width": 266,
+        "height": 64
+      },
+      {
+        "x": 872,
+        "y": 218,
+        "width": 266,
+        "height": 64
+      },
+      {
+        "x": 1154,
+        "y": 218,
+        "width": 266,
+        "height": 64
+      }
+    ],
+    "text": [
+      {
+        "text": "APAC Expansion",
+        "x": 308,
+        "y": 26,
+        "width": 158,
+        "height": 25,
+        "size": "20px"
+      },
+      {
+        "text": "$2.76M",
+        "x": 320,
+        "y": 245,
+        "width": 98,
+        "height": 28.0625,
+        "size": "23px"
+      },
+      {
+        "text": "14 opportunities",
+        "x": 418,
+        "y": 257,
+        "width": 144,
+        "height": 16.0625,
+        "size": "10px"
+      },
+      {
+        "text": "$1.38M",
+        "x": 602,
+        "y": 245,
+        "width": 98,
+        "height": 28.0625,
+        "size": "23px"
+      },
+      {
+        "text": "50% of pipeline",
+        "x": 700,
+        "y": 257,
+        "width": 144,
+        "height": 16.0625,
+        "size": "10px"
+      },
+      {
+        "text": "$920K",
+        "x": 884,
+        "y": 245,
+        "width": 86,
+        "height": 28.0625,
+        "size": "23px"
+      },
+      {
+        "text": "76.7% of $1.2M target",
+        "x": 970,
+        "y": 257,
+        "width": 156,
+        "height": 16.0625,
+        "size": "10px"
+      },
+      {
+        "text": "31.2%",
+        "x": 1166,
+        "y": 245,
+        "width": 86,
+        "height": 28.0625,
+        "size": "23px"
+      },
+      {
+        "text": "+3.1 pts this quarter",
+        "x": 1252,
+        "y": 257,
+        "width": 156,
+        "height": 16.0625,
+        "size": "10px"
+      },
+      {
+        "text": "Pipeline by stage",
+        "x": 328,
+        "y": 318,
+        "width": 130.53125,
+        "height": 20,
+        "size": "16px"
+      },
+      {
+        "text": "14 open opportunities",
+        "x": 899.265625,
+        "y": 319.75,
+        "width": 112.734375,
+        "height": 16.5,
+        "size": "11px"
+      },
+      {
+        "text": "Quarter target",
+        "x": 1072,
+        "y": 317,
+        "width": 107.859375,
+        "height": 24,
+        "size": "16px"
+      },
+      {
+        "text": "On track",
+        "x": 1336,
+        "y": 318,
+        "width": 64,
+        "height": 22,
+        "size": "11px"
+      },
+      {
+        "text": "Priority opportunities",
+        "x": 328,
+        "y": 595,
+        "width": 161.65625,
+        "height": 24,
+        "size": "16px"
+      },
+      {
+        "text": "Negotiation",
+        "x": 637,
+        "y": 679.25,
+        "width": 102,
+        "height": 23,
+        "size": "11px"
+      },
+      {
+        "text": "$340,000",
+        "x": 838.890625,
+        "y": 682,
+        "width": 61.890625,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "80%",
+        "x": 1355.96875,
+        "y": 682.5,
+        "width": 24.5625,
+        "height": 16.5,
+        "size": "11px"
+      },
+      {
+        "text": "Negotiation",
+        "x": 637,
+        "y": 725.5,
+        "width": 102,
+        "height": 23,
+        "size": "11px"
+      },
+      {
+        "text": "$240,000",
+        "x": 839.234375,
+        "y": 728.25,
+        "width": 61.546875,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "75%",
+        "x": 1355.96875,
+        "y": 728.75,
+        "width": 23.46875,
+        "height": 16.5,
+        "size": "11px"
+      },
+      {
+        "text": "Proposal",
+        "x": 637,
+        "y": 771.5,
+        "width": 102,
+        "height": 23,
+        "size": "11px"
+      },
+      {
+        "text": "$280,000",
+        "x": 839.375,
+        "y": 774.25,
+        "width": 61.40625,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "60%",
+        "x": 1355.96875,
+        "y": 774.75,
+        "width": 24.578125,
+        "height": 16.5,
+        "size": "11px"
+      },
+      {
+        "text": "Proposal",
+        "x": 637,
+        "y": 817.5,
+        "width": 102,
+        "height": 23,
+        "size": "11px"
+      },
+      {
+        "text": "$210,000",
+        "x": 842.15625,
+        "y": 820.25,
+        "width": 58.625,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "55%",
+        "x": 1355.96875,
+        "y": 820.75,
+        "width": 23.875,
+        "height": 16.5,
+        "size": "11px"
+      },
+      {
+        "text": "Discovery",
+        "x": 637,
+        "y": 863.5,
+        "width": 102,
+        "height": 23,
+        "size": "11px"
+      },
+      {
+        "text": "$190,000",
+        "x": 841.984375,
+        "y": 866.25,
+        "width": 58.796875,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "45%",
+        "x": 1355.96875,
+        "y": 866.75,
+        "width": 24.453125,
+        "height": 16.5,
+        "size": "11px"
+      },
+      {
+        "text": "Discovery",
+        "x": 637,
+        "y": 909.5,
+        "width": 102,
+        "height": 23,
+        "size": "11px"
+      },
+      {
+        "text": "$220,000",
+        "x": 839.546875,
+        "y": 912.25,
+        "width": 61.234375,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "40%",
+        "x": 1355.96875,
+        "y": 912.75,
+        "width": 24.859375,
+        "height": 16.5,
+        "size": "11px"
+      },
+      {
+        "text": "Qualified",
+        "x": 637,
+        "y": 955.5,
+        "width": 102,
+        "height": 23,
+        "size": "11px"
+      },
+      {
+        "text": "$180,000",
+        "x": 841.984375,
+        "y": 958.25,
+        "width": 58.796875,
+        "height": 16,
+        "size": "13px"
+      },
+      {
+        "text": "25%",
+        "x": 1355.96875,
+        "y": 958.75,
+        "width": 24.046875,
+        "height": 16.5,
+        "size": "11px"
+      }
+    ]
+  }
+]

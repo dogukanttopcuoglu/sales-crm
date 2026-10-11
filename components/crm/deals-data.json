@@ -1,0 +1,251 @@
+[
+  {
+    "stage": "Qualified",
+    "count": "4",
+    "value": "$ 1,089,730",
+    "cards": [
+      {
+        "text": [
+          "Paypal",
+          "Payments platform · Intro call",
+          "$ 124,232",
+          "Enterprise",
+          "Maria",
+          "Oct 16"
+        ],
+        "avatar": "Assets/image (2).jpg",
+        "badge": "var(--crm-color-palette-c1b2c3e)",
+        "color": "var(--crm-color-palette-ca5c2df)"
+      },
+      {
+        "text": [
+          "Google",
+          "Platform adoption · Intro call",
+          "$ 112,277",
+          "SMB",
+          "Kate",
+          "Oct 14"
+        ],
+        "avatar": "Assets/image (8).jpg",
+        "badge": "var(--crm-color-palette-c39331a)",
+        "color": "var(--crm-color-palette-cd3c48a)"
+      },
+      {
+        "text": [
+          "Slack",
+          "Team upgrade · Intro call",
+          "$ 333,221",
+          "Mid-Market",
+          "Ava",
+          "Oct 19"
+        ],
+        "avatar": "Assets/image (13).jpg",
+        "badge": "var(--crm-color-palette-c21451d)",
+        "color": "var(--crm-color-palette-cafd4a6)"
+      },
+      {
+        "text": [
+          "Snowflake",
+          "Enterprise rollout · Qualification",
+          "$ 520,000",
+          "Enterprise",
+          "Grace",
+          "Oct 21"
+        ],
+        "avatar": "Assets/image (14).jpg",
+        "badge": "var(--crm-color-palette-c1b2c3e)",
+        "color": "var(--crm-color-palette-ca5c2df)"
+      }
+    ]
+  },
+  {
+    "stage": "Discovery",
+    "count": "4",
+    "value": "$ 1,291,381",
+    "cards": [
+      {
+        "text": [
+          "Attio",
+          "Team upgrade · Discovery call",
+          "$ 420,222",
+          "Mid-Market",
+          "Jamie",
+          "Oct 22"
+        ],
+        "avatar": "Assets/image (9).jpg",
+        "badge": "var(--crm-color-palette-c21451d)",
+        "color": "var(--crm-color-palette-cafd4a6)"
+      },
+      {
+        "text": [
+          "Zoom",
+          "Seat expansion · Discovery call",
+          "$ 289,921",
+          "Expansion",
+          "Oliver",
+          "Oct 18"
+        ],
+        "avatar": "Assets/image (16).jpg",
+        "badge": "var(--crm-color-status-commit-container)",
+        "color": "var(--crm-color-palette-c9dceb7)"
+      },
+      {
+        "text": [
+          "Shopify",
+          "Partner rollout · Solution call",
+          "$ 139,007",
+          "Co-Sell",
+          "Emma",
+          "Oct 17"
+        ],
+        "avatar": "Assets/image (12).jpg",
+        "badge": "var(--crm-color-palette-c3a281b)",
+        "color": "var(--crm-color-palette-cd5b798)"
+      },
+      {
+        "text": [
+          "Stripe",
+          "Commerce expansion · Technical call",
+          "$ 442,231",
+          "Expansion",
+          "Noah",
+          "Oct 20"
+        ],
+        "avatar": "Assets/image (18).jpg",
+        "badge": "var(--crm-color-status-commit-container)",
+        "color": "var(--crm-color-palette-c9dceb7)"
+      }
+    ]
+  },
+  {
+    "stage": "Proposal",
+    "count": "5",
+    "value": "$ 1,254,575",
+    "cards": [
+      {
+        "text": [
+          "Disney",
+          "New market entry · Discovery",
+          "$ 311,242",
+          "Enterprise",
+          "James",
+          "Oct 15"
+        ],
+        "avatar": "Assets/image (17).jpg",
+        "badge": "var(--crm-color-palette-c1b2c3e)",
+        "color": "var(--crm-color-palette-ca5c2df)"
+      },
+      {
+        "text": [
+          "Airbnb",
+          "Regional expansion · Proposal",
+          "$ 122,230",
+          "Upsell",
+          "Drew",
+          "Oct 20"
+        ],
+        "avatar": "Assets/image (4).jpg",
+        "badge": "var(--crm-color-palette-c28213f)",
+        "color": "var(--crm-color-palette-cb6a5de)"
+      },
+      {
+        "text": [
+          "Intercom",
+          "Enterprise rollout · Solution review",
+          "$ 230,112",
+          "Enterprise",
+          "Lina",
+          "Oct 21"
+        ],
+        "avatar": "Assets/image (6).jpg",
+        "badge": "var(--crm-color-palette-c1b2c3e)",
+        "color": "var(--crm-color-palette-ca5c2df)"
+      },
+      {
+        "text": [
+          "Spotify",
+          "Land & expand · Proposal review",
+          "$ 170,991",
+          "Land & Expand",
+          "Hannah",
+          "Oct 16"
+        ],
+        "avatar": "Assets/image (3).jpg",
+        "badge": "var(--crm-color-palette-c15372a)",
+        "color": "var(--crm-color-palette-c38b783)"
+      },
+      {
+        "text": [
+          "LVMH",
+          "Global rollout · Demo scheduled",
+          "$ 420,000",
+          "Enterprise",
+          "Sarah",
+          "Oct 14"
+        ],
+        "avatar": "Assets/image (1).jpg",
+        "badge": "var(--crm-color-palette-c1b2c3e)",
+        "color": "var(--crm-color-palette-ca5c2df)"
+      }
+    ]
+  },
+  {
+    "stage": "Negotiation",
+    "count": "4",
+    "value": "$ 1,292,785",
+    "cards": [
+      {
+        "text": [
+          "Apple",
+          "Enterprise pilot · Final review",
+          "$ 530,111",
+          "Pilot",
+          "Alex",
+          "Today"
+        ],
+        "avatar": "Assets/image.jpg",
+        "badge": "var(--crm-color-palette-c3a261a)",
+        "color": "var(--crm-color-palette-cd2a783)"
+      },
+      {
+        "text": [
+          "Microsoft",
+          "Strategic expansion · Procurement",
+          "$ 320,222",
+          "Strategic",
+          "Mark",
+          "Oct 19"
+        ],
+        "avatar": "Assets/image (7).jpg",
+        "badge": "var(--crm-color-palette-c3f1c20)",
+        "color": "var(--crm-color-palette-cdba1aa)"
+      },
+      {
+        "text": [
+          "United Airlines",
+          "Annual renewal · Legal review",
+          "$ 221,231",
+          "Renewal",
+          "Nia",
+          "Oct 17"
+        ],
+        "avatar": "Assets/image (10).jpg",
+        "badge": "var(--crm-color-palette-c1d392d)",
+        "color": "var(--crm-color-palette-c9dceb7)"
+      },
+      {
+        "text": [
+          "Netflix",
+          "Mid-market expansion · Final review",
+          "$ 221,221",
+          "Mid-Market",
+          "Ricky",
+          "Oct 15"
+        ],
+        "avatar": "Assets/image (15).jpg",
+        "badge": "var(--crm-color-palette-c21451d)",
+        "color": "var(--crm-color-palette-cafd4a6)"
+      }
+    ]
+  }
+]

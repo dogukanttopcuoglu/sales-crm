@@ -1,0 +1,510 @@
+inherits: none
+root: true
+modes {
+  theme: [dark]
+  density: [compact]
+}
+primary: boldness(color(#FFDC35), transforms: none)
+success: boldness(color(#79B49A), transforms: none)
+warning: boldness(color(#CEB773), transforms: none)
+danger: boldness(color(#D88F94), transforms: none)
+info: boldness(color(#A9BBD9), transforms: none)
+neutral: boldness(color(#777777), transforms: none)
+color.surface: #161616
+color.surface.sidebar: #171717
+color.surface.container: #1C1C1C
+color.surface.chart: #1D1D1D
+color.surface.container.high: #202020
+color.surface.deal: #222222
+color.surface.input: #191919
+color.surface.hover: #242424
+color.surface.pressed: #262626
+color.surface.selected: #292929
+color.surface.table.heading: #202020
+color.surface.table.selected: #25251F
+color.on-surface: #DDDDDD
+color.on-surface.selected: #EEEEEE
+color.outline: #303030
+color.outline.variant: #292929
+color.outline.control: #393939
+color.outline.selected: #414141
+color.outline.divider: #2A2A2A
+color.primary: #FFDC35
+color.on-primary: #232015
+color.primary.container: #342F23
+color.text.primary: #DDDDDD
+color.text.heading: #EEEEEE
+color.text.secondary: #BBBBBB
+color.text.muted: #888888
+color.text.caption: #777777
+color.text.disabled: #515151
+color.text.link: #B8B8B8
+color.icon: #9B9B9B
+color.icon.muted: #777777
+color.icon.selected: #CCCCCC
+color.success: #79B49A
+color.success.container: #26362E
+color.warning: #CEB773
+color.warning.container: #342F23
+color.error: #D88F94
+color.error.container: #34262A
+color.info: #A9BBD9
+color.info.container: #26303E
+color.status.commit: #6AB79C
+color.status.commit.container: #1C392B
+color.status.bestcase: #B9A8DF
+color.status.bestcase.container: #2F263F
+color.chart.track: #303030
+color.chart.forecast: #D5BD57
+color.stage.qualified: #868686
+color.stage.discovery: #A9BBD9
+color.stage.proposal: #B9A8DF
+color.stage.negotiation: #63B398
+color.region.northamerica: #FFDC35
+color.region.emea: #ED4389
+color.region.apac: #A269ED
+color.timeline: #FFFFFF
+color.timeline.selected: color.primary
+color.shadow: #000000
+spacing: tshirt(number([
+  4,
+  8,
+  12,
+  16,
+  20,
+  24,
+  32,
+  48,
+  64
+]), min: { none: 0 }, transforms: none)
+spacing.panel.top: 18
+spacing.panel.side: 20
+spacing.page.inset: 20
+spacing.section.gap: 20
+spacing.sidebar.heading: 8
+spacing.link.icon: 7
+spacing.metric.label.top: 8
+spacing.metric.value.top: 27
+spacing.metric.caption.top: 39
+radius: tshirt(number([
+  2,
+  5,
+  7,
+  9,
+  12,
+  16,
+  24
+]), min: { none: 0 }, max: { full: 9999 }, transforms: none)
+radius.control: 7
+radius.metric: 7
+radius.panel: 9
+radius.badge: 12
+radius.filter: 24
+stroke.width: boldness(number([
+  0.5,
+  0.75,
+  1,
+  1.25,
+  1.5,
+  2,
+  2.5,
+  3,
+  4
+]), min: { none: 0 }, transforms: none)
+stroke.width.control: 1
+visibility: boldness(number([
+  0.05,
+  0.10,
+  0.20,
+  0.40,
+  0.50,
+  0.60,
+  0.80,
+  0.90,
+  0.95
+]), min: { invisible: 0 }, max: { opaque: 1 }, transforms: none)
+font.family: Inter
+font.family.sans: font.family
+font.size: tshirt(number([
+  10,
+  11,
+  12,
+  13,
+  14,
+  16,
+  20,
+  23,
+  28,
+  32
+]), transforms: none)
+font.size.caption: 10
+font.size.label: 11
+font.size.link: 12
+font.size.table: 13
+font.size.control: 14
+font.size.section: 16
+font.size.page: 20
+font.size.metric: 23
+font.size.target: 28
+font.weight: boldness(number([
+  100,
+  200,
+  300,
+  400,
+  500,
+  600,
+  700,
+  800,
+  900
+]), transforms: none)
+font.weight.regular: 400
+font.weight.medium: 500
+font.weight.semibold: 600
+font.lineHeight: looseness(number([
+  1,
+  1.18,
+  1.2,
+  1.21,
+  1.23,
+  1.25
+]), transforms: none)
+font.letterSpacing: looseness(number([
+  -0.05,
+  -0.025,
+  -0.0125,
+  0,
+  0.025,
+  0.1
+]), transforms: none)
+typography.page: { fontFamily: font.family, fontSize: font.size.page, fontWeight: font.weight.medium, lineHeight: 1.2 }
+typography.section: { fontFamily: font.family, fontSize: font.size.section, fontWeight: font.weight.medium, lineHeight: 1.25 }
+typography.body: { fontFamily: font.family, fontSize: font.size.control, fontWeight: font.weight.regular, lineHeight: 1.21 }
+typography.table: { fontFamily: font.family, fontSize: font.size.table, fontWeight: font.weight.regular, lineHeight: 1.23 }
+typography.table.strong: { fontFamily: font.family, fontSize: font.size.table, fontWeight: font.weight.medium, lineHeight: 1.23 }
+typography.label: { fontFamily: font.family, fontSize: font.size.label, fontWeight: font.weight.regular, lineHeight: 1.18 }
+typography.caption: { fontFamily: font.family, fontSize: font.size.caption, fontWeight: font.weight.regular, lineHeight: 1.2 }
+typography.link: { fontFamily: font.family, fontSize: font.size.link, fontWeight: font.weight.medium, lineHeight: 1.25 }
+typography.button: { fontFamily: font.family, fontSize: font.size.control, fontWeight: font.weight.semibold, lineHeight: 1.21 }
+typography.badge: { fontFamily: font.family, fontSize: font.size.label, fontWeight: font.weight.regular, lineHeight: 1.18 }
+typography.metric: { fontFamily: font.family, fontSize: font.size.metric, fontWeight: font.weight.medium, lineHeight: 1.22 }
+typography.target: { fontFamily: font.family, fontSize: font.size.target, fontWeight: font.weight.medium, lineHeight: 1.21 }
+card.metric: {
+  fills: [color.surface.container.high]
+  strokes: []
+  effects: []
+  radius: radius.metric
+}
+card.panel: {
+  fills: [color.surface.container]
+  radius: radius.panel
+}
+card.deal: {
+  fills: [color.surface.deal]
+  radius: radius.control
+}
+button.primary: {
+  fills: [color.primary]
+  radius: radius.control
+}
+button.secondary: {
+  fills: [color.surface.container.high]
+  radius: radius.control
+}
+input.search: {
+  fills: [color.surface.input]
+  radius: radius.control
+}
+input.filter: {
+  fills: [color.surface.container.high]
+  radius: radius.filter
+}
+navigation.selected: {
+  fills: [color.surface.selected]
+  radius: radius.panel
+}
+badge.success: {
+  fills: [color.success.container]
+  radius: radius.badge
+}
+badge.warning: {
+  fills: [color.warning.container]
+  radius: radius.badge
+}
+badge.error: {
+  fills: [color.error.container]
+  radius: radius.badge
+}
+badge.commit: {
+  fills: [color.status.commit.container]
+  radius: radius.badge
+}
+badge.bestcase: {
+  fills: [color.status.bestcase.container]
+  radius: radius.badge
+}
+avatar.photo: { radius: radius.full }
+progress.track: {
+  fills: [color.chart.track]
+  radius: radius.full
+}
+layout.desktop.width {
+  $type: number
+  $default: 1440
+}
+layout.desktop.height {
+  $type: number
+  $default: 1024
+}
+layout.sidebar.width {
+  $type: number
+  $default: 288
+}
+layout.header.height {
+  $type: number
+  $default: 198
+}
+layout.content.left {
+  $type: number
+  $default: 308
+}
+layout.content.width {
+  $type: number
+  $default: 1112
+}
+layout.metrics.top {
+  $type: number
+  $default: 218
+}
+layout.body.top {
+  $type: number
+  $default: 300
+}
+layout.body.bottom {
+  $type: number
+  $default: 1004
+}
+layout.panel.main.width {
+  $type: number
+  $default: 724
+}
+layout.panel.aside.width {
+  $type: number
+  $default: 368
+}
+size.metric.width {
+  $type: number
+  $default: 266
+}
+size.metric.height {
+  $type: number
+  $default: 64
+}
+size.button.height {
+  $type: number
+  $default: 36
+}
+size.filter.height {
+  $type: number
+  $default: 37
+}
+size.nav.row {
+  $type: number
+  $default: 39
+}
+size.table.row {
+  $type: number
+  $default: 40
+}
+size.table.row.detail {
+  $type: number
+  $default: 46
+}
+size.icon.link {
+  $type: number
+  $default: 10
+}
+size.icon.control {
+  $type: number
+  $default: 16
+}
+size.avatar.small {
+  $type: number
+  $default: 22
+}
+size.avatar.row {
+  $type: number
+  $default: 26
+}
+size.avatar.contact {
+  $type: number
+  $default: 32
+}
+size.avatar.detail {
+  $type: number
+  $default: 48
+}
+pin: color.primary, color.on-primary, color.surface, color.surface.sidebar, color.surface.container, color.surface.container.high, color.text.primary, color.text.secondary, color.text.muted, color.outline, color.success, color.warning, color.error, color.stage.qualified, color.stage.discovery, color.stage.proposal, color.stage.negotiation
+
+layout.companies.table.height {
+  $type: number
+  $default: 806
+}
+size.companies.row {
+  $type: number
+  $default: 44.8235294117647
+}
+
+color.palette.c252525: #252525
+color.palette.cb9b9b9: #B9B9B9
+color.palette.c838383: #838383
+color.palette.c454545: #454545
+color.palette.ce1e1e1: #E1E1E1
+color.palette.c373737: #373737
+color.palette.cffda32: #FFDA32
+color.palette.c2b2b2b: #2B2B2B
+color.palette.c26b99f: #26B99F
+color.palette.cdedede: #DEDEDE
+color.palette.c696969: #696969
+color.palette.c686868: #686868
+color.palette.cd7d7d7: #D7D7D7
+color.palette.c999999: #999999
+color.palette.c747474: #747474
+color.palette.c303027: #303027
+color.palette.c383838: #383838
+color.palette.c1b2c3e: #1B2C3E
+color.palette.c294058: #294058
+color.palette.ca5c2df: #A5C2DF
+color.palette.c28213f: #28213F
+color.palette.c48396a: #48396A
+color.palette.cb6a5de: #B6A5DE
+color.palette.cc2c2c2: #C2C2C2
+color.palette.c232323: #232323
+color.palette.ce77986: #E77986
+color.palette.ce98482: #E98482
+color.palette.ce9a16c: #E9A16C
+color.palette.cedbd55: #EDBD55
+color.palette.cefd047: #EFD047
+color.palette.cddd545: #DDD545
+color.palette.ca8ce58: #A8CE58
+color.palette.c7dbd63: #7DBD63
+color.palette.c59b86d: #59B86D
+color.palette.c46b779: #46B779
+color.palette.c35b783: #35B783
+color.palette.c353535: #353535
+color.palette.c1d392d: #1D392D
+color.palette.c2b4d3b: #2B4D3B
+color.palette.c9dceb7: #9DCEB7
+color.palette.c3a261a: #3A261A
+color.palette.c60402d: #60402D
+color.palette.cd2a783: #D2A783
+color.palette.c1e1f20: #1E1F20
+color.palette.c27271f: #27271F
+color.palette.c3f1c20: #3F1C20
+color.palette.c57262c: #57262C
+color.palette.cdba1aa: #DBA1AA
+color.palette.c21451d: #21451D
+color.palette.c2c5427: #2C5427
+color.palette.cafd4a6: #AFD4A6
+color.palette.c39331a: #39331A
+color.palette.c514824: #514824
+color.palette.cd3c48a: #D3C48A
+color.palette.c15372a: #15372A
+color.palette.c245c43: #245C43
+color.palette.c2eba7e: #2EBA7E
+color.palette.c3a281b: #3A281B
+color.palette.cd5b798: #D5B798
+color.palette.c26241b: #26241B
+color.palette.c737373: #737373
+color.palette.c343434: #343434
+color.palette.caaaaaa: #AAAAAA
+color.palette.c727272: #727272
+color.palette.c7f7f7f: #7F7F7F
+color.palette.ce2e2e2: #E2E2E2
+color.palette.c767676: #767676
+color.palette.c848484: #848484
+color.palette.ce5e5e5: #E5E5E5
+color.palette.ca5a5a5: #A5A5A5
+color.palette.c38b783: #38B783
+color.palette.ce6c75d: #E6C75D
+color.palette.c909090: #909090
+color.palette.cddc351: #DDC351
+color.palette.c76b69e: #76B69E
+color.palette.c7e7e7e: #7E7E7E
+color.palette.c4a4a4a: #4A4A4A
+color.palette.c94c6b3: #94C6B3
+color.palette.ca0a0a0: #A0A0A0
+color.palette.c565656: #565656
+color.palette.c9a9a9a: #9A9A9A
+color.palette.c6b6b6b: #6B6B6B
+color.palette.c2c2c2c: #2C2C2C
+color.palette.cd3d3d3: #D3D3D3
+color.palette.cc9c9c9: #C9C9C9
+color.palette.c1e352b: #1E352B
+color.palette.c9cc9b4: #9CC9B4
+color.palette.c2c253b: #2C253B
+color.palette.cb7a6d5: #B7A6D5
+color.palette.cb4b4b4: #B4B4B4
+color.palette.c80b9a2: #80B9A2
+color.palette.cc58d91: #C58D91
+color.palette.c8c7778: #8C7778
+color.palette.ca6a6a6: #A6A6A6
+color.palette.ccf8c91: #CF8C91
+color.palette.cababab: #ABABAB
+color.palette.ce0c34e: #E0C34E
+color.palette.ccecece: #CECECE
+color.palette.c707070: #707070
+color.palette.c333333: #333333
+color.palette.c78ad93: #78AD93
+color.palette.c91a9be: #91A9BE
+color.palette.cb6a46c: #B6A46C
+color.palette.ca293b9: #A293B9
+color.palette.cd0ad7c: #D0AD7C
+color.palette.c26251e: #26251E
+color.palette.c2d2934: #2D2934
+color.palette.cc4b6da: #C4B6DA
+color.palette.c24322d: #24322D
+color.palette.c282e35: #282E35
+color.palette.ca1aec2: #A1AEC2
+color.palette.c28b99d: #28B99D
+color.palette.c332d23: #332D23
+color.palette.c3d3d3d: #3D3D3D
+color.palette.cbdb2d5: #BDB2D5
+color.palette.c666666: #666666
+color.palette.ccbb66d: #CBB66D
+color.palette.c27322c: #27322C
+color.palette.c929292: #929292
+color.palette.ca8b6ca: #A8B6CA
+color.palette.cc2a475: #C2A475
+color.palette.c363636: #363636
+color.palette.c858585: #858585
+color.palette.c282828: #282828
+font.size.micro: 8
+font.size.tiny: 9
+font.size.tag: 15
+font.size.brand: 17
+font.size.large: 18
+font.size.display: 22
+font.size.hero: 30
+font.size.target.hero: 34
+spacing.hairline: 1
+spacing.brand.gap: 3
+spacing.badge.gap: 5
+spacing.tight: 6
+spacing.icon.gap: 10
+spacing.control.inset: 11
+spacing.control.vertical: 13
+spacing.navigation.inset: 14
+spacing.filter.gap: 22
+font.lineHeight.label: 1.18
+font.lineHeight.navigation: 1.19
+font.lineHeight.page: 1.2
+font.lineHeight.control: 1.21
+font.lineHeight.metric: 1.22
+font.lineHeight.table: 1.23
+font.lineHeight.brand: 1.24
+font.lineHeight.body: 1.25
+font.weight.bold: 700
+radius.chart: 3
+radius.segment: 0.6
+radius.glyph: 0.75
+radius.chart.end: 5

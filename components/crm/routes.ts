@@ -1,0 +1,16 @@
+export const crmRoutes = [
+  {slug:"companies", title:"Companies", icon:"companies"},
+  {slug:"deals", title:"Deals Board", icon:"deals"},
+  {slug:"forecast", title:"Forecast", icon:"forecast"},
+  {slug:"activities", title:"Activities", icon:"activities"},
+  {slug:"contacts", title:"Contacts", icon:"contacts"},
+  {slug:"email-sequences", title:"Email Sequences", icon:"email"},
+  {slug:"strategic-aes", title:"Strategic AEs", icon:"target"},
+  {slug:"mid-market", title:"Mid Market", icon:"crosshair"},
+  {slug:"sdr-team", title:"SDR Team", icon:"users"},
+  {slug:"q1-forecast", title:"Q1 Forecast", icon:"forecast"},
+  {slug:"slipping-deals", title:"Slipping Deals", icon:"warning"},
+  {slug:"north-america", title:"North America", color:"var(--crm-color-palette-cffda32)"},
+  {slug:"emea-enterprise", title:"EMEA Enterprise", color:"var(--crm-color-region-emea)"},
+  {slug:"apac-expansion", title:"APAC Expansion", color:"var(--crm-color-region-apac)"},
+];

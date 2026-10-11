@@ -1,0 +1,155 @@
+{
+  "rows": [
+    {
+      "text": [
+        "Overdue",
+        "2"
+      ],
+      "height": 30
+    },
+    {
+      "text": [
+        "Send proposal follow-up",
+        "LVMH · Global rollout",
+        "Sarah",
+        "2 days overdue"
+      ],
+      "height": 60,
+      "avatar": "Assets/activity-Sarah.png"
+    },
+    {
+      "text": [
+        "Confirm technical requirements",
+        "Stripe · Commerce expansion",
+        "Noah",
+        "1 day overdue"
+      ],
+      "height": 60,
+      "avatar": "Assets/activity-Noah.png"
+    },
+    {
+      "text": [
+        "Today",
+        "4"
+      ],
+      "height": 30
+    },
+    {
+      "text": [
+        "Qualification call",
+        "Disney · New market entry",
+        "James",
+        "10:30 AM"
+      ],
+      "height": 60,
+      "avatar": "Assets/activity-James.png"
+    },
+    {
+      "text": [
+        "Enterprise pilot review",
+        "Apple · Enterprise pilot",
+        "Alex",
+        "11:00 AM"
+      ],
+      "height": 60,
+      "avatar": "Assets/activity-Alex.png"
+    },
+    {
+      "text": [
+        "Review contract terms",
+        "Microsoft · Strategic expansion",
+        "Mark",
+        "2:00 PM"
+      ],
+      "height": 60,
+      "avatar": "Assets/activity-Mark.png"
+    },
+    {
+      "text": [
+        "Prepare solution summary",
+        "Intercom · Enterprise rollout",
+        "Lina",
+        "4:00 PM"
+      ],
+      "height": 60,
+      "avatar": "Assets/activity-Lina.png"
+    },
+    {
+      "text": [
+        "Upcoming",
+        "4"
+      ],
+      "height": 30
+    },
+    {
+      "text": [
+        "Schedule discovery call",
+        "Paypal · Payments platform",
+        "Maria",
+        "Oct 12"
+      ],
+      "height": 60,
+      "avatar": "Assets/activity-Maria.png"
+    },
+    {
+      "text": [
+        "Share partner proposal",
+        "Shopify · Partner rollout",
+        "Emma",
+        "Oct 13"
+      ],
+      "height": 60,
+      "avatar": "Assets/activity-Emma.png"
+    },
+    {
+      "text": [
+        "Regional expansion demo",
+        "Airbnb · Regional expansion",
+        "Drew",
+        "Oct 14"
+      ],
+      "height": 60,
+      "avatar": "Assets/activity-Drew.png"
+    },
+    {
+      "text": [
+        "Send renewal checklist",
+        "Netflix · Mid-market expansion",
+        "Ricky",
+        "Oct 15"
+      ],
+      "height": 60,
+      "avatar": "Assets/activity-Ricky.png"
+    }
+  ],
+  "agenda": [
+    [
+      "10:30",
+      "Qualification call",
+      "Disney",
+      "James Taylor",
+      "30 min"
+    ],
+    [
+      "11:00",
+      "Enterprise pilot review",
+      "Apple",
+      "Alex Santos",
+      "45 min"
+    ],
+    [
+      "14:00",
+      "Review contract terms",
+      "Microsoft",
+      "Mark Darnalds",
+      "30 min"
+    ],
+    [
+      "16:00",
+      "Prepare solution summary",
+      "Intercom",
+      "Lina Wong",
+      "15 min"
+    ]
+  ]
+}

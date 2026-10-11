@@ -1,26 +1,100 @@
 @import "tailwindcss";
-
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+@import "../design-system/sales-crm-dark.css";
+body { margin: 0; background: var(--crm-color-surface); color: var(--crm-color-on-surface); font-family: var(--crm-font-family); }
+button:not(:disabled), select { cursor: pointer; }
+button:disabled { cursor: default; }
+:focus-visible { outline: 2px solid var(--crm-color-primary); outline-offset: 3px; }
+.crm-hit-target { position: relative; touch-action: manipulation; }
+.crm-hit-target::before { content: ""; position: absolute; inset: -4px 0; }
+.crm-contact-checkbox::before { inset: 15px; }
+.crm-table-checkbox::before { inset: 15px; }
+.crm-hit-target[aria-label^="Complete "] {
+ width: 14px;
+ height: 14px;
+ margin-left: 0;
 }
-
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
+.crm-hit-target[aria-label^="Complete "]::before { inset: 0; }
+.crm-hit-target[aria-label^="Complete "]::after {
+ content: "";
+ position: absolute;
+ inset: -15px;
 }
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+button:not(:disabled):hover { filter: brightness(1.12); }
+.opportunities { table-layout: fixed; border-collapse: collapse; width: 100%; min-width: 1000px; }
+.opportunities th { height: 35px; text-align: left; font-size: var(--crm-font-size-label); font-weight: 500; color: var(--crm-color-text-muted); background: var(--crm-color-surface-container-high); }
+.opportunities td { height: var(--crm-size-table-row-detail); border-bottom: 1px solid var(--crm-color-outline-divider); font-size: var(--crm-font-size-link); color: var(--crm-color-text-secondary); }
+.opportunities th:first-child, .opportunities td:first-child { padding-left: 19px; }
+.opportunities th:nth-child(3), .opportunities td:nth-child(3) { text-align: right; padding-right: 52px; }
+.select-item { touch-action: manipulation; }
+.select-item[data-highlighted] { background: var(--crm-color-outline-variant); }
+.crm-toolbar > span.ml-3 { margin-left: 20px; align-items: center; }
+.crm-card-panel > .h-\[39px\] { display: none; }
+.crm-card-panel > p.mt-\[7px\] { display: none; }
+.crm-card-metric span.mt-3 { display: none !important; }
+.crm-workspace > header > div:first-child span.hidden.text-xs.text-crm-text-caption { display: none; }
+.crm-sidebar-motion { transition-timing-function: cubic-bezier(0.23, 1, 0.32, 1); }
+.crm-companies .crm-toolbar { min-height: 49px; padding-top: 8px; padding-bottom: 8px; }
+.crm-companies { overflow: hidden; }
+.crm-page-content .crm-contacts-table [role="region"] { flex: none; height: auto; }
+.crm-page-content .crm-contacts-table [role="region"] table { flex: none !important; height: auto !important; }
+.crm-page-content .crm-contacts-table [role="region"] tbody tr { height: 61px !important; }
+.crm-contacts-table > [role="region"] { padding-bottom: 49px; }
+.crm-split-grid > section[aria-label]:not(.crm-schedule-table) [role="region"] { flex: none; height: auto; }
+.crm-split-grid > section[aria-label]:not(.crm-schedule-table) [role="region"] table { flex: none !important; height: auto !important; }
+.crm-split-grid > section[aria-label]:not(.crm-schedule-table) [role="region"] tbody tr { height: 48px !important; }
+.crm-split-grid > section[aria-label]:not(.crm-schedule-table) [role="region"] tbody td { height: 48px !important; vertical-align: middle; }
+.crm-page-content .crm-fixed-table { flex: none !important; height: auto !important; }
+.crm-page-content .crm-fill-table:not(.crm-schedule-table) [role="region"] { display: block !important; flex: none !important; height: auto !important; }
+.crm-page-content .crm-fill-table:not(.crm-schedule-table) [role="region"] table { flex: none !important; height: auto !important; }
+.crm-page-content .crm-schedule-table > div { flex: 1 !important; display: flex; flex-direction: column; }
+.crm-page-content .crm-schedule-table [role="region"] { display: flex !important; flex-direction: column; flex: 1 !important; height: auto !important; }
+.crm-page-content .crm-schedule-table table { display: grid; grid-template-rows: var(--crm-table-head-height) minmax(0, 1fr); height: auto !important; min-height: 0; flex: 1 !important; }
+.crm-schedule-table colgroup { display: none; }
+.crm-schedule-table thead { display: block; }
+.crm-schedule-table tbody { display: grid; grid-template-rows: repeat(var(--crm-row-count), var(--crm-row-height, 40px)); align-content: start; }
+.crm-schedule-table tr { display: grid; grid-template-columns: var(--crm-table-columns); }
+.crm-schedule-table thead tr { height: 100% !important; }
+.crm-schedule-table th, .crm-schedule-table td { display: flex; align-items: center; min-width: 0; }
+.crm-schedule-table th > div, .crm-schedule-table td > div { max-width: 100%; }
+.crm-page-content .crm-schedule-table tbody tr { height: var(--crm-row-height, 40px) !important; }
+.crm-page-content .crm-schedule-table tbody td { height: auto !important; vertical-align: middle; }
+@media (prefers-reduced-motion: reduce) {
+ .crm-sidebar-motion,
+ .crm-sidebar-motion * { transition-duration: 0.01ms !important; }
 }
-
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+/* Wide screens give data more room without scaling typography or controls. */
+@media (min-width: 1441px) {
+ .crm-sequences-page { height: calc(100dvh - var(--crm-layout-header-height)); min-height: 0; }
+ .crm-sequences-page > .crm-split-grid { min-height: 0; }
+ .crm-sequences-page .crm-schedule-table > div { min-height: 0 !important; }
+ .crm-sequences-page .crm-schedule-table [role="region"] { min-height: 0; }
+ .crm-split-grid { grid-template-columns: minmax(0, 1fr) clamp(var(--crm-layout-panel-aside-width), 20vw, 440px); }
+ .crm-page-content {
+  --crm-row-extra: clamp(0px, calc((100dvh - 1024px) * 0.04), 16px);
+  display: flex;
+  flex-direction: column;
+  min-height: calc(100dvh - var(--crm-layout-header-height));
+ }
+ .crm-page-content.crm-team-overview-page { --crm-row-extra: 0px; }
+ .crm-page-content > * { flex-shrink: 0; }
+ .crm-page-content > :last-child { flex-grow: 1; }
+ .crm-page-content > .crm-split-grid:last-child > section { height: auto; }
+ .crm-page-content > .crm-split-grid:last-child > div { min-height: 100%; }
+ .crm-fill-table,
+ .crm-fill-table > div:has(> [role="region"]) { display: flex; flex-direction: column; }
+ .crm-fill-table > div:has(> [role="region"]) { flex: 1; }
+ .crm-fill-table [role="region"] { display: flex; flex-direction: column; flex: 1; }
+ .crm-fill-table [role="region"] table { flex: 1; }
+ .crm-fill-table thead tr { height: 35px; }
+ .crm-fill-table > :not([role="region"]),
+ .crm-fill-table > div:has(> [role="region"]) > :not([role="region"]) { flex-shrink: 0; }
+ .crm-page-content > :last-child:has(> .crm-fill-table):not(.crm-split-grid) { display: flex; flex-direction: column; }
+ .crm-page-content > :last-child:has(> .crm-fill-table):not(.crm-split-grid) > .crm-fill-table { flex: 1; }
+ .crm-companies { min-height: calc(100dvh - var(--crm-layout-header-height)); }
+ .crm-companies > [role="region"] { flex-grow: 0; }
+ .crm-companies [role="region"] { display: flex; flex: none; flex-direction: column; height: auto; }
+ .crm-companies table { flex: none; height: auto; }
+ .crm-companies th:first-child,
+ .crm-companies td:first-child { padding-left: 24px; vertical-align: middle; }
+ .opportunities td { height: calc(46px + var(--crm-row-extra, 0px)); }
 }

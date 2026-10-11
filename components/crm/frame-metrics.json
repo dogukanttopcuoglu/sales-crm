@@ -1,0 +1,364 @@
+{
+  "activities": [
+    {
+      "label": "Due today",
+      "value": "4",
+      "caption": "2 meetings · 1 call · 1 task",
+      "captionX": 42,
+      "captionColor": "var(--crm-color-palette-cb4b4b4)"
+    },
+    {
+      "label": "Upcoming",
+      "value": "4",
+      "caption": "Next 7 days",
+      "captionX": 42,
+      "captionColor": "var(--crm-color-palette-c999999)"
+    },
+    {
+      "label": "Overdue",
+      "value": "2",
+      "caption": "Needs your attention",
+      "captionX": 42,
+      "captionColor": "var(--crm-color-palette-cd88f94)"
+    },
+    {
+      "label": "Completed",
+      "value": "12",
+      "caption": "This week",
+      "captionX": 50,
+      "captionColor": "var(--crm-color-palette-c80b9a2)"
+    }
+  ],
+  "apac-expansion": [
+    {
+      "label": "Open pipeline",
+      "value": "$2.76M",
+      "caption": "14 opportunities",
+      "captionX": 110,
+      "captionColor": "var(--crm-color-palette-c858585)"
+    },
+    {
+      "label": "Weighted forecast",
+      "value": "$1.38M",
+      "caption": "50% of pipeline",
+      "captionX": 110,
+      "captionColor": "var(--crm-color-palette-c858585)"
+    },
+    {
+      "label": "Closed revenue",
+      "value": "$920K",
+      "caption": "76.7% of $1.2M target",
+      "captionX": 98,
+      "captionColor": "var(--crm-color-palette-c858585)"
+    },
+    {
+      "label": "Win rate",
+      "value": "31.2%",
+      "caption": "+3.1 pts this quarter",
+      "captionX": 98,
+      "captionColor": "var(--crm-color-palette-c858585)"
+    }
+  ],
+  "companies": [],
+  "contacts": [
+    {
+      "label": "Total contacts",
+      "value": "38",
+      "caption": "Across 17 companies",
+      "captionX": 54,
+      "captionColor": "var(--crm-color-palette-c999999)"
+    },
+    {
+      "label": "Decision makers",
+      "value": "12",
+      "caption": "Key buying contacts",
+      "captionX": 42,
+      "captionColor": "var(--crm-color-palette-c999999)"
+    },
+    {
+      "label": "Engaged",
+      "value": "26",
+      "caption": "Active in the last 30 days",
+      "captionX": 42,
+      "captionColor": "var(--crm-color-palette-c80b9a2)"
+    },
+    {
+      "label": "Needs follow-up",
+      "value": "8",
+      "caption": "No touchpoint in 14 days",
+      "captionX": 42,
+      "captionColor": "var(--crm-color-palette-cd0ad7c)"
+    }
+  ],
+  "deals": [],
+  "email-sequences": [
+    {
+      "label": "Active sequences",
+      "value": "3",
+      "caption": "1 paused · 1 draft",
+      "captionX": 42,
+      "captionColor": "var(--crm-color-palette-c999999)"
+    },
+    {
+      "label": "Contacts enrolled",
+      "value": "326",
+      "caption": "Across all sequences",
+      "captionX": 66,
+      "captionColor": "var(--crm-color-palette-c999999)"
+    },
+    {
+      "label": "Reply rate",
+      "value": "16.3%",
+      "caption": "+2.4% this month",
+      "captionX": 90,
+      "captionColor": "var(--crm-color-palette-c80b9a2)"
+    },
+    {
+      "label": "Meetings booked",
+      "value": "28",
+      "caption": "From sequence replies",
+      "captionX": 54,
+      "captionColor": "var(--crm-color-palette-c999999)"
+    }
+  ],
+  "emea-enterprise": [
+    {
+      "label": "Open pipeline",
+      "value": "$3.84M",
+      "caption": "12 opportunities",
+      "captionX": 110,
+      "captionColor": "var(--crm-color-palette-c858585)"
+    },
+    {
+      "label": "Weighted forecast",
+      "value": "$2.11M",
+      "caption": "54.9% of pipeline",
+      "captionX": 110,
+      "captionColor": "var(--crm-color-palette-c858585)"
+    },
+    {
+      "label": "Closed revenue",
+      "value": "$1.24M",
+      "caption": "68.9% of $1.8M target",
+      "captionX": 110,
+      "captionColor": "var(--crm-color-palette-c858585)"
+    },
+    {
+      "label": "Win rate",
+      "value": "34.8%",
+      "caption": "+2.6 pts this quarter",
+      "captionX": 98,
+      "captionColor": "var(--crm-color-palette-c858585)"
+    }
+  ],
+  "forecast": [
+    {
+      "label": "Projected revenue",
+      "value": "$3.45M",
+      "caption": "86.3% of $4M target",
+      "captionX": 108,
+      "captionColor": "var(--crm-color-palette-cddc351)"
+    },
+    {
+      "label": "Closed won",
+      "value": "$880K",
+      "caption": "6 deals closed this quarter",
+      "captionX": 98,
+      "captionColor": "var(--crm-color-palette-c76b69e)"
+    },
+    {
+      "label": "Weighted pipeline",
+      "value": "$2.57M",
+      "caption": "17 open opportunities",
+      "captionX": 108,
+      "captionColor": "var(--crm-color-palette-c9b9b9b)"
+    },
+    {
+      "label": "Open pipeline",
+      "value": "$4.93M",
+      "caption": "1.58× remaining target",
+      "captionX": 108,
+      "captionColor": "var(--crm-color-palette-c9b9b9b)"
+    }
+  ],
+  "mid-market": [
+    {
+      "label": "Closed won",
+      "value": "$1.44M",
+      "caption": "80% of $1.80M quota",
+      "captionX": 108,
+      "captionColor": "var(--crm-color-palette-c999999)"
+    },
+    {
+      "label": "Open pipeline",
+      "value": "$4.86M",
+      "caption": "74 open deals",
+      "captionX": 110,
+      "captionColor": "var(--crm-color-palette-c999999)"
+    },
+    {
+      "label": "Active accounts",
+      "value": "124",
+      "caption": "Managed by 6 account executives",
+      "captionX": 66,
+      "captionColor": "var(--crm-color-palette-c999999)"
+    },
+    {
+      "label": "Average deal size",
+      "value": "$65.7K",
+      "caption": "Across the open pipeline",
+      "captionX": 110,
+      "captionColor": "var(--crm-color-palette-c999999)"
+    }
+  ],
+  "north-america": [
+    {
+      "label": "Open pipeline",
+      "value": "$4.93M",
+      "caption": "17 opportunities",
+      "captionX": 110,
+      "captionColor": "var(--crm-color-palette-c858585)"
+    },
+    {
+      "label": "Weighted forecast",
+      "value": "$2.57M",
+      "caption": "52.2% of pipeline",
+      "captionX": 110,
+      "captionColor": "var(--crm-color-palette-c858585)"
+    },
+    {
+      "label": "Closed revenue",
+      "value": "$1.68M",
+      "caption": "84% of $2M target",
+      "captionX": 110,
+      "captionColor": "var(--crm-color-palette-c858585)"
+    },
+    {
+      "label": "Win rate",
+      "value": "38.4%",
+      "caption": "+4.2 pts this quarter",
+      "captionX": 98,
+      "captionColor": "var(--crm-color-palette-c858585)"
+    }
+  ],
+  "q1-forecast": [
+    {
+      "label": "Projected revenue",
+      "value": "$3.12M",
+      "caption": "78% of $4M target",
+      "captionX": 108,
+      "captionColor": "var(--crm-color-palette-cddc351)"
+    },
+    {
+      "label": "Commit forecast",
+      "value": "$1.82M",
+      "caption": "High-confidence deals",
+      "captionX": 108,
+      "captionColor": "var(--crm-color-palette-c80b9a2)"
+    },
+    {
+      "label": "Best-case forecast",
+      "value": "$1.30M",
+      "caption": "Upside opportunities",
+      "captionX": 108,
+      "captionColor": "var(--crm-color-palette-c999999)"
+    },
+    {
+      "label": "Pipeline coverage",
+      "value": "1.56×",
+      "caption": "$6.24M open pipeline",
+      "captionX": 90,
+      "captionColor": "var(--crm-color-palette-c999999)"
+    }
+  ],
+  "sdr-team": [
+    {
+      "label": "Meetings booked",
+      "value": "86",
+      "caption": "89.6% of 96-meeting target",
+      "captionX": 54,
+      "captionColor": "var(--crm-color-palette-c999999)"
+    },
+    {
+      "label": "Qualified leads",
+      "value": "58",
+      "caption": "67.4% qualification rate",
+      "captionX": 54,
+      "captionColor": "var(--crm-color-palette-c999999)"
+    },
+    {
+      "label": "Pipeline generated",
+      "value": "$1.92M",
+      "caption": "From qualified handoffs",
+      "captionX": 110,
+      "captionColor": "var(--crm-color-palette-c999999)"
+    },
+    {
+      "label": "Meeting show rate",
+      "value": "82.6%",
+      "caption": "71 of 86 meetings attended",
+      "captionX": 98,
+      "captionColor": "var(--crm-color-palette-c999999)"
+    }
+  ],
+  "slipping-deals": [
+    {
+      "label": "Slipping pipeline",
+      "value": "$1.56M",
+      "caption": "Across 6 open deals",
+      "captionX": 110,
+      "captionColor": "var(--crm-color-palette-c999999)"
+    },
+    {
+      "label": "High-risk deals",
+      "value": "3",
+      "caption": "$1.03M needs attention",
+      "captionX": 40,
+      "captionColor": "var(--crm-color-palette-cd88f94)"
+    },
+    {
+      "label": "Average slippage",
+      "value": "8 days",
+      "caption": "Past expected close date",
+      "captionX": 102,
+      "captionColor": "var(--crm-color-palette-c999999)"
+    },
+    {
+      "label": "Actions due today",
+      "value": "3",
+      "caption": "Assigned to deal owners",
+      "captionX": 40,
+      "captionColor": "var(--crm-color-palette-c999999)"
+    }
+  ],
+  "strategic-aes": [
+    {
+      "label": "Closed won",
+      "value": "$2.76M",
+      "caption": "76.7% of $3.60M quota",
+      "captionX": 108,
+      "captionColor": "var(--crm-color-palette-c999999)"
+    },
+    {
+      "label": "Open pipeline",
+      "value": "$8.42M",
+      "caption": "59 open deals",
+      "captionX": 110,
+      "captionColor": "var(--crm-color-palette-c999999)"
+    },
+    {
+      "label": "Pipeline coverage",
+      "value": "2.34×",
+      "caption": "Target 3× · Needs attention",
+      "captionX": 88,
+      "captionColor": "var(--crm-color-palette-cd0ad7c)"
+    },
+    {
+      "label": "Strategic accounts",
+      "value": "42",
+      "caption": "Managed by 6 account executives",
+      "captionX": 52,
+      "captionColor": "var(--crm-color-palette-c999999)"
+    }
+  ]
+}
