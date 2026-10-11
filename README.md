@@ -2,6 +2,8 @@
 
 A responsive sales CRM interface built with Next.js, React, TypeScript, and Tailwind CSS. The app includes dashboards, pipeline views, forecast screens, team performance pages, activity management, contacts, and email sequences.
 
+Live site: [sales-crm.vercel.app](https://sales-e5omlc62k-kartaldogi1903-gmailcoms-projects.vercel.app)
+
 ## Design previews
 
 | Screen | Preview |
